@@ -1,14 +1,23 @@
-title: synchronised-swimming
+---
+title: Synchronised Swimming
 hero_image: images/banner.png
-description: synchronised-swimming description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # all possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # 1, 2 or 3
+description: Celebrate the Olympics by programming a synchronised swimming routine.
+original_url: https://codeclubprojects.org/en-GB/scratch/synchronised-swimming
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "games, jokes/pranks, music/sound, photography, physical computing, robots, space"
-technologies: "electronics, html/css, physical computing, python, scratch"
+interests: ''
+technologies: scratch
 steps:
-  - title: Step one
+- title: Introduction
+- title: Swimming Left and Right
+- title: Changing costume
+- title: Create the team
+- title: Music!
+- title: Programmed Routines
+- title: 'Challenge: Code your own routine'
+- title: 'Challenge: Change the team'
+
