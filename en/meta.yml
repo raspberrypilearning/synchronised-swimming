@@ -1,10 +1,16 @@
 ---
 title: Synchronised Swimming
+hero_image: images/banner.png
 description: Celebrate the Olympics by programming a synchronised swimming routine.
 original_url: https://codeclubprojects.org/en-GB/scratch/synchronised-swimming
+theme: red
+duration: 1
+listed: false
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
 technologies: scratch
-site_areas: codeclub, scratch
 steps:
 - title: Introduction
 - title: Swimming Left and Right
@@ -14,4 +20,5 @@ steps:
 - title: Programmed Routines
 - title: 'Challenge: Code your own routine'
 - title: 'Challenge: Change the team'
+site_areas: codeclub, scratch
 
