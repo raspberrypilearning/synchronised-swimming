@@ -13,6 +13,5 @@ Tip: You can click on the red stop button to stop the music playing!
 --- collapse ---
 ---
 title: Additional information for club leaders
----
-NOTES HERE
+---#{notes}
 --- /collapse ---
