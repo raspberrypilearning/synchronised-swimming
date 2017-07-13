@@ -9,7 +9,7 @@ In celebration of the 2016 Summer Olympics in Rio, you are going to learn how to
 
 Tip: You can click on the red stop button to stop the music playing!
 
-### Additional information for club leaders
+###Additional information for club leaders
 --- collapse ---
 
 ---
