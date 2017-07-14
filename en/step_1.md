@@ -12,7 +12,7 @@ Tip: You can click on the red stop button to stop the music playing!
 ### Additional information for club leaders
 --- collapse ---
 ---
-title: Project notes
+title: Volunteer notes
 ---
 
 
@@ -55,5 +55,15 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 + "Code your own routine" - Use `repeat`{:class="blockcontrol"} code blocks to program a swimming routine;
 + "Change the team" - Change the number of swimmers in the team by changing the number and position of the clones that are created. 
 
+
+--- /collapse ---
+--- collapse ---
+---
+title: Project materials
+---
+
+## Volunteer resources
+* [Online completed Scratch 2 project](http://scratch.mit.edu/projects/113149575/#editor)
+* [Downloadable completed Scratch 2 project](resources/SynchronisedSwimming.sb2)
 
 --- /collapse ---
