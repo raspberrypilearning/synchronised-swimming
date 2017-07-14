@@ -10,6 +10,9 @@ In celebration of the 2016 Summer Olympics in Rio, you are going to learn how to
 Tip: You can click on the red stop button to stop the music playing!
 
 ### Additional information for club leaders
+
+If you need to print this project, please use the [Printer friendly version](./print)
+
 --- collapse ---
 ---
 title: Volunteer notes
@@ -63,6 +66,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 ---
 title: Project materials
 ---
+
 
 ## Volunteer resources
 * [Online completed Scratch 2 project](http://scratch.mit.edu/projects/113149575/#editor)
