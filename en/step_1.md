@@ -15,7 +15,7 @@ If you need to print this project, please use the [Printer friendly version](./p
 
 --- collapse ---
 ---
-title: Volunteer notes
+title: Club leader notes
 ---
 
 
@@ -68,7 +68,7 @@ title: Project materials
 ---
 
 
-## Volunteer resources
+## Club leader resources
 * [Online completed Scratch 2 project](http://scratch.mit.edu/projects/113149575/#editor)
 * [Downloadable completed Scratch 2 project](resources/SynchronisedSwimming.sb2)
 
