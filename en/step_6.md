@@ -1,6 +1,4 @@
-## Programmed Routines
-
-
+## Programmed routines
 
 Would you like to be able to perfect a routine and easily repeat it?
 
