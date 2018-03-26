@@ -1,5 +1,5 @@
 --- challenge ---
-## Challenge: Code your own routine
+## Challenge: code your own routine
 
 Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
 

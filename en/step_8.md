@@ -1,5 +1,5 @@
 --- challenge ---
-## Challenge: Change the team
+## Challenge: change the team
 
 Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four. 
 

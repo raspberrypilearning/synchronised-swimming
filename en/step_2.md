@@ -1,10 +1,8 @@
-## Swimming Left and Right
+## Swimming left and right
 
 In synchronised swimming a team of swimmers perform a coordinated routine of moves to music. 
 
 Let's start by getting one cat swimming. 
-
-
 
 + Create a new Scratch project. You can find the online Scratch editor at <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
 
