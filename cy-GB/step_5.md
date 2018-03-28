@@ -14,7 +14,7 @@ Mae nofio cydamserol angen cerddoriaeth felly awn ni ati i ychwanegu peth.
 
 	![screenshot](images/swim-play.png)
 	
-	Mae gosod 'chwarae sain' {.blocksound} o fewn dolen 'am byth' {.blockcontrol} yn golygu bydd y gerddoriaeth yn cadw ailadrodd.
+	Mae gosod `chwarae sain`{:class="blocksound"} o fewn dolen `am byth`{:class="blockcontrol"} yn golygu bydd y gerddoriaeth yn cadw ailadrodd.
 
 + Profa dy brosiect. 
 
