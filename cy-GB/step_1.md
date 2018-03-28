@@ -9,6 +9,11 @@ Rwyt ti mynd i ddysgu sut i raglenni cyfres o symudiadau nofio cydamserol ar gyf
 
 Fe alli di glicio ar y botwm coch i stopio'r gerddoriaeth!
 
+--- collapse ---
+---
+title: Nodiadau i Wirfoddolwyr
+---
+
 ## Adnoddau
 
 Mae modd dod o hyd i gyfarwyddiadau'r prosiect yma [jumpto.cc/swim](http://jumpto.cc/swim). 
@@ -37,3 +42,5 @@ Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llaf
 ## Heriau
 + "Codio trefn dy hunan" - Defnyddio bloc `ailadrodd`{:class="blockcontrol"} i raglenni trefn nofio penodol; 
 + "Newid y tîm" - Newid nifer y nofwyr yn y tîm trwy newid y nifer a safle o gloniau sydd yn cael eu creu.
+
+--- collapse ---
