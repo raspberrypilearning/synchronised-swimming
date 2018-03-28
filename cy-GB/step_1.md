@@ -35,5 +35,5 @@ Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llaf
 + [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Heriau
-+ "Codio trefn dy hunan" - Defnyddio bloc 'ailadrodd' {.blockcontrol} i raglenni trefn nofio penodol; 
++ "Codio trefn dy hunan" - Defnyddio bloc `ailadrodd`{:class="blockcontrol"} i raglenni trefn nofio penodol; 
 + "Newid y tîm" - Newid nifer y nofwyr yn y tîm trwy newid y nifer a safle o gloniau sydd yn cael eu creu.
