@@ -5,7 +5,7 @@ Wyt ti'n gallu ysgrifennu trefn nofio cydamserol dy hunan i gael ei berfformio p
 
 Ceisia greu tren yn defnyddio'r saethau gyntaf. 
 
-Defnyddia dolennu 'ailadrodd' {.blockcontrol} i berfformio'r un symudiadau sawl gwaith.
+Defnyddia dolennu `ailadrodd`{:class="blockcontrol"} i berfformio'r un symudiadau sawl gwaith.
 
 Dyma enghraifft:
 
