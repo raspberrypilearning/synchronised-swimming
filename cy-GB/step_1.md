@@ -28,7 +28,7 @@ Mae modd gweld y prosiect wedi ei gwblhau yma <a href="http://scratch.mit.edu/pr
 Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 2 arlein yma [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) neu mae modd ei lawrlwytho yma [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) a'i ddefnyddio heb gysylltiad gwe.
 
 ## Nodau Dysgu
-+ Ailadrodd (y bloc 'ailadrodd {.blockcontrol}). 
++ Ailadrodd (y bloc `ailadrodd`{:class="blockcontrol"}). 
 
 Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
 
