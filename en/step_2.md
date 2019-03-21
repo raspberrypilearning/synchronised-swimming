@@ -19,11 +19,13 @@ First let's turn the stage blue so it looks like a swimming pool.
 
 --- task ---
 
-Click on the Stage and then the `Backdrops` Tab and 'Convert to Bitmap'.
+Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
 
 ![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
 
 --- /task ---
+
+--- task ---
 
 Select a blue colour and the 'Fill with color' tool and then click on the backdrop. 
 
