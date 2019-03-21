@@ -15,13 +15,19 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 --- /task ---
 
---- task ---
-
 First let's turn the stage blue so it looks like a swimming pool. 
 
-+ Click on the Stage and then the `Backdrops` Tab. 
-+ Choose a blue colour from the palette, click the 'Fill with color' tool and then click on the backdrop. 
-	![backdrops tab and fill tool selected](images/swim-fill.png)
+--- task ---
+
+Click on the Stage and then the `Backdrops` Tab and 'Convert to Bitmap'.
+
+![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
+
+--- /task ---
+
+Select a blue colour and the 'Fill with color' tool and then click on the backdrop. 
+
+![backdrops tab and fill tool selected](images/swim-fill.png)
 
 --- /task ---
 
@@ -39,7 +45,7 @@ Choose the `Cat Flying` sprite from the library and add it to your project.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat1 Flying sprite highlighted](images/swim-sprite.png)
+![Cat Flying sprite highlighted](images/swim-sprite.png)
 
 The flying cat looks like it could be swimming. 
 
