@@ -2,34 +2,61 @@
 
 Hmm, this would look better if the cat sprite changed direction when it turns left. 
 
+--- task ---
 
+Click on 'Costumes' and delete the 'cat1 flying-a' costume.
 
-+ Click on 'Costumes' and delete the 'cat1 flying-a' costume.
+![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png) 
 
-	![screenshot](images/swim-delete-a.png) 
-	
-+ Rename the remaining costume from 'cat1 flying-b' to 'right'. 
+--- /task ---
 
-	![screenshot](images/swim-costume-right.png)
+--- task ---
 
-+ Right-click on the costume and choose duplicate to create a copy. 
+Rename the remaining costume from 'cat1 flying-b' to 'right'. 
 
-	![screenshot](images/swim-costume-duplicate.png)
+![name right highlighted in costumes tab](images/swim-costume-right.png)
 
-+ Click 'Flip left-right' to reverse the copy and then name it 'left'. 
+--- /task ---
 
-	Your costumes should look like this:
+--- task ---
 
-	![screenshot](images/swim-costume-left.png)
+Right-click on the costume and choose duplicate to create a copy. 
 
-+ Click 'Scripts' to return to your code and add blocks to change the costume when the direction is changed. 
+![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
 
-	![screenshot](images/swim-change-costume.png)
+--- /task ---
 
-+ Test your code by swimming around the stage using the arrow keys. 
+--- task ---
 
-	![screenshot](images/swim-test-left.png)
+Click 'Flip left-right' to reverse the copy and then name it 'left'. 
 
+Your costumes should look like this:
 
+![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
 
+--- /task ---
 
+--- task ---
+
+Click 'Scripts' to return to your code and add blocks to change the costume when the direction is changed. 
+
+![swimmer sprite](images/swimmer-sprite.png)
+
+```blocks
+when [left arrow v] key pressed
++switch costume to [left v]
+turn ccw (15) degrees
+
+when [right arrow v] key pressed
++switch costume to [right v]
+turn cw (15) degrees
+```
+--- /task ---
+
+--- task ---
+
+Test your code by swimming around the stage using the arrow keys. 
+
+![sprite facing left](images/swim-test-left.png)
+
+--- /task ---

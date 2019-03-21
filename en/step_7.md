@@ -1,4 +1,3 @@
---- challenge ---
 ## Challenge: code your own routine
 
 Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
@@ -9,8 +8,18 @@ Use `repeat`{:class="blockcontrol"} loops to perform the same actions multiple t
 
 Here's an example:
 
-![screenshot](images/swim-challenge.png)
+![swimmer sprite](images/swimmer-sprite.png)
 
+```blocks
+when [m v] key pressed
+repeat (8)
+	turn cw (45) degrees
+	repeat (20)
+		move (5) steps
+	end
+	repeat (20)
+		move (-5) steps
+	end
+end
+```
 
-
---- /challenge ---
