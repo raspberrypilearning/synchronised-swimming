@@ -8,9 +8,9 @@ Let's add some moves to be performed when the space key is pressed.
 
 ![swimmer sprite](images/swimmer-sprite.png)
 
-```blocks
+```blocks3
 when [space v] key pressed
-switch costume to [right v]
+switch costume to (right v)
 repeat (36)
 turn cw (10) degrees
 move (10) steps

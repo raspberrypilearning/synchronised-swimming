@@ -27,7 +27,7 @@ First let's turn the stage blue so it looks like a swimming pool.
 
 --- task ---
 
-You're going to use a different cat sprite so right-click on the walking cat to delete it. 
+You're going to use a different cat sprite so click on the cross on the walking cat to delete it. 
 
 ![delete menu selected](images/swim-delete.png)
 
@@ -35,9 +35,9 @@ You're going to use a different cat sprite so right-click on the walking cat to 
 
 --- task ---
 
-Choose the `Cat1 Flying` sprite from the library and add it to your project.
+Choose the `Cat Flying` sprite from the library and add it to your project.
 
-[[[generic-scratch-sprite-from-library]]]
+[[[generic-scratch3-sprite-from-library]]]
 
 ![Cat1 Flying sprite highlighted](images/swim-sprite.png)
 
@@ -49,11 +49,11 @@ The flying cat looks like it could be swimming.
 
 Now let's get the cat swimming. 
 
-Select the 'Cat1 flying' sprite, click 'Scripts' and add the code to make the cat rotate left and right when you press the left and right arrow keys. 
+Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys. 
 
 ![swimmer sprite](images/swimmer-sprite.png)
 
-```blocks
+```blocks3
 when [left arrow v] key pressed
 turn ccw (15) degrees
 
@@ -77,7 +77,7 @@ And add the code for the forward and backward movement.
 
 ![swimmer sprite](images/swimmer-sprite.png)
 
-```blocks
+```blocks3
 when [up arrow v] key pressed
 move (10) steps
 

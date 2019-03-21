@@ -4,7 +4,7 @@ Hmm, this would look better if the cat sprite changed direction when it turns le
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat1 flying-a' costume.
+Click on 'Costumes' and delete the 'cat flying-a' costume.
 
 ![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png) 
 
@@ -12,7 +12,7 @@ Click on 'Costumes' and delete the 'cat1 flying-a' costume.
 
 --- task ---
 
-Rename the remaining costume from 'cat1 flying-b' to 'right'. 
+Rename the remaining costume from 'cat flying-b' to 'right'. 
 
 ![name right highlighted in costumes tab](images/swim-costume-right.png)
 
@@ -28,7 +28,7 @@ Right-click on the costume and choose duplicate to create a copy.
 
 --- task ---
 
-Click 'Flip left-right' to reverse the copy and then name it 'left'. 
+Click 'Flip Horizontal' to reverse the copy and then name it 'left'. 
 
 Your costumes should look like this:
 
@@ -38,17 +38,17 @@ Your costumes should look like this:
 
 --- task ---
 
-Click 'Scripts' to return to your code and add blocks to change the costume when the direction is changed. 
+Click 'Code' to return to your code and add blocks to change the costume when the direction is changed. 
 
 ![swimmer sprite](images/swimmer-sprite.png)
 
-```blocks
+```blocks3
 when [left arrow v] key pressed
-+switch costume to [left v]
++switch costume to (left v)
 turn ccw (15) degrees
 
 when [right arrow v] key pressed
-+switch costume to [right v]
++switch costume to (right v)
 turn cw (15) degrees
 ```
 --- /task ---

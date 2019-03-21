@@ -4,13 +4,13 @@ Can you write your own synchronised swimming routine to be performed when you pr
 
 Try working out a routine using the arrow keys first. 
 
-Use `repeat`{:class="blockcontrol"} loops to perform the same actions multiple times. 
+Use `repeat`{:class="block3control"} loops to perform the same actions multiple times. 
 
 Here's an example:
 
 ![swimmer sprite](images/swimmer-sprite.png)
 
-```blocks
+```blocks3
 when [m v] key pressed
 repeat (8)
 	turn cw (45) degrees
