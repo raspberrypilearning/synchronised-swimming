@@ -2,23 +2,38 @@
 
 A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
 
+--- task ---
 
+Choose a sound from the `Loops` category and add it to your sprite.
 
-+ Click on the `Sounds` tab and then click 'Choose new sound from library'. 
+[[[generic-scratch3-sound-from-library]]]
 
-	![screenshot](images/swim-sounds.png)
+![dance around sound selected in sounds library](images/swim-dance.png)
 
-+ Choose 'Music Loops' and choose some music and then click 'OK'. 
+--- /task ---
 
-	![screenshot](images/swim-dance.png)
+--- task ---
 
-+ Now go back to 'Scripts' and add the blocks to play your music: 
+Now go back to 'Code' and add the blocks to play your music: 
 
-	![screenshot](images/swim-play.png)
+![swimmer sprite](images/swimmer-sprite.png)
+
+```blocks3
+when green flag clicked
+forever
+play sound (dance around v) until done
+end
+```
 	
-	Putting the `play sound`{:class="blocksound"} inside a `forever`{:class="blockcontrol"} loop means the music will keep repeating. 
+Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating. 
 
-+ Test your project. 
+--- /task ---
 
-	You can click on the red stop button to stop the music playing!
+--- task ---
+
+Test your project. 
+
+You can click on the red stop button to stop the music playing!
+
+--- /task ---
 
