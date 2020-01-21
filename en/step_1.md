@@ -30,7 +30,6 @@ Tip: You can click on the red stop button to stop the music playing!
 --- /print-only ---
 
 --- collapse ---
-
 ---
 title: What you will need
 ---
@@ -46,10 +45,10 @@ title: What you will need
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: What you will learn
 ---
+
 - Use clones to create many sprites all the same
 - Use key pressed events to move sprites 
 
