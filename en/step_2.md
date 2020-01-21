@@ -5,6 +5,7 @@ In synchronised swimming a team of swimmers perform a coordinated routine of mov
 Let's start by getting one cat swimming. 
 
 --- task ---
+
 Open a new Scratch project.
 
 **Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
