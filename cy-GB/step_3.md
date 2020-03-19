@@ -1,33 +1,63 @@
-## Newid gwisg
+## Changing costume
 
-Fe all hyn edrych yn well os yw ciplun y gath yn newid cyfeiriad pan mae'n troi i'r dde.
+Hmm, this would look better if the cat sprite changed direction when it turns left.
 
-+ Clicia 'Gwisgoedd' a dileu gwisg 'cat1 flying-a'.
+--- task ---
 
-	![screenshot](images/swim-delete-a.png) 
-	
-+ Ail-enwa'r wisg sydd yn weddill yn 'dde'.
+Click on 'Costumes' and delete the 'cat flying-a' costume.
 
-	![screenshot](images/swim-costume-right.png)
+![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
 
-+ Gwna clic-dde ar y wisg a dewis dyblygu i greu copi.
+--- /task ---
 
-	![screenshot](images/swim-costume-duplicate.png)
+--- task ---
 
-+ Clicia 'Fflipio chwith-dde' i droi'r copi a'i alw yn 'chwith'.
+Rename the remaining costume from 'cat flying-b' to 'right'.
 
-	Fe ddylai dy wisg edrych fel hyn:
+![name right highlighted in costumes tab](images/swim-costume-right.png)
 
-	![screenshot](images/swim-costume-left.png)
+--- /task ---
 
-+ Clicia 'Sgriptiau' i fynd yn ôl i dy gôd ac ychwanegu blociau i neud y wisg pan mae'r cyfeiriad yn newid.
+--- task ---
 
-	![screenshot](images/swim-change-costume.png)
+Right-click on the costume and choose duplicate to create a copy.
 
-+ Profa dy gôd gan nofio o gwmpas y llwyfan yn defnyddio'r saethau.
+![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
 
-	![screenshot](images/swim-test-left.png)
+--- /task ---
 
+--- task ---
 
+Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
 
+Your costumes should look like this:
 
+![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
+
+--- /task ---
+
+--- task ---
+
+Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
+
+![swimmer sprite](images/swimmer-sprite.png)
+
+```blocks3
+when [left arrow v] key pressed
++switch costume to (left v)
+turn ccw (15) degrees
+
+when [right arrow v] key pressed
++switch costume to (right v)
+turn cw (15) degrees
+```
+
+--- /task ---
+
+--- task ---
+
+Test your code by swimming around the stage using the arrow keys.
+
+![sprite facing left](images/swim-test-left.png)
+
+--- /task ---
