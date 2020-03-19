@@ -1,25 +1,70 @@
-## Creu'r tîm
+## Create the team
 
-Mae tîm nofio cydamserol angen mwy nag un cath! Fe allwn ni ddefnyddio `creu clôn o`{:class="blockcontrol"} i greu copïau sydd yn ymddwyn yn yr un ffordd.
+Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
 
-+ Yn gyntaf, fe wnawn ni ychwanegu côd i sicrhau fod y gath yn cychwyn yn yr un man bob tro mae'r faner werdd yn cael ei dewis.
+--- task ---
 
-	![screenshot](images/swim-start.png)
-	
-+ Profa dy gôd trwy wasgu rhai saethau ar dy fysellfwrdd ac yna clicio'r faner werdd i fynd ôl i'r man cychwyn.
+First let's add code to make sure the cat always starts in the same position when you click the green flag.
 
-+ Nawr allwn ni ddefnyddio dolen `ailadrodd`{:class="blockcontrol"} i greu 6 clôn (copïau) o'r gath.
+![swimmer sprite](images/swimmer-sprite.png)
 
-	Mae dolennau yn cael eu defnyddio i wneud yr un peth sawl gwaith. 
-	
-	![screenshot](images/swim-clone.png)
+```blocks3
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
+```
 
-+ Dwyt ti ddim eisiau'r holl gathod yn yr un safle!
+--- /task ---
 
-	Ychwanega gôd i droi 60 gradd cyn creu pob clôn.
-	
-	![screenshot](images/swim-clones-rotate.png)
-	
-+  Profa dy gôd gan ddefnyddio'r saethau. Fe ddylet allu creu patrymau nofio cydamserol anhygoel!
+--- task ---
 
-	![screenshot](images/swim-test-clones.png)
+Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+
+--- /task ---
+
+--- task ---
+
+Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+
+![swimmer sprite](images/swimmer-sprite.png)
+
+```blocks3
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
++repeat (6)
+create clone of (myself v)
+end
+```
+
+Loops are used to do the same thing multiple times.
+
+--- /task ---
+
+--- task ---
+
+You don't want all the cats to be in the same position!
+
+Add code to rotate 60 degrees before creating each clone.
+
+![swimmer sprite](images/swimmer-sprite.png)
+
+```blocks3
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
+repeat (6)
++turn cw (60) degrees
+create clone of (myself v)
+end
+```
+
+--- /task ---
+
+--- task ---
+
+ Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+
+![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+
+--- /task ---
