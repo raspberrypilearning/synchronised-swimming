@@ -1,46 +1,70 @@
-## Cyflwyniad
+--- no-print ---
 
-Rwyt ti mynd i ddysgu sut i raglenni cyfres o symudiadau nofio cydamserol ar gyfer cath Scratch gan ddefnyddio dolennu a chreu cloniau. 
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+
+--- /no-print ---
+
+## Introduction
+
+You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+
+### What you will make
+
+--- no-print ---
+
+Use the arrow keys to move the swimmers.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
   <img src="images/swim-final.png">
 </div>
 
-Fe alli di glicio ar y botwm coch i stopio'r gerddoriaeth!
+Tip: You can click on the red stop button to stop the music playing!
+
+--- /no-print ---
+
+--- print-only ---
+
+![complete project](images/swim-final.png)
+
+--- /print-only ---
 
 --- collapse ---
 ---
-title: Nodiadau i Wirfoddolwyr
+title: What you will need
 ---
 
-## Adnoddau
+### Hardware
 
-Mae modd dod o hyd i gyfarwyddiadau'r prosiect yma [jumpto.cc/swim](http://jumpto.cc/swim). 
++ A computer capable of running Scratch
 
-Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 2 arlein yma [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) neu mae modd ei lawrlwytho yma [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) a'i ddefnyddio heb gysylltiad gwe.
+### Software
 
-Mae'r ddolen 'Adnoddau Prosiect' ar gyfer y prosiect yma yn cynnwys yr adnoddau canlynol:
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-## Adnoddau i Wirfoddolwyr
+--- /collapse ---
 
-Mae modd gweld y prosiect wedi ei gwblhau yma <a href="http://scratch.mit.edu/projects/113149575/#editor">online</a>, neu mae modd ei lawrlwytho wrth glicio ar ddolen 'Adnoddau'r Prosiect' ar gyfer y prosiect yma, sydd yn cynnwys:
+--- collapse ---
+---
+title: What you will learn
+---
 
-+ SynchronisedSwimming.sb2
+- Use clones to create many sprites all the same
+- Use key pressed events to move sprites
 
-## Adnoddau'r Prosiect
+--- /collapse ---
 
-Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 2 arlein yma [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) neu mae modd ei lawrlwytho yma [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) a'i ddefnyddio heb gysylltiad gwe.
+--- collapse ---
+---
+title: Additional information for educators
+---
 
-## Nodau Dysgu
-+ Ailadrodd (y bloc `ailadrodd`{:class="blockcontrol"}). 
+--- no-print ---
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
 
-+ [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
+--- /no-print ---
 
-## Heriau
-+ "Codio trefn dy hunan" - Defnyddio bloc `ailadrodd`{:class="blockcontrol"} i raglenni trefn nofio penodol; 
-+ "Newid y tîm" - Newid nifer y nofwyr yn y tîm trwy newid y nifer a safle o gloniau sydd yn cael eu creu.
+You can find the [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
