@@ -1,47 +1,103 @@
-## Nofio i'r Chwith ac i'r Dde
+## Swimming left and right
 
-I nofio yn gydamserol mae tîm o nofwyr yn perfformio cyfuniad o symudiadau yr un pryd i gerddoriaeth.
+In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
 
-Fe wnawn ni ddechrau trwy gael un cath i nofio. 
+Let's start by getting one cat swimming.
 
-+ Bydd angen creu prosiect Scratch newydd. Fe alli di ddod o hyd i'r golygydd Scratch arlein yma <a href="http://jumpto.cc/scratch-new" target="_blank">jumpto.cc/scratch-new</a>.
+--- task ---
 
-+ Yn gyntaf, fe wnawn ni droi y llwyfan yn las fel ei fod yn edrych fel pwll nofio.
+Open a new Scratch project.
 
-	Clicia'r Llwyfan a gwasga'r tab 'Cefndiroedd'.
-	
-	Dewisa liw glas a chlicia'r teclyn 'Llenwi â lliw' cyn clicio'r cefndir.
+**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
 
-	![screenshot](images/swim-fill.png)
+**Offline**: open a new project in the offline editor.
 
-+ Rwyt ti mynd i ddefnyddio ciplun cath gwahanol felly gwna clic-dde ar y gath i'w ddileu.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-	![screenshot](images/swim-delete.png)
+--- /task ---
 
-+ Nawr dewisa 'Dewis ciplun o'r rhestr'.
+First let's turn the stage blue so it looks like a swimming pool.
 
-	![screenshot](images/swim-sprite-library.png)
+--- task ---
 
-+ Dewisa 'Anifeiliaid' a 'Cat1 Flying' a chlicio 'Iawn'.
+Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
 
-	![screenshot](images/swim-sprite.png)
+![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
 
-	Mae'r gath sydd yn hedfan yn edrych fel gallai fod yn nofio.
- 
-+ Nawr awn ni ati i wneud i'r gath nofio.
+--- /task ---
 
-	Clicia ar giplun 'Cat1 flying' ac yna 'Sgriptiau' ac ychwanegu côd sydd yn gwneud i'r gath gylchdroi i'r chwith a dde pan wyt ti'n gwasgu'r saethau ar y bysellfwrdd. 
-	
-	![screenshot](images/swim-rotate.png)
-	
-	
-+ Profa dy gôd gan wasgu ar y saethau chwith a dde ar y bysellfwrdd.
+--- task ---
 
-	![screenshot](images/swim-right.png)
+Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
 
-+ Ac ychwanega symudiad ymlaen ac yn ôl:
+![backdrops tab and fill tool selected](images/swim-fill.png)
 
-	![screenshot](images/swim-move.png)
+--- /task ---
 
+--- task ---
 
-+ Profa dy gôd gan nofio o gwmpas y llwyfan yn defnyddio'r saethau.
+You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+
+![delete menu selected](images/swim-delete.png)
+
+--- /task ---
+
+--- task ---
+
+Choose the `Cat Flying` sprite from the library and add it to your project.
+
+[[[generic-scratch3-sprite-from-library]]]
+
+![Cat Flying sprite highlighted](images/swim-sprite.png)
+
+The flying cat looks like it could be swimming.
+
+--- /task ---
+
+--- task ---
+
+Now let's get the cat swimming.
+
+Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+
+![swimmer sprite](images/swimmer-sprite.png)
+
+```blocks3
+when [left arrow v] key pressed
+turn ccw (15) degrees
+
+when [right arrow v] key pressed
+turn cw (15) degrees
+```
+
+--- /task ---
+
+--- task ---
+
+Test your code by pressing the left and right arrow keys on the keyboard.
+
+![cat sprite rotated right](images/swim-right.png)
+
+--- /task ---
+
+--- task ---
+
+And add the code for the forward and backward movement.
+
+![swimmer sprite](images/swimmer-sprite.png)
+
+```blocks3
+when [up arrow v] key pressed
+move (10) steps
+
+when [down arrow v] key pressed
+move (-10) steps 
+```
+
+--- /task ---
+
+--- task ---
+
+Test your code by swimming around the stage using the arrow keys.
+
+--- /task ---
