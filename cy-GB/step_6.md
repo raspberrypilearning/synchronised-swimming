@@ -1,16 +1,33 @@
-## Rhaglenni'r drefn
+## Programmed routines
 
-A fyddet ti'n hoffi creu'r drefn berffaith a'i ailadrodd yn hawdd?
+Would you like to be able to perfect a routine and easily repeat it?
 
-+ Fe wnawn ni ychwanegu symudiadau i gael eu perfformio pan mae'r bylchwr yn cael ei wasgu.
+--- task ---
 
-	![screenshot](images/swim-space.png)
+Let's add some moves to be performed when the space key is pressed.
 
-+ Cychwyna dy brosiect a gwasga'r bylchwr i brofi'r drefn newydd.
+![swimmer sprite](images/swimmer-sprite.png)
 
-	![screenshot](images/swim-routine.png)
+```blocks3
+when [space v] key pressed
+switch costume to (right v)
+repeat (36)
+turn cw (10) degrees
+move (10) steps
+end
+```
 
-+ Ceisia ddefnyddio'r saethau i symud i safleoedd gwahanol cyn gwasgu'r bylchwr.
+--- /task ---
+
+--- task ---
+
+Run your project and press the space key to test the new routine.
+
+![sprites swimming around](images/swim-routine.png)
+
+Try using the arrow keys to move to a different position before pressing space.
+
+--- /task ---
 
 
 
