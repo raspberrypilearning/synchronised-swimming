@@ -1,22 +1,39 @@
-## Cerddoriaeth!
+## Music!
 
-Mae nofio cydamserol angen cerddoriaeth felly awn ni ati i ychwanegu peth.
+A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
 
-+ Clicia'r tab 'Seiniau' ac yna 'Dewis sain o'r rhestr'. 
+--- task ---
 
-	![screenshot](images/swim-sounds.png)
+Choose a sound from the `Loops` category and add it to your sprite.
 
-+ Clicia 'Cylchoedd Sain' a dewis cerddoriaeth a gwasgu 'Iawn'.		
+[[[generic-scratch3-sound-from-library]]]
 
-	![screenshot](images/swim-dance.png)
+![dance around sound selected in sounds library](images/swim-dance.png)
 
-+ Nawr cer yn ôl i 'Sgriptiau' ac ychwanegu blociau i chwarae dy gerddoriaeth:
+--- /task ---
 
-	![screenshot](images/swim-play.png)
-	
-	Mae gosod `chwarae sain`{:class="blocksound"} o fewn dolen `am byth`{:class="blockcontrol"} yn golygu bydd y gerddoriaeth yn cadw ailadrodd.
+--- task ---
 
-+ Profa dy brosiect. 
+Now go back to 'Code' and add the blocks to play your music:
 
-	Fe alli di glicio ar y botwm coch i stopio'r gerddoriaeth!
+![swimmer sprite](images/swimmer-sprite.png)
+
+```blocks3
+when green flag clicked
+forever
+play sound (dance around v) until done
+end
+```
+
+Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating.
+
+--- /task ---
+
+--- task ---
+
+Test your project.
+
+You can click on the red stop button to stop the music playing!
+
+--- /task ---
 
