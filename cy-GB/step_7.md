@@ -1,15 +1,25 @@
---- challenge ---
-## Her: Codio dy drefn dy hunan 
+## Challenge: code your own routine
 
-Wyt ti'n gallu ysgrifennu trefn nofio cydamserol dy hunan i gael ei berfformio pan wyt ti'n gwasgu'r bylchwr neu allwedd arall?
+Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
 
-Ceisia greu tren yn defnyddio'r saethau gyntaf. 
+Try working out a routine using the arrow keys first.
 
-Defnyddia dolennu `ailadrodd`{:class="blockcontrol"} i berfformio'r un symudiadau sawl gwaith.
+Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
 
-Dyma enghraifft:
+Here's an example:
 
-![screenshot](images/swim-challenge.png)
+![swimmer sprite](images/swimmer-sprite.png)
 
+```blocks3
+when [m v] key pressed
+repeat (8)
+    turn cw (45) degrees
+    repeat (20)
+        move (5) steps
+    end
+    repeat (20)
+        move (-5) steps
+    end
+end
+```
 
---- /challenge ---
