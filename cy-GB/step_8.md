@@ -1,17 +1,23 @@
---- challenge ---
-## Her: Newid y tîm 
+## Challenge: change the team
 
-Wyt ti'n gallu newid faint o nofwyr sydd yn y tîm? Mae gan dimoedd nofio cydamserol wyth aelod fel arfer ond mae modd cael cyn lleied â phedwar yn y tîm.
+Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four.
 
-Awgrym: Yn ogystal â newid y nifer o nofwyr bydd angen i ti newid eu mannau cychwyn. 
+![8 cat swimmers in the team](images/swim-eight.png)
 
-Awgrym: 360 wedi rhannu â 8 yw 45; 460 wedi rhannu â 4 yw 90.
+--- hints ---
 
-![screenshot](images/swim-eight.png)
+--- hint ---
 
-Fe alli di hefyd newid y ciplun rwyt ti'n ei ddefnyddio.
+As well as changing the number of swimmers you'll need to change their starting position.
 
+--- /hint ---
 
+--- hint ---
 
+360 divided by 8 is 45; 360 divided by 4 is 90.
 
---- /challenge ---
+--- /hint ---
+
+--- /hints ---
+
+You could also change the sprite that you use. 
