@@ -19,7 +19,7 @@ Ga nu terug naar 'Code' en voeg de blokken toe om je muziek af te spelen:
 ![zwemmer sprite](images/swimmer-sprite.png)
 
 ```blocks3
-wanneer op de groene vlag wordt geklikt
+when green flag clicked
 herhaal
 start geluid (dance around v) en wacht
 einde

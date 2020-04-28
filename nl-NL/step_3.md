@@ -12,7 +12,7 @@ Klik op 'Uiterlijken' en verwijder het 'cat flying-a' uiterlijk.
 
 --- task ---
 
-Wijzig de naam van het overgebleven uiterlijk van 'cat flying-b' naar 'right'.
+Wijzig de naam van het overgebleven uiterlijk van 'cat flying-b' naar 'rechts'.
 
 ![naam right gemarkeerd op het tabblad uiterlijken](images/swim-costume-right.png)
 
@@ -48,7 +48,7 @@ wanneer [pijltje links v] is ingedrukt
 draai (15) graden naar links
 
 wanneer [pijltje rechts v] is ingedrukt
-+ verander uiterlijk naar (right v)
++ verander uiterlijk naar (rechts v)
 draai (15) graden naar rechts
 ```
 

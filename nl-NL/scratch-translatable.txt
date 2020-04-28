@@ -1,3 +1,3 @@
-right
+rechts
 
-left
+links

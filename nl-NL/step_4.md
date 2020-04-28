@@ -9,7 +9,7 @@ Laten we eerst code toevoegen om ervoor te zorgen dat de kat altijd op dezelfde 
 ![zwemmer sprite](images/swimmer-sprite.png)
 
 ```blocks3
-wanneer op de groene vlag wordt geklikt
+when green flag clicked
 ga naar x: (0) y: (0)
 richt naar (90 v) graden
 ```
@@ -29,7 +29,7 @@ Nu kunnen we een lus `herhaal`{:class="block3control"} gebruiken om 6 klonen (ko
 ![zwemmer sprite](images/swimmer-sprite.png)
 
 ```blocks3
-wanneer op de groene vlag wordt geklikt
+when green flag clicked
 ga naar x: (0) y: (0)
 richt naar (90 v) graden
 + herhaal (6)
@@ -50,7 +50,7 @@ Voeg code toe om 60 graden te draaien voordat je een kloon maakt.
 ![zwemmer sprite](images/swimmer-sprite.png)
 
 ```blocks3
-wanneer op de groene vlag wordt geklikt
+when green flag clicked
 ga naar x: (0) y: (0)
 richt naar (90 v) graden
 herhaal (6)
