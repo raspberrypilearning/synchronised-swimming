@@ -1,10 +1,10 @@
-## Changing costume
+## تغيير المظهر
 
-Hmm, this would look better if the cat sprite changed direction when it turns left.
+ممم، سيكون هذا أفضل إذا تغير إتجاه الكائن القط عندما يستدير إلى اليسار.
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat flying-a' costume.
+انقر على "المظاهر" واحذف مظهر"القط الطائر-أ".
 
 ![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
 
@@ -12,7 +12,7 @@ Click on 'Costumes' and delete the 'cat flying-a' costume.
 
 --- task ---
 
-Rename the remaining costume from 'cat flying-b' to 'right'.
+إعادة تسمية المظهر المتبقي من "القط الطائر-ب" إلى "يمين".
 
 ![name right highlighted in costumes tab](images/swim-costume-right.png)
 
