@@ -63,11 +63,11 @@
 ![तैराक स्प्राइट](images/swimmer-sprite.png)
 
 ```blocks3
-जब [बायाँ तीर v] बटन दबाया जाये 
-ccw को (15) डिग्री से घुमायें 
+when [left arrow v] key pressed
+turn ccw (15) degrees
 
-जब [दायें एरो v] बटन दबाया जाये
-cw को (15) डिग्री से घुमायें 
+when [right arrow v] key pressed
+turn cw (15) degrees
 ```
 
 --- /task ---
@@ -87,11 +87,11 @@ cw को (15) डिग्री से घुमायें
 ![तैराक स्प्राइट](images/swimmer-sprite.png)
 
 ```blocks3
-जब [ऊपर तीर v] बटन दबाया जाये 
-चाल को (10) चरण हिलाये 
+when [up arrow v] key pressed
+move (10) steps
 
-जब [नीचे तीर v] बटन दबाया जाये 
-चाल को (-10) कदम हिलाये  
+when [down arrow v] key pressed
+move (-10) steps 
 ```
 
 --- /task ---
