@@ -1,23 +1,23 @@
 ## تحدي: تغيير الفريق
 
-هل يمكنك تغيير عدد السباحين في الفريق؟ Synchronised swimming teams usually have eight members but can have as few as four.
+هل يمكنك تغيير عدد السباحين في الفريق؟ عادةً ما يكون لفرق السباحة المتزامنة ثمانية أعضاء، ولكن يمكن أن يكون عدد أعضائها قليل قد يصل الى أربعة.
 
-![8 cat swimmers in the team](images/swim-eight.png)
+![8 سباحين قطط في الفريق](images/swim-eight.png)
 
 --- hints ---
 
 --- hint ---
 
-As well as changing the number of swimmers you'll need to change their starting position.
+طالما تقوم بتغيير عدد السباحين ستحتاج إلى تغيير موقع بدايتهم.
 
 --- /hint ---
 
 --- hint ---
 
-360 divided by 8 is 45; 360 divided by 4 is 90.
+360 مقسومة على 8 تساوي 45 ؛ 360 مقسومة على 4 تساوي 90.
 
 --- /hint ---
 
 --- /hints ---
 
-You could also change the sprite that you use. 
+يمكنك أيضا تغيير الكائن الذي تستخدمه. 
