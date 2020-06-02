@@ -1,12 +1,12 @@
-## Programmed routines
+## Chorégraphies programmées
 
-Would you like to be able to perfect a routine and easily repeat it?
+Aimerais-tu pouvoir perfectionner une chorégraphie et la répéter facilement ?
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+Ajoutons quelques mouvements à effectuer lorsque la touche espace est enfoncée.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nageur](images/swimmer-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+Exécute ton projet et appuie sur la touche espace pour tester la nouvelle chorégraphie.
 
-![sprites swimming around](images/swim-routine.png)
+![sprites nageant autour](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+Essaie d'utiliser les touches fléchées pour te déplacer à une position différente avant d'appuyer sur l'espace.
 
 --- /task ---
 
