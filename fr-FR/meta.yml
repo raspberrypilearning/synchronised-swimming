@@ -1,7 +1,7 @@
 ---
-title: Synchronised swimming
+title: Natation synchronisée
 hero_image: images/banner.png
-description: Celebrate the Olympics by programming a synchronised swimming routine.
+description: Célèbre les Jeux olympiques en programmant une chorégraphie de natation synchronisée.
 duration: 2
 listed: true
 copyedit: true
@@ -11,20 +11,20 @@ steps:
   - 
     title: Introduction
   - 
-    title: Swimming left and right
+    title: Nager à gauche et à droite
   - 
-    title: Changing costume
+    title: Changement de costume
   - 
-    title: Create the team
+    title: Créer l'équipe
   - 
-    title: Music!
+    title: Musique !
   - 
-    title: Programmed routines
+    title: Chorégraphies programmées
   - 
-    title: 'Challenge: code your own routine'
+    title: 'Défi : coder ta propre chorégraphie'
     challenge: true
   - 
-    title: 'Challenge: change the team'
+    title: 'Défi : changer l''équipe'
     challenge: true
   - 
-    title: 'What next?'
+    title: 'Et ensuite ?'
