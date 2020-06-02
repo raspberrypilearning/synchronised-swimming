@@ -1,70 +1,70 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+Αυτή είναι η **Scratch 3** έκδοση του έργου. Υπάρχει επίσης η [έκδοση Scratch 2 του έργου](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Εισαγωγή
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+Θα μάθεις πώς να προγραμματίζεις μια ρουτίνα συγχρονισμένης κολύμβησης για τη γάτα του Scratch χρησιμοποιώντας βρόχους και δημιουργώντας κλώνους.
 
-### What you will make
+### Τι θα φτιάξεις
 
 --- no-print ---
 
-Use the arrow keys to move the swimmers.
+Χρησιμοποίησε τα βελάκια για να μετακινήσεις τη γάτα.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
   <img src="images/swim-final.png">
 </div>
 
-Tip: You can click on the red stop button to stop the music playing!
+Συμβουλή: Μπορείς να κάνεις κλικ στο κόκκινο κουμπί για να σταματήσεις τη μουσική!
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/swim-final.png)
+![ολοκληρωμένο έργο](images/swim-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Τι θα χρειαστείς
 ---
 
-### Hardware
+### Υλικό (Hardware)
 
-+ A computer capable of running Scratch
++ Ένας υπολογιστής ικανός να τρέχει το Scratch
 
-### Software
+### Λογισμικό
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Τι θα μάθεις
 ---
 
-- Use clones to create many sprites all the same
-- Use key pressed events to move sprites
+- Χρήση κλώνων για τη δημιουργία πολλών αντικειμένων
+- Χρήση Συμβάντων με πλήκτρα για τη μετακίνηση των αντικειμένων
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+Πρόσθετες πληροφορίες για εκπαιδευτικούς
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print)"{:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
