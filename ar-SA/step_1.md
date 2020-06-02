@@ -4,7 +4,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 --- /no-print ---
 
-## Introduction
+## المقدمة
 
 You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
 
@@ -56,7 +56,7 @@ title: ما الذي ستتعلمه
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: معلومات إضافية للمعلمين
 ---
 
 --- no-print ---
