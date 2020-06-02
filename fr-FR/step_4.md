@@ -1,12 +1,12 @@
-## Create the team
+## Créer l'équipe
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+La natation synchronisée a besoin de plus d'un chat ! Nous pouvons utiliser `créer un clone de`{:class="block3control"} pour créer des copies qui se comportent de la même manière.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+Commençons par ajouter du code pour s'assurer que le chat commence toujours dans la même position lorsque tu cliques sur le drapeau vert.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nageur](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -18,15 +18,15 @@ point in direction (90 v)
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+Teste ton code en appuyant sur quelques touches fléchées, puis clique sur le drapeau vert pour retourner à la position de départ.
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+Maintenant nous pouvons utiliser une boucle `répéter`{:class="block3control"} pour créer 6 clones (copies) du chat.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nageur](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ create clone of (myself v)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+Les boucles sont utilisées pour faire la même chose plusieurs fois.
 
 --- /task ---
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+Tu ne veux pas que tous les chats soient dans la même position !
 
-Add code to rotate 60 degrees before creating each clone.
+Ajoute du code pour faire pivoter de 60 degrés avant de créer chaque clone.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nageur](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,8 +63,8 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ Teste ton code en utilisant les touches fléchées. Tu devrais être en mesure de créer des modèles de natation synchronisés incroyables !
 
-![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+![6 sprites chat tous en différentes positions et rotations](images/swim-test-clones.png)
 
 --- /task ---
