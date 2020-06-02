@@ -15,6 +15,6 @@
 
 --- print-only ---
 
-![complete project](images/archery-final.png)
+![المشروع كامل](images/archery-final.png)
 
 --- /print-only ---
