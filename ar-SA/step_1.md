@@ -8,7 +8,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
 
-### What you will make
+### ما الذي ستصنعه
 
 --- no-print ---
 
@@ -19,7 +19,7 @@ Use the arrow keys to move the swimmers.
   <img src="images/swim-final.png">
 </div>
 
-Tip: You can click on the red stop button to stop the music playing!
+نصيحة: يمكنك النقر على زر التوقف الأحمر لإيقاف تشغيل الموسيقى!
 
 --- /no-print ---
 
@@ -34,11 +34,11 @@ Tip: You can click on the red stop button to stop the music playing!
 title: What you will need
 ---
 
-### Hardware
+### الأجهزة
 
-+ A computer capable of running Scratch
++ جهاز حاسب آلي يدعم تشغيل برنامج Scratch
 
-### Software
+### البرامج
 
 + Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
@@ -46,7 +46,7 @@ title: What you will need
 
 --- collapse ---
 ---
-title: What you will learn
+title: ما الذي ستتعلمه
 ---
 
 - Use clones to create many sprites all the same
