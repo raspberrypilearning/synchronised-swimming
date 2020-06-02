@@ -20,4 +20,4 @@ Naast het wijzigen van het aantal zwemmers, moet je ook hun startpositie wijzige
 
 --- /hints ---
 
-Je kunt ook de sprite wijzigen die je gebruikt. 
+Je kunt ook de door jou gebruikte sprite wijzigen. 
