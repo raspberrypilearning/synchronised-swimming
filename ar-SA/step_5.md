@@ -1,6 +1,6 @@
-## Music!
+## موسيقى!
 
-A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
+يحتاج روتين السباحة المتزامنة إلى الموسيقى. (ولكن إذا لم تتمكن من تشغيل الصوت ، فيمكنك تخطي هذه الخطوة.)
 
 --- task ---
 
