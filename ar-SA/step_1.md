@@ -31,7 +31,7 @@ Use the arrow keys to move the swimmers.
 
 --- collapse ---
 ---
-title: What you will need
+title: ما ستحتاج إليه
 ---
 
 ### الأجهزة
