@@ -1,46 +1,46 @@
-## Changing costume
+## Changement de costume
 
-Hmm, this would look better if the cat sprite changed direction when it turns left.
+Hmm, cela aurait l'air mieux si le sprite de chat changeait de direction quand il tourne à gauche.
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat flying-a' costume.
+Clique sur « Costumes » et supprime le costume « chat volant-a ».
 
-![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
+![onglet costumes et supprimer l'icône en surbrillance sur le costume](images/swim-delete-a.png)
 
 --- /task ---
 
 --- task ---
 
-Rename the remaining costume from 'cat flying-b' to 'right'.
+Renomme le costume restant, de « chat volant-b » en « droite ».
 
-![name right highlighted in costumes tab](images/swim-costume-right.png)
-
---- /task ---
-
---- task ---
-
-Right-click on the costume and choose duplicate to create a copy.
-
-![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
+![nom à droite mis en surbrillance dans l'onglet costumes](images/swim-costume-right.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
+Fais un clic droit sur le costume et choisis dupliquer pour créer une copie.
 
-Your costumes should look like this:
-
-![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
+![menu costume avec doublon mis en surbrillance](images/swim-costume-duplicate.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
+Clique sur « Retourner horizontalement » pour inverser la copie, puis nomme-la « gauche ».
 
-![swimmer sprite](images/swimmer-sprite.png)
+Tes costumes devraient ressembler à ceci :
+
+![nouveau costume orienté vers la gauche avec icône retourner et nom en surbrillance](images/swim-costume-left.png)
+
+--- /task ---
+
+--- task ---
+
+Clique sur « Code » pour retourner à ton code et ajoute des blocs pour changer le costume lorsque la direction est changée.
+
+![sprite nageur](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -56,8 +56,8 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Teste ton code en nageant sur la scène en utilisant les touches fléchées.
 
-![sprite facing left](images/swim-test-left.png)
+![sprite orienté vers la gauche](images/swim-test-left.png)
 
 --- /task ---
