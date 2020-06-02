@@ -9,12 +9,12 @@
 ![तैराक स्प्राइट](images/swimmer-sprite.png)
 
 ```blocks3
-जब [स्पेस V] बटन दबाया जाता है तो
-कॉस्ट्यूम (दाएं v)
-रिपीट (३६)
-टर्न सीडब्ल्यू (१०) डिग्री
-मूव (१०) स्टेप
-एंड
+when [space v] key pressed
+switch costume to (right v)
+repeat (36)
+turn cw (10) degrees
+move (10) steps
+end
 ```
 
 --- /task ---
