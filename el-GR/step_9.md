@@ -1,10 +1,10 @@
-## What next?
+## Τι υπάρχει στη συνέχεια;
 
-Take a look at the [Archery](https://projects.raspberrypi.org/en/projects/archery) Scratch project.
+Ρίξε μια ματιά στο έργο [Archery](https://projects.raspberrypi.org/en/projects/archery).
 
 --- no-print ---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Κάνε κλικ στην πράσινη σημαία για να ξεκινήσεις. Χρησιμοποίησε το πλήκτρο διαστήματος για να ρίξεις ένα βέλος
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 --- print-only ---
 
-![complete project](images/archery-final.png)
+![ολοκληρωμένο έργο](images/archery-final.png)
 
 --- /print-only ---
