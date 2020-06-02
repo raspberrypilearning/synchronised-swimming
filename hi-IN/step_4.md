@@ -1,6 +1,6 @@
 ## टीम बनाएं
 
-सिंक्रोनाइज्ड स्विमिंग को एक से अधिक बिल्ली की जरूरत है! हम ` create clone of` {:class="block3control"} कोड का प्रयोग करेंगे जिस से ऐसी कॉपीज़ बनाएंगे I
+सिंक्रोनाइज्ड स्विमिंग को एक से अधिक बिल्ली की जरूरत है! हम ` create clone of`{:class="block3control"} कोड का प्रयोग करेंगे जिस से ऐसी कॉपीज़ बनाएंगे I
 
 --- task ---
 
@@ -29,12 +29,12 @@ point in direction (90 v)
 ![तैराक स्प्राइट](images/swimmer-sprite.png)
 
 ```blocks3
-जब हरी झंडी क्लिक किया
-एक्स पर जाएँ: (0) y: (0)
-दिशा में बिंदु (90 वी)
-+ दोहराने (6)
-(अपने आप वी) का क्लोन बनाने
-अंत
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
++repeat (6)
+create clone of (myself v)
+end
 ```
 
 कई बार एक ही काम को बार बार करने के लिए लूप्स का उपयोग किया जाता है।
@@ -50,12 +50,13 @@ point in direction (90 v)
 ![तैराक स्प्राइट](images/swimmer-sprite.png)
 
 ```blocks3
-जब हरी झंडी क्लिक किया
-एक्स पर जाएँ: (0) y: (0)
-दिशा में बिंदु (90 वी)
-+ दोहराने (6)
-(अपने आप वी) का क्लोन बनाने
-अंत
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
+repeat (6)
++turn cw (60) degrees
+create clone of (myself v)
+end
 ```
 
 --- /task ---
