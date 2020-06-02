@@ -1,23 +1,23 @@
-## Challenge: change the team
+## Πρόκληση: Άλλαξε την ομάδα
 
-Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four.
+Μπορείς να αλλάξεις τον αριθμό των κολυμβητών στην ομάδα; Οι ομάδες συγχρονισμένης κολύμβησης έχουν συνήθως οκτώ μέλη, αλλά μπορούν να έχουν ακόμη και τέσσερα μέλη.
 
-![8 cat swimmers in the team](images/swim-eight.png)
+![8 γάτες που κολυμπούν σε ομάδα](images/swim-eight.png)
 
 --- hints ---
 
 --- hint ---
 
-As well as changing the number of swimmers you'll need to change their starting position.
+Εκτός από την αλλαγή του αριθμού των κολυμβητών, θα πρέπει να αλλάξεις και την αρχική τους θέση.
 
 --- /hint ---
 
 --- hint ---
 
-360 divided by 8 is 45; 360 divided by 4 is 90.
+360 δια 8 κάνει 45; 360 δια 4 κάνει 90.
 
 --- /hint ---
 
 --- /hints ---
 
-You could also change the sprite that you use. 
+Θα μπορούσες επίσης να αλλάξεις το αντικείμενο που χρησιμοποιείς. 
