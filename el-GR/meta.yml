@@ -1,7 +1,7 @@
 ---
-title: Synchronised swimming
+title: Συγχρονισμένη κολύμβηση
 hero_image: images/banner.png
-description: Celebrate the Olympics by programming a synchronised swimming routine.
+description: Γιόρτασε τους Ολυμπιακούς Αγώνες προγραμματίζοντας μια ρουτίνα συγχρονισμένη κολύμβησης.
 duration: 2
 listed: true
 copyedit: true
@@ -9,22 +9,22 @@ version: 4
 last_tested: 2019-03-21
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Swimming left and right
+    title: Κολυμπώντας αριστερά και δεξιά
   - 
-    title: Changing costume
+    title: Αλλαγή ενδυμασίας
   - 
-    title: Create the team
+    title: Δημιουργία ομάδας
   - 
-    title: Music!
+    title: Μουσική!
   - 
-    title: Programmed routines
+    title: Προγραμματισμένες ρουτίνες
   - 
-    title: 'Challenge: code your own routine'
+    title: 'Πρόκληση: δημιούργησε τη δική σου ρουτίνα'
     challenge: true
   - 
-    title: 'Challenge: change the team'
+    title: 'Πρόκληση: Άλλαξε την ομάδα'
     challenge: true
   - 
-    title: 'What next?'
+    title: 'Και τώρα;'
