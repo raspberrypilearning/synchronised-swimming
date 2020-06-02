@@ -1,10 +1,10 @@
-## What next?
+## ماذا بعد؟
 
 Take a look at the [Archery](https://projects.raspberrypi.org/en/projects/archery) Scratch project.
 
 --- no-print ---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+أنقر على العلم الأخضر للبدء. استخدم مفتاح المسافة لإطلاق سهم
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
