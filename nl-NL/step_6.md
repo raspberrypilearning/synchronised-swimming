@@ -4,7 +4,7 @@ Wil je een routine kunnen perfectioneren en gemakkelijk kunnen herhalen?
 
 --- task ---
 
-Laten we enkele bewegingen toevoegen die moeten worden uitgevoerd wanneer de spatiebalk wordt ingedrukt.
+Laten we enkele bewegingen toevoegen die uitgevoerd moeten worden wanneer de spatiebalk wordt ingedrukt.
 
 ![zwemmer sprite](images/swimmer-sprite.png)
 
@@ -25,7 +25,7 @@ Voer je project uit en druk op de spatiebalk om de nieuwe routine te testen.
 
 ![sprites die rondzwemmen](images/swim-routine.png)
 
-Probeer de pijltjestoetsen te gebruiken om naar een andere positie te gaan voordat je op de spatiebalk drukt.
+Probeer uit wat er gebeurt door eerst de pijltjestoetsen te gebruiken om naar een andere positie te gaan, voordat je op de spatiebalk drukt.
 
 --- /task ---
 
