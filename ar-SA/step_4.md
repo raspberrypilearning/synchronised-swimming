@@ -1,12 +1,12 @@
-## Create the team
+## أنشئ الفريق
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+السباحة المتزامنة تحتاج إلى أكثر من قطة واحدة! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
 
 --- task ---
 
 First let's add code to make sure the cat always starts in the same position when you click the green flag.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -26,7 +26,7 @@ Test your code by pressing some arrow keys and then clicking the green flag to r
 
 Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -43,11 +43,11 @@ Loops are used to do the same thing multiple times.
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+لا تريد أن تكون جميع القطط في نفس المكان!
 
 Add code to rotate 60 degrees before creating each clone.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,8 +63,8 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ Test your code by using the arrow keys. يجب أن تكون قادراً على إنشاء بعض أنماط السباحة المتزامنة المذهلة!
 
-![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+![6 كائنات من القطط جميعها في مواقع ومواضع دوران مختلفة](images/swim-test-clones.png)
 
 --- /task ---
