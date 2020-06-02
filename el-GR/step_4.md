@@ -9,9 +9,9 @@
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν γίνει κλικ σε green flag
-πήγαινε σε θέση x: (0) y: (0)
-δείξε προς κατεύθυνση (90 v)
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
 ```
 
 --- /task ---
@@ -29,11 +29,11 @@
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν γίνει κλικ σε green flag
-πήγαινε σε θέση x: (0) y: (0)
-δείξε προς κατεύθυνση (90 v)
-+επανάλαβε (6)
-δημιούργησε κλώνο του (εαυτού μου v)
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
++repeat (6)
+create clone of (myself v)
 end
 ```
 
@@ -50,12 +50,12 @@ end
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν γίνει κλικ σε green flag
-πήγαινε σε θέση x: (0) y: (0)
-δείξε προς κατεύθυνση (90 v)
-+επανάλαβε (6)
-+στρίψε cw (60) μοίρες
-δημιούργησε κλώνο του (εαυτού μου v)
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
+repeat (6)
++turn cw (60) degrees
+create clone of (myself v)
 end
 ```
 
