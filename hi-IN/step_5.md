@@ -25,7 +25,7 @@ play sound (dance around v) until done
 end
 ```
 
-`play sound`{: class = "block3sound"} को ` forever `{: class = "block3control"} लूप करने का मतलब है कि संगीत दोहराता रहेगा।
+`play sound`{:class="block3sound"} को ` forever `{:class="block3control"} लूप करने का मतलब है कि संगीत दोहराता रहेगा।
 
 --- /task ---
 
