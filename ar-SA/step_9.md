@@ -1,6 +1,6 @@
 ## ماذا بعد؟
 
-Take a look at the [Archery](https://projects.raspberrypi.org/en/projects/archery) Scratch project.
+ألقِ نظرة على مشروع [الرماية](https://projects.raspberrypi.org/en/projects/archery) الخاص ببرنامج Scratch.
 
 --- no-print ---
 
