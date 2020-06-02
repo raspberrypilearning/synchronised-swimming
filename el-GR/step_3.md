@@ -43,13 +43,13 @@
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν πατηθεί πλήκτρο [αριστερό βέλος v]
-+άλλαξε ενδυμασία σε (αριστερά v)
-στρίψε ccw (15) μοίρες
+when [left arrow v] key pressed
++switch costume to (left v)
+turn ccw (15) degrees
 
-όταν πατηθεί πλήκτρο [δεξί βέλος v]
-+άλλαξε ενδυμασία σε (δεξιά v)
-στρίψε cw (15) μοίρες
+when [right arrow v] key pressed
++switch costume to (right v)
+turn cw (15) degrees
 ```
 
 --- /task ---
