@@ -1,14 +1,14 @@
-## Challenge: code your own routine
+## تحدي: قم ببرمجة روتينك الخاص
 
-Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
+هل يمكنك كتابة روتين السباحة المتزامن الخاص بك ليتم تنفيذه عندما تقوم بالضغط على مفتاح المسافة أو مفتاح آخر؟
 
 Try working out a routine using the arrow keys first.
 
 Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
 
-Here's an example:
+إليك مثالاً:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السباح](images/swimmer-sprite.png)
 
 ```blocks3
 when [m v] key pressed
