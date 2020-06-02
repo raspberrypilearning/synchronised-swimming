@@ -4,7 +4,7 @@
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+دعنا نضيف بعض الحركات ليتم تنفيذها عند الضغط على مفتاح المسافة.
 
 ![الكائن السباح](images/swimmer-sprite.png)
 
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+قم بتشغيل مشروعك واضغط على مفتاح المسافة لإختبار الروتين الجديد.
 
-![sprites swimming around](images/swim-routine.png)
+![كائنات تسبح هنا وهناك](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+حاول استخدام مفاتيح الأسهم للإنتقال إلى موقع مختلف قبل الضغط على مفتاح المسافة.
 
 --- /task ---
 
