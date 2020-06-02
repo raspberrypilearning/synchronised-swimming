@@ -11,20 +11,20 @@ steps:
   - 
     title: Introduction
   - 
-    title: Swimming left and right
+    title: السباحة إلى اليسار واليمين
   - 
     title: Changing costume
   - 
     title: Create the team
   - 
-    title: Music!
+    title: الموسيقى!
   - 
-    title: Programmed routines
+    title: الروتينات المبرمجة
   - 
-    title: 'Challenge: code your own routine'
+    title: 'تحدي: قم ببرمجة روتينك الخاص'
     challenge: true
   - 
-    title: 'Challenge: change the team'
+    title: 'تحدي: تغيير الفريق'
     challenge: true
   - 
     title: 'What next?'
