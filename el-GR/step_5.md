@@ -19,9 +19,9 @@
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν γίνει κλικ σε green flag
-για πάντα
-παίξε ήχο (dance around v) μέχρι το τέλος
+when green flag clicked
+forever
+play sound (dance around v) until done
 end
 ```
 
