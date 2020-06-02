@@ -1,19 +1,19 @@
-## Programmed routines
+## Προγραμματισμένες ρουτίνες
 
-Would you like to be able to perfect a routine and easily repeat it?
+Θα ήθελες να μπορείς να τελειοποιήσεις μια ρουτίνα και να μπορείς να την επαναλάβεις εύκολα;
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+Ας προσθέσουμε μερικές κινήσεις που θα εκτελεστούν όταν πατήσεις το πλήκτρο διαστήματος (space).
 
-![swimmer sprite](images/swimmer-sprite.png)
+![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-when [space v] key pressed
-switch costume to (right v)
-repeat (36)
-turn cw (10) degrees
-move (10) steps
+όταν πατηθεί πλήκτρο [διάστημα v]
+άλλαξε ενδυμασία σε (δεξιά v)
+επανάλαβε (36)
+στρίψε cw (10) μοίρες
+προχώρα (10) βήματα
 end
 ```
 
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+Τρέξε το πρόγραμμα και πάτησε το πλήκτρο διαστήματος για να δοκιμάσεις τη νέα ρουτίνα.
 
-![sprites swimming around](images/swim-routine.png)
+![αντικείμενα που κολυμπούν](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+Δοκίμασε να χρησιμοποιήσεις τα βελάκια για να μετακινηθείς σε διαφορετική θέση προτού πατήσεις το διάστημα.
 
 --- /task ---
 
