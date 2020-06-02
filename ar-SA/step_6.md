@@ -1,12 +1,12 @@
-## Programmed routines
+## الروتينات المبرمجة
 
-Would you like to be able to perfect a routine and easily repeat it?
+هل ترغب في أن تكون قادراً على إتقان روتين وتستطيع تكراره بسهولة؟
 
 --- task ---
 
 Let's add some moves to be performed when the space key is pressed.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السباح](images/swimmer-sprite.png)
 
 ```blocks3
 when [space v] key pressed
