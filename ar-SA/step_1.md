@@ -61,10 +61,10 @@ title: معلومات إضافية للمعلمين
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيرجى استخدام [الإصدار الملائم للطابعة](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+يمكنك الحصول على [المشروع المكتمل من هنا](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
