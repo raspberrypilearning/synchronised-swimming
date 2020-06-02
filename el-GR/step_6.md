@@ -9,11 +9,11 @@
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν πατηθεί πλήκτρο [διάστημα v]
-άλλαξε ενδυμασία σε (δεξιά v)
-επανάλαβε (36)
-στρίψε cw (10) μοίρες
-προχώρα (10) βήματα
+when [space v] key pressed
+switch costume to (right v)
+repeat (36)
+turn cw (10) degrees
+move (10) steps
 end
 ```
 
