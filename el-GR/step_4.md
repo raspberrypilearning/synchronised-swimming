@@ -1,61 +1,61 @@
-## Create the team
+## Δημιουργία ομάδας
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+Η συγχρονισμένη κολύμβηση χρειάζεται περισσότερες από μία γάτες! Μπορούμε να χρησιμοποιήσουμε το μπλοκ `δημιούργησε κλώνο του`{:class="block3control"} για τη δημιουργία αντιγράφων που συμπεριφέρονται με τον ίδιο τρόπο.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+Αρχικά ας προσθέσουμε κώδικα για να βεβαιωθούμε ότι η γάτα ξεκινά πάντα στην ίδια θέση, όταν κάνεις κλικ στην πράσινη σημαία.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-go to x: (0) y: (0)
-point in direction (90 v)
+όταν γίνει κλικ σε green flag
+πήγαινε σε θέση x: (0) y: (0)
+δείξε προς κατεύθυνση (90 v)
 ```
 
 --- /task ---
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+Δοκίμασε τον κώδικά σου πατώντας μερικές φορές τα βελάκια και στη συνέχεια κάνοντας κλικ στην πράσινη σημαία για να επιστρέψεις στην αρχική θέση.
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+Τώρα μπορούμε να χρησιμοποιήσουμε ένα βρόχο `επανάλαβε`{:class="block3control"} για τη δημιουργία 6 κλώνων (αντιγράφων) της γάτας.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-go to x: (0) y: (0)
-point in direction (90 v)
-+repeat (6)
-create clone of (myself v)
+όταν γίνει κλικ σε green flag
+πήγαινε σε θέση x: (0) y: (0)
+δείξε προς κατεύθυνση (90 v)
++επανάλαβε (6)
+δημιούργησε κλώνο του (εαυτού μου v)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+Οι βρόχοι χρησιμοποιούνται για να κάνουν το ίδιο πράγμα πολλές φορές.
 
 --- /task ---
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+Δεν θέλεις όλες οι γάτες να βρίσκονται στην ίδια θέση!
 
-Add code to rotate 60 degrees before creating each clone.
+Πρόσθεσε κώδικα για να περιστρέφεται κατά 60 μοίρες πριν δημιουργήσεις κάθε κλώνο.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-go to x: (0) y: (0)
-point in direction (90 v)
-repeat (6)
-+turn cw (60) degrees
-create clone of (myself v)
+όταν γίνει κλικ σε green flag
+πήγαινε σε θέση x: (0) y: (0)
+δείξε προς κατεύθυνση (90 v)
++επανάλαβε (6)
++στρίψε cw (60) μοίρες
+δημιούργησε κλώνο του (εαυτού μου v)
 end
 ```
 
@@ -63,8 +63,8 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ Δοκίμασε τον κωδικά σου χρησιμοποιώντας τα βελάκια. Θα πρέπει να μπορείς να δημιουργήσεις μερικά καταπληκτικά σχέδια συγχρονισμένης κολύμβησης!
 
-![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+![6 αντικείμενα γάτας σε διαφορετικές θέσεις και περιστροφές](images/swim-test-clones.png)
 
 --- /task ---
