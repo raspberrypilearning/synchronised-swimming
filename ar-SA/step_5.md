@@ -16,7 +16,7 @@ Choose a sound from the `Loops` category and add it to your sprite.
 
 Now go back to 'Code' and add the blocks to play your music:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السباح](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -31,9 +31,9 @@ Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3
 
 --- task ---
 
-Test your project.
+اختبر مشروعك.
 
-You can click on the red stop button to stop the music playing!
+نصيحة: يمكنك النقر على زر التوقف الأحمر لإيقاف تشغيل الموسيقى!
 
 --- /task ---
 
