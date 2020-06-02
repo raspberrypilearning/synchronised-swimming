@@ -1,39 +1,39 @@
-## Music!
+## Μουσική!
 
-A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
+Μια ρουτίνα συγχρονισμένης κολύμβησης χρειάζεται μουσική. (Αλλά, αν δεν μπορείς να παίξεις ήχο, τότε μπορείς να παραλείψεις αυτό το βήμα.)
 
 --- task ---
 
-Choose a sound from the `Loops` category and add it to your sprite.
+Βρες έναν ήχο από την κατηγορία `Λούπες` και πρόσθεσε στο αντικείμενο σου.
 
 [[[generic-scratch3-sound-from-library]]]
 
-![dance around sound selected in sounds library](images/swim-dance.png)
+![ο ήχος dance around επιλέγεται στη βιβλιοθήκη ήχων](images/swim-dance.png)
 
 --- /task ---
 
 --- task ---
 
-Now go back to 'Code' and add the blocks to play your music:
+Τώρα πήγαινε πίσω στον "Κώδικα" και βάλε εντολές για να παίξεις τη μουσική σου:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-forever
-play sound (dance around v) until done
+όταν γίνει κλικ σε green flag
+για πάντα
+παίξε ήχο (dance around v) μέχρι το τέλος
 end
 ```
 
-Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating.
+Βάζοντας την εντολή `παίξε ήχο`{:class="block3sound"} μέσα σε ένα βρόχο `για πάντα`{:class="block3control"} σημαίνει ότι η μουσική θα επαναλαμβάνεται συνεχώς.
 
 --- /task ---
 
 --- task ---
 
-Test your project.
+Δοκίμασε το έργο σου.
 
-You can click on the red stop button to stop the music playing!
+Μπορείς να κάνεις κλικ στο κόκκινο κουμπί διακοπής για να σταματήσεις την αναπαραγωγή της μουσικής!
 
 --- /task ---
 
