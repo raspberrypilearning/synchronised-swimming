@@ -11,14 +11,14 @@
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν πατηθεί πλήκτρο [m v]
-επανάλαβε (8)
-    στρίψε cw (45) μοίρες
-    επανάλαβε (20)
-        κινήσου (5) βήματα
+when [m v] key pressed
+repeat (8)
+    turn cw (45) degrees
+    repeat (20)
+        move (5) steps
     end
-    επανάλαβε (20)
-        κινήσου (-5) βήματα
+    repeat (20)
+        move (-5) steps
     end
 end
 ```
