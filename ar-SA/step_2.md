@@ -1,12 +1,12 @@
-## Swimming left and right
+## السباحة إلى اليسار واليمين
 
 In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
 
-Let's start by getting one cat swimming.
+لنبدأ بجلب قطة واحدة للسباحة.
 
 --- task ---
 
-Open a new Scratch project.
+افتح مشروع فارغ جديد في Scratch.
 
 **Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
 
@@ -16,7 +16,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+دعنا أولاً نحول المسرح إلى اللون الأزرق حتى يبدو وكأنه مسبح.
 
 --- task ---
 
