@@ -1,66 +1,66 @@
-## Swimming left and right
+## Nager à gauche et à droite
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+Dans la natation synchronisée, une équipe de nageurs effectue une chorégraphie coordonnée de déplacements en musique.
 
-Let's start by getting one cat swimming.
+Commençons par faire nager un chat.
 
 --- task ---
 
-Open a new Scratch project.
+Ouvre un nouveau projet Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
+**En ligne** : ouvre un [nouveau projet Scratch en ligne](http://rpf.io/scratchnew){:target="_blank"}.
 
-**Offline**: open a new project in the offline editor.
+**Hors-ligne**: ouvre un nouveau projet dans l’éditeur hors-ligne.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si tu dois télécharger et installer l'éditeur hors-ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+Commençons par mettre la scène en bleu pour qu'elle ressemble à une piscine.
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+Clique sur la « Scène » puis sur l'onglet « Arrière-plans » et « Convertir en Bitmap ».
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
-
-![backdrops tab and fill tool selected](images/swim-fill.png)
+![scratch écran avec scène, arrière-plan et conversion en bitmap mis en surbrillance](images/swim-select-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+Sélectionne une couleur bleue et l'outil « Remplissage » puis clique sur l'arrière-plan.
 
-![delete menu selected](images/swim-delete.png)
+![onglets arrière-plan et outil de remplissage sélectionnés](images/swim-fill.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+Tu vas utiliser un sprite de chat différent, alors clique sur la croix sur le chat qui marche pour le supprimer.
+
+![supprimer le menu sélectionné](images/swim-delete.png)
+
+--- /task ---
+
+--- task ---
+
+Choisis le sprite `Chat Volant` à partir de la bibliothèque et ajoute-le à ton projet.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![Sprite Chat Volant en surbrillance](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+Le chat volant semble pouvoir nager.
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+Maintenant laissons le chat nager.
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+Sélectionne le sprite « Chat Volant », clique sur « Code » et ajoute le code pour faire tourner le chat à gauche et à droite lorsque tu appuies sur les touches fléchées gauche et droite.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nageur](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -74,17 +74,17 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+Teste ton code en appuyant sur les touches fléchées gauche et droite du clavier.
 
-![cat sprite rotated right](images/swim-right.png)
+![sprite de chat tourné à droite](images/swim-right.png)
 
 --- /task ---
 
 --- task ---
 
-And add the code for the forward and backward movement.
+Et ajoute le code pour le mouvement avant et arrière.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nageur](images/swimmer-sprite.png)
 
 ```blocks3
 when [up arrow v] key pressed
@@ -98,6 +98,6 @@ move (-10) steps
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Teste ton code en nageant sur la scène en utilisant les touches fléchées.
 
 --- /task ---
