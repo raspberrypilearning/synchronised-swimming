@@ -1,14 +1,14 @@
-## Challenge: code your own routine
+## Défi : coder ta propre chorégraphie
 
-Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
+Peux-tu écrire ta propre chorégraphie de natation synchronisée à effectuer lorsque tu appuies sur la touche espace ou une autre touche ?
 
-Try working out a routine using the arrow keys first.
+Essaie d'abord de faire une chorégraphie en utilisant les touches fléchées.
 
-Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
+Utilise les boucles `répéter`{:class="block3control"} pour effectuer les mêmes actions plusieurs fois.
 
-Here's an example:
+Voici un exemple :
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nageur](images/swimmer-sprite.png)
 
 ```blocks3
 when [m v] key pressed
