@@ -1,12 +1,12 @@
-## Create the team
+## Erstelle das Team
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+Synchronschwimmen braucht mehr als eine Katze! Wir können `erzeuge Klon von`{:class="block3control"} verwenden, um Kopien zu erstellen, die sich auf die gleiche Weise verhalten.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+Fügen wir zuerst Code hinzu, um sicherzustellen, dass die Katze immer an derselben Position startet, wenn du auf die grüne Flagge klickst.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -18,15 +18,15 @@ point in direction (90 v)
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+Teste deinen Code, indem du einige Pfeiltasten drückst und dann auf die grüne Flagge klickst, um zur Startposition zurückzukehren.
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+Jetzt können wir eine `wiederhole`{:class="block3control"}-Schleife verwenden, um 6 Klone (Kopien) der Katze zu erstellen.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ create clone of (myself v)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+Schleifen werden verwendet, um dasselbe mehrmals auszuführen.
 
 --- /task ---
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+Du möchtest nicht, dass sich alle Katzen an derselben Position befinden!
 
-Add code to rotate 60 degrees before creating each clone.
+Füge Code hinzu, um die Figur um 60 Grad zu drehen, bevor du den nächsten Klon erstellst.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,7 +63,7 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ Teste deinen Code mit den Pfeiltasten. You should be able to create some amazing synchronised swimming patterns!
 
 ![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
 
