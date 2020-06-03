@@ -1,6 +1,6 @@
 ## السباحة إلى اليسار واليمين
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+في السباحة المتزامنة ، يقوم فريق من السباحين بإجراء روتين منسَّق من الحركات للموسيقى.
 
 لنبدأ بجلب قطة واحدة للسباحة.
 
@@ -28,7 +28,7 @@ Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
 
 --- task ---
 
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
+حدد اللون الأزرق وأداة "ملء بلون" ثم انقر على الخلفية.
 
 ![backdrops tab and fill tool selected](images/swim-fill.png)
 
@@ -36,7 +36,7 @@ Select a blue colour and the 'Fill with color' tool and then click on the backdr
 
 --- task ---
 
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+ستستخدم كائناً قطاً مختلفًا، لذا أنقر على علامة الخطأ الموجودة على القط الماشي لحذفه.
 
 ![delete menu selected](images/swim-delete.png)
 
@@ -50,17 +50,17 @@ Choose the `Cat Flying` sprite from the library and add it to your project.
 
 ![Cat Flying sprite highlighted](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+تبدو القطة الطائرة وكأنها تسبح.
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+الآن دعونا نجعل القط يسبح.
 
 Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
