@@ -10,7 +10,7 @@
 
 ```blocks3
 when [space v] key pressed
-switch costume to (right v)
+switch costume to (δεξιά v)
 repeat (36)
 turn cw (10) degrees
 move (10) steps

@@ -63,11 +63,11 @@ Wähle die "Cat flying" (Katze fliegt) Figur aus. Klicke auf "Skripte" und füge
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-wenn die Taste [Pfeil nach links v] gedrückt wird, 
-drehe dich gegen den Uhrzeigersinn um (15) Grad
+when [left arrow v] key pressed
+turn ccw (15) degrees
 
-wenn die Taste [Pfeil nach rechts v] gedrückt wird, 
-drehe dich im Uhrzeigersinn um (15) Grad
+when [right arrow v] key pressed
+turn cw (15) degrees
 ```
 
 --- /task ---
@@ -87,11 +87,11 @@ Und füge den Code für die Vorwärts- und Rückwärtsbewegung hinzu.
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-Wenn die Taste [Pfeil nach oben v] gedrückt wird
-bewege dich (10) Schritte
+when [up arrow v] key pressed
+move (10) steps
 
-Wenn die Taste [Pfeil nach unten v] gedrückt wird
-bewege dich (-10) Schritte 
+when [down arrow v] key pressed
+move (-10) steps
 ```
 
 --- /task ---

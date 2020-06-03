@@ -9,9 +9,9 @@ Fügen wir zuerst Code hinzu, um sicherzustellen, dass die Katze immer an dersel
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt wird
-gehe zu x: (0) y: (0)
-setze Richtung auf (90 v) Grad
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
 ```
 
 --- /task ---
@@ -29,12 +29,12 @@ Jetzt können wir eine `wiederhole`{:class="block3control"}-Schleife verwenden, 
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt wird
-gehe zu x: (0) y: (0)
-setze Richtung auf (90 v) Grad
-+wiederhole (6) mal
-erzeuge Klon von (mir selbst v)
-Ende
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
++repeat (6)
+create clone of (myself v)
+end
 ```
 
 Schleifen werden verwendet, um dasselbe mehrmals auszuführen.
@@ -50,13 +50,13 @@ Füge Code hinzu, um die Figur um 60 Grad zu drehen, bevor du den nächsten Klon
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt wird
-gehe zu x: (0) y: (0)
-setze Richtung auf (90 v) Grad
-wiederhole (6) mal
-+ drehe dich im Uhrzeigersinn um (60) Grad
-erstelle einen Klon von (mir selbst v)
-Ende
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90 v)
+repeat (6)
++turn cw (60) degrees
+create clone of (myself v)
+end
 ```
 
 --- /task ---

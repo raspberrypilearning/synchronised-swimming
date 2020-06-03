@@ -11,15 +11,15 @@ Hier ist ein Beispiel:
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-wenn Taste [m v] gedrückt wird
-wiederhole (8) mal
-  drehe dich im Uhrzeigersinn um (45) Grad
-  wiederhole (20) mal
-    gehe (5) er Schritt
-  Ende
-  wiederhole (20) mal
-    gehe (-5) er Schritt
-  Ende
-Ende
+when [m v] key pressed
+repeat (8)
+	turn cw (45) degrees
+	repeat (20)
+		move (5) steps
+	end
+	repeat (20)
+		move (-5) steps
+	end
+end
 ```
 

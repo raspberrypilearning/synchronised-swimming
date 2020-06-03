@@ -44,11 +44,11 @@
 
 ```blocks3
 when [left arrow v] key pressed
-+switch costume to (left v)
++switch costume to (αριστερά v)
 turn ccw (15) degrees
 
 when [right arrow v] key pressed
-+switch costume to (right v)
++switch costume to (δεξιά v)
 turn cw (15) degrees
 ```
 

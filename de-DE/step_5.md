@@ -19,10 +19,10 @@ Geh nun zurück zu 'Skripte' und füge die Blöcke hinzu, um deine Musik abzuspi
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-Wenn die grüne Flagge angeklickt wird
-wiederhole fortlaufend
-spiele Klang (dance around) ganz
-ende
+when green flag clicked
+forever
+play sound (dance around v) until done
+end
 ```
 
 Wenn du den `spiele Klang`{:class="block3sound"}-Block in eine `wiederhole fortlaufend`{:class="block3control"}-Schleife einfügst, wird die Musik ständig wiederholt.

@@ -9,12 +9,12 @@ Fügen wir einige Bewegungen hinzu, die ausgeführt werden sollen, wenn die Leer
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-wenn Taste [Leertaste V] gedrückt wird
-wechsel zu Kostüm (Rechts v)
-wiederhole (36)
-dreh dich im Uhrzeigersinn um (10) Grad
-geh (10) er Schritt
-Ende
+when [space v] key pressed
+switch costume to (Rechts v)
+repeat (36)
+turn cw (10) degrees
+move (10) steps
+end
 ```
 
 --- /task ---

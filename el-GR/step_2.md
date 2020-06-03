@@ -63,11 +63,11 @@
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν πατηθεί πλήκτρο [αριστερό βέλος; v]
-στρίψε ccw (15) μοίρες
+when [left arrow v] key pressed
+turn ccw (15) degrees
 
-όταν πατηθεί πλήκτρο [δεξί βέλος v]
-στρίψε cw (15) μοίρες
+when [right arrow v] key pressed
+turn cw (15) degrees
 ```
 
 --- /task ---
@@ -87,11 +87,11 @@
 ![αντικείμενο κολυμβητή](images/swimmer-sprite.png)
 
 ```blocks3
-όταν πατηθεί το πλήκτρο [πάνω βέλος v]
-κινήσου (10) βήματα
+when [up arrow v] key pressed
+move (10) steps
 
-όταν πατηθεί το πλήκτρο [κάτω βέλος v]
-κινήσου (-10) βήματα 
+when [down arrow v] key pressed
+move (-10) steps
 ```
 
 --- /task ---

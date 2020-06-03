@@ -43,13 +43,13 @@ Klicke auf "Skripte", um zu deinem Code zurückzukehren. Füge Blöcke hinzu, um
 ![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-wenn Taste [Pfeil nach links v] gedrückt wird 
-wechsel zu Kostüm (Links v)
-drehe dich gegen den Uhrzeigersinn um (15) Grad
+when [left arrow v] key pressed
++switch costume to (Links v)
+turn ccw (15) degrees
 
-wenn Taste [Pfeil nach rechts v] gedrückt wird 
-wechsel zu Kostüm (Rechts v)
-drehe dich im Uhrzeigersinn um (15) Grad
+when [right arrow v] key pressed
++switch costume to (Rechts v)
+turn cw (15) degrees
 ```
 
 --- /task ---
