@@ -40,7 +40,7 @@ title: आपको किन चीजों की आवश्यकता �
 
 ### सॉफ्टवेयर
 
-+ Scratch 3 (चाहे [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (भी [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफ़लाइन](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -61,10 +61,10 @@ title: शिक्षकों के लिए अतिरिक्त जा
 
 --- no-print ---
 
-यदि आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृपया [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"} का उपयोग करें ।
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){: target="_blank"} का उपयोग करें।
 
 --- /no-print ---
 
-आपको यहां [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"} मिलेगा I
+आप इधर [पूरा किया हुआ प्रोजेक्ट](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"} देख सकते हैं ।
 
 --- /collapse ---
