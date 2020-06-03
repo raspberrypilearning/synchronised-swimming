@@ -1,26 +1,26 @@
-## Swimming left and right
+## Nach links und rechts schwimmen
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+Beim Synchronschwimmen führt ein Schwimmteam koordinierte Bewegungen zur Musik aus.
 
-Let's start by getting one cat swimming.
+Beginnen wir damit, eine Katze schwimmen zu lassen.
 
 --- task ---
 
-Open a new Scratch project.
+Erstelle ein neues Scratch-Projekt.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
+**Online**: Öffne ein [neues online Scratch-Projekt](http://rpf.io/scratchnew){:target="_blank"}.
 
-**Offline**: open a new project in the offline editor.
+**Offline**: Öffne ein neues Projekt im Offline-Editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn du den Scratch-Offline-Editor herunterladen und auf deinem Rechner installieren möchtest, findest du die Datei unter diesem Link: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+Lass uns zuerst die Bühne blau machen, damit sie wie ein Schwimmbad aussieht.
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+Klicke auf "Bühne", dann auf die Registerkarte "Bühnenbilder" und dann auf "In Rastergrafik umwandeln".
 
 ![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
 
