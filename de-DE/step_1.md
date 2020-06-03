@@ -1,46 +1,46 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+Dies ist die **Scratch 3** Version des Projekts. Es gibt auch eine [Scratch 2 Version des Projekts](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Einleitung
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+Du wirst lernen, wie du eine Synchronschwimmroutine für "Scratch die Katze" programmierst, indem du Schleifen verwendest und Klone erstellst.
 
-### What you will make
+### Was du machen wirst
 
 --- no-print ---
 
-Use the arrow keys to move the swimmers.
+Verwende die Pfeiltasten, um die Schwimmer zu bewegen.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
   <img src="images/swim-final.png">
 </div>
 
-Tip: You can click on the red stop button to stop the music playing!
+Tipp: Du kannst auf die rote Stopptaste klicken, um die Musikwiedergabe zu stoppen!
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/swim-final.png)
+![fertiges Projekt](images/swim-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Was du brauchen wirst
 ---
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ Ein Computer, auf dem Scratch ausgeführt werden kann
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (entweder [online](http://rpf.io/scratchon){:target="_blank"} oder [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
