@@ -20,7 +20,7 @@
 
 --- task ---
 
-Right-click on the costume and choose duplicate to create a copy.
+انقر بزر الماوس الأيمن على المظهر ثم انقر فوق مضاعفة لإنشاء نسخة من المظهر.
 
 ![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
 
@@ -28,9 +28,9 @@ Right-click on the costume and choose duplicate to create a copy.
 
 --- task ---
 
-Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
+أنقر فوق "إعكس أفقياً" لعكس النسخة ثم قم بتسميتها "يسار".
 
-Your costumes should look like this:
+المظاهر الخاصة بك يجب أن تبدو هكذا:
 
 ![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
 
@@ -40,7 +40,7 @@ Your costumes should look like this:
 
 Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
