@@ -1,25 +1,25 @@
-## Challenge: code your own routine
+## Herausforderung: Programmiere deine eigene Routine
 
-Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
+Kannst du deine eigene Synchronschwimmroutine schreiben, die ausgeführt wird, wenn du die Leertaste oder eine andere Taste drückst?
 
-Try working out a routine using the arrow keys first.
+Versuche zuerst, eine Routine mit den Pfeiltasten auszuarbeiten.
 
-Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
+Verwende `wiederhole`{:class="block3control"}-Schleifen, um dieselben Aktionen mehrmals auszuführen.
 
-Here's an example:
+Hier ist ein Beispiel:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-when [m v] key pressed
-repeat (8)
-    turn cw (45) degrees
-    repeat (20)
-        move (5) steps
-    end
-    repeat (20)
-        move (-5) steps
-    end
-end
+wenn Taste [m V] gedrückt wird
+wiederhole (8) mal
+  drehe dich im Uhrzeigersinn um (45) Grad
+  wiederhole (20) mal
+    gehe (5) er Schritt
+  Ende
+  wiederhole (20) mal
+    gehe (-5) er Schritt
+  Ende
+Ende
 ```
 
