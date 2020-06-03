@@ -1,0 +1,21 @@
+---
+title: Synchronschwimmen
+hero_image: images/banner.png
+description: Feier die Olympischen Spiele, indem du eine Synchronschwimmroutine programmierst.
+duration: 2
+listed: true
+copyedit: true
+version: 4
+last_tested: 2019-03-21
+steps:
+  - title: Einleitung
+  - title: Nach links und rechts schwimmen
+  - title: Kostüm wechseln
+  - title: Erstelle das Team
+  - title: Musik!
+  - title: Programmierte Routinen
+  - title: 'Herausforderung: Programmiere deine eigene Routine'
+    challenge: true
+  - title: 'Herausforderung: Ändere das Team'
+    challenge: true
+  - title: 'Wie geht''s weiter?'
