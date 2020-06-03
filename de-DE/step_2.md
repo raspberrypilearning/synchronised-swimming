@@ -22,82 +22,82 @@ Lass uns zuerst die Bühne blau machen, damit sie wie ein Schwimmbad aussieht.
 
 Klicke auf "Bühne", dann auf die Registerkarte "Bühnenbilder" und dann auf "In Rastergrafik umwandeln".
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
+![Scratch-Bildschirm mit hervorgehobenen Elementen "Bühne", "Bühnenbilder" und "In Rastergrafik umwandeln"](images/swim-select-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
+Wähle eine blaue Farbe und das Werkzeug "Mit Farbe füllen" und klicke dann auf den Hintergrund.
 
-![backdrops tab and fill tool selected](images/swim-fill.png)
-
---- /task ---
-
---- task ---
-
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
-
-![delete menu selected](images/swim-delete.png)
+![Registerkarte "Bühnenbilder" und ausgewähltes Füllwerkzeug](images/swim-fill.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+Du wirst eine andere Katzenfigur verwenden. Klicke also auf das Kreuz auf der laufenden Katze, um sie zu löschen.
+
+![Menü löschen ausgewählt](images/swim-delete.png)
+
+--- /task ---
+
+--- task ---
+
+Wähle die `Cat Flying` Figur aus der Bibliothek aus und füge sie deinem Projekt hinzu.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![Cat Flying Figur hervorgehoben](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+Die fliegende Katze sieht aus, als könnte sie schwimmen.
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+Jetzt lass die Katze schwimmen.
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+Wähle die "Cat flying" (Katze fliegt) Figur aus. Klicke auf "Skripte" und füge den Code hinzu, damit sich die Katze nach links oder rechts dreht, wenn die linke oder rechte Pfeiltaste gedrückt wird.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-when [left arrow v] key pressed
-turn ccw (15) degrees
+wenn die Taste [Pfeil nach links v] gedrückt wird, 
+drehe dich gegen den Uhrzeigersinn um (15) Grad
 
-when [right arrow v] key pressed
-turn cw (15) degrees
+wenn die Taste [Pfeil nach rechts v] gedrückt wird, 
+drehe dich im Uhrzeigersinn um (15) Grad
 ```
 
 --- /task ---
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+Teste deinen Code, indem du die linke und rechte Pfeiltaste auf der Tastatur drückst.
 
-![cat sprite rotated right](images/swim-right.png)
+![Katzenfigur nach rechts gedreht](images/swim-right.png)
 
 --- /task ---
 
 --- task ---
 
-And add the code for the forward and backward movement.
+Und füge den Code für die Vorwärts- und Rückwärtsbewegung hinzu.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-when [up arrow v] key pressed
-move (10) steps
+Wenn die Taste [Pfeil nach oben v] gedrückt wird
+bewege dich (10) Schritte
 
-when [down arrow v] key pressed
-move (-10) steps 
+Wenn die Taste [Pfeil nach unten v] gedrückt wird
+bewege dich (-10) Schritte 
 ```
 
 --- /task ---
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Teste deinen Code, indem du mit den Pfeiltasten über die Bühne schwimmst.
 
 --- /task ---
