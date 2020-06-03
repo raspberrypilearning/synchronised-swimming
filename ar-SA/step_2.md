@@ -74,7 +74,7 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+إختبر التعليمات البرمجية الخاصة بك بالضغط على مفاتيح الأسهم الأيسر والأيمن في لوحة المفاتيح.
 
 ![cat sprite rotated right](images/swim-right.png)
 
@@ -84,7 +84,7 @@ Test your code by pressing the left and right arrow keys on the keyboard.
 
 And add the code for the forward and backward movement.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
 when [up arrow v] key pressed
