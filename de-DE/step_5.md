@@ -1,39 +1,39 @@
-## Music!
+## Musik!
 
-A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
+Eine Synchronschwimmroutine braucht Musik. (Falls du keinen Ton abspielen kannst, kannst du diesen Schritt überspringen.)
 
 --- task ---
 
-Choose a sound from the `Loops` category and add it to your sprite.
+Wähle einen Sound aus der Kategorie `Schleifen` und füge ihn deiner Figur hinzu.
 
 [[[generic-scratch3-sound-from-library]]]
 
-![dance around sound selected in sounds library](images/swim-dance.png)
+!["dance around“- Klang in der Klangbibliothek ausgewählt](images/swim-dance.png)
 
 --- /task ---
 
 --- task ---
 
-Now go back to 'Code' and add the blocks to play your music:
+Geh nun zurück zu 'Skripte' und füge die Blöcke hinzu, um deine Musik abzuspielen:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-forever
-play sound (dance around v) until done
-end
+Wenn die grüne Flagge angeklickt wird
+wiederhole fortlaufend
+spiele Klang (dance around) ganz
+ende
 ```
 
-Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating.
+Wenn du den `spiele Klang`{:class="block3sound"}-Block in eine `wiederhole fortlaufend`{:class="block3control"}-Schleife einfügst, wird die Musik ständig wiederholt.
 
 --- /task ---
 
 --- task ---
 
-Test your project.
+Teste dein Projekt.
 
-You can click on the red stop button to stop the music playing!
+Du kannst auf die rote Stopp-Schaltfläche klicken, um die Musikwiedergabe zu stoppen!
 
 --- /task ---
 
