@@ -1,63 +1,63 @@
 ## Kostüm wechseln
 
-Hmm, this would look better if the cat sprite changed direction when it turns left.
+Hmm, es würde besser aussehen, wenn die Katzenfigur die Richtung ändert, wenn es sich links herum dreht.
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat flying-a' costume.
+Klicke auf "Kostüme" und lösche das Kostüm "cat flying-a".
 
-![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
+![Registerkarte Kostüme und Löschsymbol auf dem Kostüm hervorgehoben](images/swim-delete-a.png)
 
 --- /task ---
 
 --- task ---
 
-Rename the remaining costume from 'cat flying-b' to 'right'.
+Benenne das verbleibende Kostüm von "cat flying-b" in "Rechts" um.
 
-![name right highlighted in costumes tab](images/swim-costume-right.png)
-
---- /task ---
-
---- task ---
-
-Right-click on the costume and choose duplicate to create a copy.
-
-![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
+![Name Rechts auf der Registerkarte Kostüme hervorgehoben](images/swim-costume-right.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
+Klicke mit der rechten Maustaste auf das Kostüm und wähle Duplizieren, um eine Kopie zu erstellen.
 
-Your costumes should look like this:
-
-![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
+![Kostümmenü mit hervorgehobenem Duplizieren](images/swim-costume-duplicate.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
+Klicke auf "Horizontal spiegeln", um die Kopie zu spiegeln. Nenne sie dann "Links".
 
-![swimmer sprite](images/swimmer-sprite.png)
+Deine Kostüme sollten so aussehen:
+
+![neues Kostüm nach links blickend mit Flip-Symbol und hervorgehobenem Namen](images/swim-costume-left.png)
+
+--- /task ---
+
+--- task ---
+
+Klicke auf "Skripte", um zu deinem Code zurückzukehren. Füge Blöcke hinzu, um das Kostüm zu ändern, wenn die Richtung geändert wird.
+
+![Schwimmer Figur](images/swimmer-sprite.png)
 
 ```blocks3
-when [left arrow v] key pressed
-+switch costume to (left v)
-turn ccw (15) degrees
+wenn Taste [Pfeil nach links v] gedrückt wird 
+wechsel zu Kostüm (Links v)
+drehe dich gegen den Uhrzeigersinn um (15) Grad
 
-when [right arrow v] key pressed
-+switch costume to (right v)
-turn cw (15) degrees
+wenn Taste [Pfeil nach rechts v] gedrückt wird 
+wechsel zu Kostüm (Rechts v)
+drehe dich im Uhrzeigersinn um (15) Grad
 ```
 
 --- /task ---
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Teste deinen Code, indem du mit den Pfeiltasten über die Bühne schwimmst.
 
-![sprite facing left](images/swim-test-left.png)
+![Figur nach links blickend](images/swim-test-left.png)
 
 --- /task ---
