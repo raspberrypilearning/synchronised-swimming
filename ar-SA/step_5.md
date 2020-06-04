@@ -16,12 +16,12 @@
 
 الآن عُد إلى "المقاطع البرمجية" وأضف التعليمة لتشغيل الموسيقى الخاصة بك:
 
-![الكائن السباح](images/swimmer-sprite.png)
+![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-forever
-play sound (dance around v) until done
+عند نقر العلم الأخضر
+كرّر باستمرار
+شغِّل الصوت (dance around v) وانتظر انهاءه
 end
 ```
 
