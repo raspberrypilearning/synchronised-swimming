@@ -1,61 +1,61 @@
 ## أنشئ الفريق
 
-السباحة المتزامنة تحتاج إلى أكثر من قطة واحدة! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+السباحة المتزامنة تحتاج إلى أكثر من قطة واحدة! يمكننا استخدام `أنشئ نسخة من`{:class="block3control"} لإنشاء نسخ تتصرف بنفس الطريقة.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+أولاً دعونا نضيف تعليمة برمجية للتأكد من أن القط يبدأ دائماً في نفس الموضع عند النقر على العلم الأخضر.
 
 ![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-go to x: (0) y: (0)
-point in direction (90 v)
+عند نقر العلم الأخضر
+اذهب إلى الموضع س: (0) ص: (0)
+اتجه نحو الاتجاه (90 v)
 ```
 
 --- /task ---
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+اختبر التعليمات البرمجية الخاصة بك بالضغط على بعض مفاتيح الأسهم ثم انقر فوق العلم الأخضر للعودة إلى موضع البداية.
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+الآن يمكننا استخدام التعليمة`كرّر`{:class="block3control"} لإنشاء 6 نسخ من القطة.
 
 ![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-go to x: (0) y: (0)
-point in direction (90 v)
-+repeat (6)
-create clone of (myself v)
+عند نقر العلم الأخضر
+اذهب إلى الموضع س: (0) ص: (0)
+اتجه نحو الاتجاه (90 v)
++ كرّر (6) مرة
+أنشئ نسخة من (نفسيv)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+تستخدم التعليمة (تكرار) للقيام بنفس الشيء عدة مرات.
 
 --- /task ---
 
 --- task ---
 
-لا تريد أن تكون جميع القطط في نفس المكان!
+لا تريد أن تكون جميع القطط في نفس الوضع!
 
-Add code to rotate 60 degrees before creating each clone.
+أضف تعليمة برمجية للتدوير 60 درجة قبل إنشاء كل نسخة.
 
 ![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
-go to x: (0) y: (0)
-point in direction (90 v)
-repeat (6)
-+turn cw (60) degrees
-create clone of (myself v)
+عند نقر العلم الأخضر
+اذهب إلى الموضع س: (0) ص: (0)
+اتجه نحو الاتجاه (90 v)
+كرّر (6) مرة
++إستدر cw (60) درجة
+أنشئ نسخة من (نفسيv)
 end
 ```
 
@@ -63,7 +63,7 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. يجب أن تكون قادراً على إنشاء بعض أنماط السباحة المتزامنة المذهلة!
+ اختبر التعليمات البرمجية الخاصة بك باستخدام مفاتيح الأسهم. يجب أن تكون قادراً على إنشاء بعض أنماط السباحة المتزامنة المذهلة!
 
 ![6 كائنات من القطط جميعها في مواقع ومواضع دوران مختلفة](images/swim-test-clones.png)
 
