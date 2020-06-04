@@ -1,18 +1,18 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+هذا هو إصدار ** Scratch 3 ** من المشروع. هناك أيضًا [ إصدار Scratch 2 للمشروع ](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
 
 --- /no-print ---
 
 ## المقدمة
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+سوف تتعلم كيفية برمجة روتين السباحة المتزامنة لسكراتش القطة باستخدام التكرار وإنشاء النسخ.
 
 ### ما الذي ستصنعه
 
 --- no-print ---
 
-Use the arrow keys to move the swimmers.
+استخدم مفاتيح الأسهم في لوحة المفاتيح لتحريك السبّاحين.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
@@ -25,7 +25,7 @@ Use the arrow keys to move the swimmers.
 
 --- print-only ---
 
-![complete project](images/swim-final.png)
+![المشروع كامل](images/swim-final.png)
 
 --- /print-only ---
 
@@ -40,7 +40,7 @@ title: ما ستحتاج إليه
 
 ### البرامج
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون الإتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -49,8 +49,8 @@ title: ما ستحتاج إليه
 title: ما الذي ستتعلمه
 ---
 
-- Use clones to create many sprites all the same
-- Use key pressed events to move sprites
+- استخدام النسخ لإنشاء العديد من الكائنات نفسها
+- استخدام التعليمات البرمجية "عند ضغط مفتاح" الموجودة في المقطع البرمجي "الأحداث" لتحريك الكائنات
 
 --- /collapse ---
 
