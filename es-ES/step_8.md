@@ -1,23 +1,23 @@
-## Challenge: change the team
+## Desafío: cambiar el equipo
 
-Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four.
+¿Puedes cambiar el número de nadadores en el equipo? Los equipos de natación sincronizada generalmente tienen ocho miembros, pero pueden tener tan solo cuatro.
 
-![8 cat swimmers in the team](images/swim-eight.png)
+![8 gatos nadadores en el equipo](images/swim-eight.png)
 
 --- hints ---
 
 --- hint ---
 
-As well as changing the number of swimmers you'll need to change their starting position.
+Además de cambiar el número de nadadores necesitarás cambiar su posición inicial.
 
 --- /hint ---
 
 --- hint ---
 
-360 divided by 8 is 45; 360 divided by 4 is 90.
+360 dividido entre 8 es 45; 360 dividido por 4 es 90.
 
 --- /hint ---
 
 --- /hints ---
 
-You could also change the sprite that you use. 
+También puedes cambiar el objeto que utilices. 
