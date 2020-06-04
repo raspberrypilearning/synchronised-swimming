@@ -2,23 +2,23 @@
 
 هل يمكنك كتابة روتين السباحة المتزامن الخاص بك ليتم تنفيذه عندما تقوم بالضغط على مفتاح المسافة أو مفتاح آخر؟
 
-Try working out a routine using the arrow keys first.
+جرب ممارسة روتين باستخدام مفاتيح الأسهم أولاً.
 
-Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
+استخدم التعليمة`كرّر`{:class="block3control"} لتنفيذ نفس الإجراءات عدة مرات.
 
 إليك مثالاً:
 
 ![الكائن السباح](images/swimmer-sprite.png)
 
 ```blocks3
-when [m v] key pressed
-repeat (8)
-    turn cw (45) degrees
-    repeat (20)
-        move (5) steps
+عند ضغط مفتاح [m v]
+كرّر (8) مرة
+    استدر cw (45) درجة
+    كرّر (20) مرة
+        تحرك (5) خطوة
     end
-    repeat (20)
-        move (-5) steps
+    كرّر (20) مرة
+        تحرك (-5) خطوة
     end
 end
 ```
