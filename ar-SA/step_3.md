@@ -6,7 +6,7 @@
 
 انقر على "المظاهر" واحذف مظهر"القط الطائر-أ".
 
-![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
+![تم تمييز تبويب المظاهر وحذف أيقونة على المظهر](images/swim-delete-a.png)
 
 --- /task ---
 
@@ -14,7 +14,7 @@
 
 إعادة تسمية المظهر المتبقي من "القط الطائر-ب" إلى "يمين".
 
-![name right highlighted in costumes tab](images/swim-costume-right.png)
+![تم تمييز اسم اليمين في تبويب المظاهر](images/swim-costume-right.png)
 
 --- /task ---
 
