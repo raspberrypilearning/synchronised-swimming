@@ -4,17 +4,17 @@
 
 --- task ---
 
-Choose a sound from the `Loops` category and add it to your sprite.
+اختر صوت من فئة `تكرار` وأضفه إلى الكائن الخاص بك.
 
 [[[generic-scratch3-sound-from-library]]]
 
-![dance around sound selected in sounds library](images/swim-dance.png)
+![تم اختيار صوت dance around في مكتبة الأصوات](images/swim-dance.png)
 
 --- /task ---
 
 --- task ---
 
-Now go back to 'Code' and add the blocks to play your music:
+الآن عُد إلى "المقاطع البرمجية" وأضف التعليمة لتشغيل الموسيقى الخاصة بك:
 
 ![الكائن السباح](images/swimmer-sprite.png)
 
@@ -25,7 +25,7 @@ play sound (dance around v) until done
 end
 ```
 
-Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating.
+وضع `شغِّل الصوت `{:class="block3sound"} داخل `كرّر باستمرار`{:class="block3control"} يعني أن الموسيقى ستستمر في التكرار.
 
 --- /task ---
 
