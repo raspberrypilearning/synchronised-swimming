@@ -4,7 +4,7 @@
 
 --- task ---
 
-انقر على "المظاهر" واحذف مظهر"القط الطائر-أ".
+انقر على "المظاهر" واحذف مظهر"Cat Flying-a".
 
 ![تم تمييز تبويب المظاهر وحذف أيقونة على المظهر](images/swim-delete-a.png)
 
@@ -12,7 +12,7 @@
 
 --- task ---
 
-إعادة تسمية المظهر المتبقي من "القط الطائر-ب" إلى "يمين".
+أعد تسمية المظهر المتبقي، من "Cat Flying-b" إلى "يمين".
 
 ![تم تمييز اسم اليمين في تبويب المظاهر](images/swim-costume-right.png)
 
@@ -22,7 +22,7 @@
 
 انقر بزر الماوس الأيمن على المظهر ثم انقر فوق مضاعفة لإنشاء نسخة من المظهر.
 
-![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
+![قائمة المظاهر مع تمييز مضاعفة](images/swim-costume-duplicate.png)
 
 --- /task ---
 
@@ -32,32 +32,32 @@
 
 المظاهر الخاصة بك يجب أن تبدو هكذا:
 
-![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
+![مظهر جديد موجه لليسار مع تمييز ايقونة العكس والإسم](images/swim-costume-left.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
+انقر فوق "المقاطع البرمجية" للعودة إلى التعليمات البرمجية الخاصة بك وإضافة تعليمات برمجية لتغيير المظهر عند تغيير الاتجاه.
 
 ![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
-when [left arrow v] key pressed
-+switch costume to (left v)
-turn ccw (15) degrees
+عند ضغط مفتاح [السهم الأيسر v]
++ غيّر المظهر إلى (يسار v)
+استدر ccw (15) درجة
 
-when [right arrow v] key pressed
-+switch costume to (right v)
-turn cw (15) degrees
+عند ضغط مفتاح [السهم الأيسر v]
++ غيّر المظهر إلى (يمين v)
+استدر cw (15) درجة
 ```
 
 --- /task ---
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+اختبر التعليمة البرمجية الخاصة بك بالسباحة حول المنصة باستخدام مفاتيح الأسهم.
 
-![sprite facing left](images/swim-test-left.png)
+![كائن موجه لليسار](images/swim-test-left.png)
 
 --- /task ---
