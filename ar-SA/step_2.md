@@ -30,7 +30,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 حدد اللون الأزرق وأداة "ملء بلون" ثم انقر على الخلفية.
 
-![backdrops tab and fill tool selected](images/swim-fill.png)
+![تم تحديد علامة التبويب "الخلفيات" وأداة الملء](images/swim-fill.png)
 
 --- /task ---
 
@@ -38,13 +38,13 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 ستستخدم كائناً قطاً مختلفًا، لذا أنقر على علامة الخطأ الموجودة على القط الماشي لحذفه.
 
-![delete menu selected](images/swim-delete.png)
+![تم تحديد قائمة الحذف](images/swim-delete.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+إختر كائن`القط الطائر` من المكتبة وقم بإضافته لمشروعك.
 
 [[[generic-scratch3-sprite-from-library]]]
 
