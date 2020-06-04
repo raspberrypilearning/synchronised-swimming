@@ -16,11 +16,11 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 --- /task ---
 
-دعنا أولاً نحول المسرح إلى اللون الأزرق حتى يبدو وكأنه مسبح.
+دعنا أولاً نحول المنصة إلى اللون الأزرق حتى تبدو وكأنها مسبح.
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+انقر فوق "المنصة" ثم علامة التبويب "الخلفيات" ثم "تحويل إلى رسم نقطي".
 
 ![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
 
