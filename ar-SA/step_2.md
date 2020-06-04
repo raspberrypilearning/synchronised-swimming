@@ -8,11 +8,11 @@
 
 افتح مشروع فارغ جديد في Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
+**متصل بالإنترنت**: افتح [مشروع سكراتش جديد](http://rpf.io/scratchnew) {:target="_blank"}.
 
-**Offline**: open a new project in the offline editor.
+**دون اتصال بالإنترنت**: افتح مشروع سكراتش جديد عبر المحرر الموجود على جهازك دون اتصال بالإنترنت.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا كنت بحاجة إلى تنزيل وتنصيب محرر سكراتش الذي يعمل دون الإتصال بالإنترنت، يمكنك العثور عليه في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
@@ -22,7 +22,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 انقر فوق "المنصة" ثم علامة التبويب "الخلفيات" ثم "تحويل إلى رسم نقطي".
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
+![شاشة سكراتش مع تمييز المنصة والخلفيات وتحويل الى رسم نقطي](images/swim-select-backdrop.png)
 
 --- /task ---
 
@@ -44,11 +44,11 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 --- task ---
 
-إختر كائن`القط الطائر` من المكتبة وقم بإضافته لمشروعك.
+إختر كائن`Cat Flying` من المكتبة وقم بإضافته لمشروعك.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![تم تمييز كائن القط الطائر](images/swim-sprite.png)
 
 تبدو القطة الطائرة وكأنها تسبح.
 
@@ -58,16 +58,16 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 الآن دعونا نجعل القط يسبح.
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+حدد كائن "Cat flying"، انقر فوق "المقاطع البرمجية" وأضف المقاطع البرمجية لجعل القط يدور لليسار واليمين عند الضغط على مفاتيح الأسهم الأيسر والأيمن.
 
 ![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
-when [left arrow v] key pressed
-turn ccw (15) degrees
+عند الضغط على مفتاح [السهم الأيسر v]
+إستدر ccw (15) درجة
 
-when [right arrow v] key pressed
-turn cw (15) degrees
+عند الضغط على مفتاح [السهم الأيمن v]
+إستدر cw (15) درجة
 ```
 
 --- /task ---
@@ -76,28 +76,28 @@ turn cw (15) degrees
 
 إختبر التعليمات البرمجية الخاصة بك بالضغط على مفاتيح الأسهم الأيسر والأيمن في لوحة المفاتيح.
 
-![cat sprite rotated right](images/swim-right.png)
+![الكائن القط يدور لليمين](images/swim-right.png)
 
 --- /task ---
 
 --- task ---
 
-And add the code for the forward and backward movement.
+أضف التعليمات البرمجية للتحرك إلى الأمام وإلى الخلف.
 
 ![الكائن السبّاح](images/swimmer-sprite.png)
 
 ```blocks3
-when [up arrow v] key pressed
-move (10) steps
+عند الضغط على مفتاح [السهم العلوي v]
+تحرك (10) خطوة
 
-when [down arrow v] key pressed
-move (-10) steps 
+عند الضغط على مفتاح [السهم السفلي v]
+تحرك (-10) خطوة 
 ```
 
 --- /task ---
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+اختبر التعليمة البرمجية الخاصة بك من خلال السباحة حول المنصة باستخدام مفاتيح الأسهم.
 
 --- /task ---
