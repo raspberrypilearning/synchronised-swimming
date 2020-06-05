@@ -1,46 +1,46 @@
-## Changing costume
+## コスチュームをかえる
 
-Hmm, this would look better if the cat sprite changed direction when it turns left.
+うーん、ネコのスプライトが左に向いたときには向きをかえた方が見た目が良いですね。
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat flying-a' costume.
+「コスチューム」をクリックして「cat flying-a」コスチュームを削除します。
 
-![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
+![コスチュームタブと削除アイコンが強調されている](images/swim-delete-a.png)
 
 --- /task ---
 
 --- task ---
 
-Rename the remaining costume from 'cat flying-b' to 'right'.
+のこったコスチュームの名前を「cat flying-b」から「右」にかえます。
 
-![name right highlighted in costumes tab](images/swim-costume-right.png)
-
---- /task ---
-
---- task ---
-
-Right-click on the costume and choose duplicate to create a copy.
-
-![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
+![コスチュームタブで強調された名前「右」](images/swim-costume-right.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
+コスチュームを右クリックし、「複製」（ふくせい）をえらんでコピーを作ります。
 
-Your costumes should look like this:
-
-![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
+![コスチュームのメニューで「複製」が強調されている](images/swim-costume-duplicate.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
+「左右反転」のアイコンをクリックし、コピーしたものを反転して、名前を「左」にします。
 
-![swimmer sprite](images/swimmer-sprite.png)
+コスチュームは次のようになります。
+
+![反転アイコンと名前が強調された、左を向いた新しいコスチューム](images/swim-costume-left.png)
+
+--- /task ---
+
+--- task ---
+
+「コード」をクリックしてコードにもどり、ブロックを追加して向きがかわったらコスチュームもかわるようにします。
+
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -56,8 +56,8 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+矢印キーを使い、ステージ中を泳いでコードをテストしましょう。
 
-![sprite facing left](images/swim-test-left.png)
+![左を向いたスプライト](images/swim-test-left.png)
 
 --- /task ---
