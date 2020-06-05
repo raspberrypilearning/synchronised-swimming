@@ -44,23 +44,23 @@ In synchronised swimming a team of swimmers perform a coordinated routine of mov
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+ライブラリから`Cat Flying` (とんでいるネコ) スプライトをえらび、プロジェクトに追加 (ついか) します。
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![強調された Cat Flying スプライト](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+とんでいるネコは泳いでいるようにも見えます。
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+さあ、ネコを泳がせましょう。
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+「Cat Flying」スプライトを選択 (せんたく) して「コード」をクリックし、左右の矢印キーを押したときにネコを左右に回転させるコードを追加します。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -74,9 +74,9 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+キーボードで左右の矢印キーを押して、コードをテストしてみましょう。
 
-![cat sprite rotated right](images/swim-right.png)
+![右を向くネコのスプライト](images/swim-right.png)
 
 --- /task ---
 
@@ -84,7 +84,7 @@ Test your code by pressing the left and right arrow keys on the keyboard.
 
 And add the code for the forward and backward movement.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when [up arrow v] key pressed
