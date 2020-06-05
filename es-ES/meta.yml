@@ -1,0 +1,21 @@
+---
+title: Natación sincronizada
+hero_image: images/banner.png
+description: Celebra las Olimpiadas programando una rutina de natación sincronizada.
+duration: 2
+listed: true
+copyedit: true
+version: 4
+last_tested: 2019-03-21
+steps:
+  - title: Introducción
+  - title: Nadando a izquierda y derecha
+  - title: Cambiando el disfraz
+  - title: Crear el equipo
+  - title: '¡Música!'
+  - title: Rutinas programadas
+  - title: 'Desafío: programa tu propia rutina'
+    challenge: true
+  - title: 'Desafío: cambiar el equipo'
+    challenge: true
+  - title: '¿Qué sigue?'
