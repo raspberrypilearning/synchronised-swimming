@@ -4,9 +4,9 @@
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+スペースキーが押されたときの演技 (えんぎ) を追加してみましょう。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+プロジェクトを実行し、スペースキーを押して新しいルーティンをテストしましょう。
 
-![sprites swimming around](images/swim-routine.png)
+![泳ぎまわるスプライト](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+スペースキーを押す前に矢印キーを使ってべつの位置に移動してみましょう。
 
 --- /task ---
 
