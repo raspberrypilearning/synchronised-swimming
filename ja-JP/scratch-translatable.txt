@@ -1,3 +1,3 @@
-right
+右
 
-left
+左
