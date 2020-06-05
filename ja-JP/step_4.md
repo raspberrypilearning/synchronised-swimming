@@ -18,15 +18,15 @@ point in direction (90 v)
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+矢印キーを何回か押してから、緑の旗をクリックしてみて、はじめの位置にもどるかテストしましょう。
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+これで`繰り返す`{:class="block3control"} (くりかえす) ループを使って、6ぴきのネコのクローン（コピー）を作ることができます。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ create clone of (myself v)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+ループは同じことを何回もするのに使います。
 
 --- /task ---
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+ネコがすべて同じ位置になるのはいやですよね・・・。
 
-Add code to rotate 60 degrees before creating each clone.
+それぞれのクローンをつくる前に、60度回転するコードを追加します。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,8 +63,8 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ 矢印キーを使ってコードをテストしましょう。 You should be able to create some amazing synchronised swimming patterns!
 
-![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+![すべて位置や向きがちがう6ぴきのネコのスプライト](images/swim-test-clones.png)
 
 --- /task ---
