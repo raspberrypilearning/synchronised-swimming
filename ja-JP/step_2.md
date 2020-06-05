@@ -1,4 +1,4 @@
-## Swimming left and right
+## 左右に泳ぐ
 
 In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
 
