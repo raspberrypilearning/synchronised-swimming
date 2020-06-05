@@ -63,7 +63,7 @@ end
 
 --- task ---
 
- 矢印キーを使ってコードをテストしましょう。 You should be able to create some amazing synchronised swimming patterns!
+ 矢印キーを使ってコードをテストしましょう。 すばらしいアーティスティック・スイミングのパターンが作られているはずです！
 
 ![すべて位置や向きがちがう6ぴきのネコのスプライト](images/swim-test-clones.png)
 
