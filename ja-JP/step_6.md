@@ -1,6 +1,6 @@
-## Programmed routines
+## プログラムによるルーティン
 
-Would you like to be able to perfect a routine and easily repeat it?
+ルーティンを完成 (かんせい) させて、かんたんに繰り返せるようにしたいと思いませんか？
 
 --- task ---
 
