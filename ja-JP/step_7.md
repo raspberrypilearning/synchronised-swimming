@@ -1,8 +1,8 @@
-## Challenge: code your own routine
+## チャレンジ: 自分のルーティンをプログラムする
 
 Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
 
-Try working out a routine using the arrow keys first.
+まずは矢印キーを使ってルーティンを作ってみてください。
 
 Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
 
