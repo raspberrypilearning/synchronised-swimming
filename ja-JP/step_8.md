@@ -1,23 +1,23 @@
-## Challenge: change the team
+## チャレンジ: チームをかえる
 
-Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four.
+チームにいるネコの数をかえられますか？ ふつうはアーティスティック・スイミングのチームには8人いますが、最低 (さいてい) で4人の場合もあります。
 
-![8 cat swimmers in the team](images/swim-eight.png)
+![チームにいる8ぴきの泳ぐネコ](images/swim-eight.png)
 
 --- hints ---
 
 --- hint ---
 
-As well as changing the number of swimmers you'll need to change their starting position.
+泳ぐネコの数をかえるだけでなく、始める位置もかえる必要があります。
 
 --- /hint ---
 
 --- hint ---
 
-360 divided by 8 is 45; 360 divided by 4 is 90.
+360を8でわると45になり，360を4でわると90になります。
 
 --- /hint ---
 
 --- /hints ---
 
-You could also change the sprite that you use. 
+使用するスプライトをかえることもできます。 
