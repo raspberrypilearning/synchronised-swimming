@@ -1,10 +1,10 @@
-## Create the team
+## チームを作る
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+アーティスティック・スイミングにはもっとたくさんのネコが必要です！ We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+まず、緑の旗 (はた) を押したときにいつも同じ位置 (いち) から開始するようにコードを追加しましょう。
 
 ![swimmer sprite](images/swimmer-sprite.png)
 
