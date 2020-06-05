@@ -6,7 +6,7 @@
 
 まず、緑の旗 (はた) を押したときにいつも同じ位置 (いち) から開始するようにコードを追加しましょう。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
