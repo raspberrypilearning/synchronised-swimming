@@ -1,6 +1,6 @@
 ## 左右に泳ぐ
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+アーティスティック・スイミングでは、チームが音楽に合わせて協調 (きょうちょう) した動きを行います。
 
 まずは1ぴきのネコを泳がせることから始めましょう。
 
@@ -98,6 +98,6 @@ move (-10) steps
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+矢印キーを使い、ステージ中を泳いでコードをテストしましょう。
 
 --- /task ---
