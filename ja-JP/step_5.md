@@ -1,22 +1,22 @@
-## Music!
+## 音楽！
 
-A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
+アーティスティック・スイミングには音楽が必要です。 （ただし、音楽を再生できない場合はこの手順 (てじゅん) をとばすことができます。）
 
 --- task ---
 
-Choose a sound from the `Loops` category and add it to your sprite.
+`ループ`カテゴリから音楽をえらび、スプライトに追加します。
 
 [[[generic-scratch3-sound-from-library]]]
 
-![dance around sound selected in sounds library](images/swim-dance.png)
+![音楽ライブラリで選択された音楽「Dance Around」](images/swim-dance.png)
 
 --- /task ---
 
 --- task ---
 
-Now go back to 'Code' and add the blocks to play your music:
+ここで「コード」にもどって、音楽を再生するブロックを追加します。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -25,15 +25,15 @@ play sound (dance around v) until done
 end
 ```
 
-Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating.
+`音を鳴らす`{:class="block3sound"}を`ずっと`{:class="block3control"}ループの中に入れると、音楽が繰り返し再生されます。
 
 --- /task ---
 
 --- task ---
 
-Test your project.
+プロジェクトをテストしましょう。
 
-You can click on the red stop button to stop the music playing!
+赤色の「止める」ボタンをクリックすると、音楽の再生を止めることができます。
 
 --- /task ---
 
