@@ -1,7 +1,7 @@
 ---
-title: Synchronised swimming
+title: アーティスティック・スイミング
 hero_image: images/banner.png
-description: Celebrate the Olympics by programming a synchronised swimming routine.
+description: アーティスティック・スイミングのルーティンをプログラミングしてオリンピックをおいわいしよう
 duration: 2
 listed: true
 copyedit: true
@@ -13,18 +13,18 @@ steps:
   - 
     title: 左右に泳ぐ
   - 
-    title: Changing costume
+    title: コスチュームをかえる
   - 
-    title: Create the team
+    title: チームを作る
   - 
     title: 音楽！
   - 
     title: プログラムによるルーティン
   - 
-    title: 'Challenge: code your own routine'
+    title: 'チャレンジ: 自分のルーティンをプログラムする'
     challenge: true
   - 
-    title: 'Challenge: change the team'
+    title: 'チャレンジ: チームをかえる'
     challenge: true
   - 
     title: '次は何をしましょうか？'
