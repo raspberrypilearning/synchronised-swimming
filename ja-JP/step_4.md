@@ -1,6 +1,6 @@
 ## チームを作る
 
-アーティスティック・スイミングにはもっとたくさんのネコが必要です！ We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+アーティスティック・スイミングにはもっとたくさんのネコが必要です！ `クローンを作る`{:class="block3control"}を使って、同じ動作をするコピーを作ることができます。
 
 --- task ---
 
