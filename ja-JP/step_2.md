@@ -82,7 +82,7 @@ turn cw (15) degrees
 
 --- task ---
 
-And add the code for the forward and backward movement.
+そして、前後に動くコードを追加します。
 
 ![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
