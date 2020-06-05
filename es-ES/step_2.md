@@ -8,7 +8,7 @@ Comencemos haciendo nadar a un gato.
 
 Abre un nuevo proyecto en Scratch.
 
-**En línea**: abre un [nuevo proyecto Scratch en línea](http://rpf.io/scratchnew) {:target="_blank"}.
+**En línea**: abre un [nuevo proyecto Scratch en línea](http://rpf.io/scratchnew){:target="_blank"}.
 
 **Sin conexión:** abre un nuevo proyecto en el editor sin conexión.
 

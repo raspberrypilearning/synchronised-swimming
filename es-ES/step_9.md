@@ -1,4 +1,4 @@
-## ¿Qué hacer a continuación?
+## ¿Qué sigue?
 
 Echa un vistazo al proyecto de Scratch [Tiro con arco](https://projects.raspberrypi.org/es-ES/projects/archery).
 
