@@ -1,0 +1,21 @@
+---
+title: السباحة المتزامنة
+hero_image: images/banner.png
+description: احتفل بالألعاب الأولمبية عن طريق برمجة روتين السباحة المتزامنة.
+duration: 2
+listed: true
+copyedit: true
+version: 4
+last_tested: 2019-03-21
+steps:
+  - title: المقدمة
+  - title: السباحة إلى اليسار واليمين
+  - title: تغيير المظهر
+  - title: أنشئ الفريق
+  - title: الموسيقى!
+  - title: الروتينات المبرمجة
+  - title: 'تحدي: قم ببرمجة روتينك الخاص'
+    challenge: true
+  - title: 'تحدي: تغيير الفريق'
+    challenge: true
+  - title: 'ماذا بعد؟'
