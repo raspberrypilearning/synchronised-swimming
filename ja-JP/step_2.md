@@ -2,43 +2,43 @@
 
 In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
 
-Let's start by getting one cat swimming.
+まずは1ぴきのネコを泳がせることから始めましょう。
 
 --- task ---
 
-Open a new Scratch project.
+新しい Scratch プロジェクトを開きます。
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
+**オンライン**: [新しいオンラインの Scratch プロジェクト](http://rpf.io/scratchnew){:target="_blank"}を開きます。
 
-**Offline**: open a new project in the offline editor.
+**オフライン**：オフラインエディターで新しいプロジェクトを開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}から Scratch オフラインエディターをダウンロードしてインストールできます。
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+まず、ステージを青色にかえて、水泳プールのようにしましょう。
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+「ステージ」から「背景 (はいけい) 」タブをクリックし、「ビットマップに変換 (へんかん)」をクリックします。
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
-
-![backdrops tab and fill tool selected](images/swim-fill.png)
+![「ステージ」、「背景」、「ビットマップに変換」が強調された Scratch の画面](images/swim-select-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+青色をえらんで「塗り (ぬり) つぶし」ツールをクリックし、背景をクリックします。
 
-![delete menu selected](images/swim-delete.png)
+![背景タブと塗りつぶしツールを選択 (せんたく)](images/swim-fill.png)
+
+--- /task ---
+
+--- task ---
+
+べつのネコのスプライトを使うので、右上にあるごみ箱のアイコンを押して (おして) 、歩いているネコのスプライトを削除 (さくじょ) します。
+
+![削除メニューを選択](images/swim-delete.png)
 
 --- /task ---
 
