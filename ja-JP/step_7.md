@@ -1,14 +1,14 @@
 ## チャレンジ: 自分のルーティンをプログラムする
 
-Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
+スペースキーまたは他のキーを押したときに実行される、自分だけのアーティスティック・スイミングのルーティンを書けますか？
 
 まずは矢印キーを使ってルーティンを作ってみてください。
 
-Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
+`ずっと`{:class="block3control"}ループを使うと、何回も同じ動作を実行します。
 
-Here's an example:
+これは一例 (れい) です。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![泳ぐネコのスプライト](images/swimmer-sprite.png)
 
 ```blocks3
 when [m v] key pressed
