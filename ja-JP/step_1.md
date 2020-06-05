@@ -1,70 +1,70 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+これはプロジェクトの**Scratch 3**バージョンです。 [Scratch 2バージョンのプロジェクト](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2)もあります。
 
 --- /no-print ---
 
-## Introduction
+## はじめに
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+ループを使い、クローンを作って、Scratch でネコのアーティスティック・スイミング (シンクロナイズド・スイミング) のルーティンをプログラムする方法を学びます。
 
-### What you will make
+### 作るもの
 
 --- no-print ---
 
-Use the arrow keys to move the swimmers.
+矢印 (やじるし) キーを使ってネコを動かします。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
   <img src="images/swim-final.png">
 </div>
 
-Tip: You can click on the red stop button to stop the music playing!
+ヒント: 赤色の「止める」ボタンをクリックすると、音楽の再生を止めることができます。
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/swim-final.png)
+![完成 (かんせい) したプロジェクト](images/swim-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: 必要（ひつよう）なもの
 ---
 
-### Hardware
+### ハードウェア
 
-+ A computer capable of running Scratch
++ Scratch を実行できるコンピュータ
 
-### Software
+### ソフトウェア
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3（[オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"}）
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 学ぶこと
 ---
 
-- Use clones to create many sprites all the same
-- Use key pressed events to move sprites
+- クローンを使った、まったく同じスプライトをたくさん作る方法
+- 「キーが押された (おされた) とき」イベントを使った、スプライトの動かし方
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title：教育者向けの追加情報
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、[印刷用バージョン](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}を使用してください。
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+[完成したプロジェクトはここ](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}にあります。
 
 --- /collapse ---
