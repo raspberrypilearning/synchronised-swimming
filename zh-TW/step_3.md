@@ -1,10 +1,10 @@
-## Changing costume
+## 改變造型
 
 Hmm, this would look better if the cat sprite changed direction when it turns left.
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat flying-a' costume.
+點擊“服裝”並刪除“超人貓-a”的服裝。
 
 ![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
 
@@ -28,9 +28,9 @@ Right-click on the costume and choose duplicate to create a copy.
 
 --- task ---
 
-Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
+單擊“水平翻轉”以反轉複製，然後取名為“左”。
 
-Your costumes should look like this:
+你的服裝應該會像這樣：
 
 ![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
 
@@ -40,7 +40,7 @@ Your costumes should look like this:
 
 Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![水上精靈貓](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -56,8 +56,8 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+用方向鍵來測試你的寫好的程式，看看你能不能讓精靈貓在舞台上游泳。
 
-![sprite facing left](images/swim-test-left.png)
+![精靈貓向左](images/swim-test-left.png)
 
 --- /task ---
