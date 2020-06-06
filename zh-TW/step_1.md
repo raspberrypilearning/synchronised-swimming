@@ -4,7 +4,7 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 --- /no-print ---
 
-## Introduction
+## 介紹
 
 You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
 
@@ -61,10 +61,10 @@ title: Additional information for educators
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
+如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}。
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+你可以在這裡找到[已經完成的專案](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}。
 
 --- /collapse ---
