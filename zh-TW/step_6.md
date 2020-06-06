@@ -1,6 +1,6 @@
-## Programmed routines
+## 軟體設計的舞蹈
 
-Would you like to be able to perfect a routine and easily repeat it?
+你想編排一套完美的舞蹈並輕鬆地重複嗎？
 
 --- task ---
 
