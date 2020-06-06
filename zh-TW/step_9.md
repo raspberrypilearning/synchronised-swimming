@@ -1,6 +1,6 @@
-## What next?
+## 接下來是什麼？
 
-Take a look at the [Archery](https://projects.raspberrypi.org/en/projects/archery) Scratch project.
+看看[Archery](https://projects.raspberrypi.org/en/projects/archery)的Scratch專案。
 
 --- no-print ---
 
