@@ -6,9 +6,9 @@
 
 ## 介紹
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+你將學習如何在Scratch上使用迴圈以及分身功能來編寫水上芭蕾的程式。
 
-### What you will make
+### 你將會做出
 
 --- no-print ---
 
@@ -49,8 +49,8 @@ title: 你會需要
 title: 你會學到
 ---
 
-- Use clones to create many sprites all the same
-- Use key pressed events to move sprites
+- 使用分身功能來複製許多一模一樣的精靈
+- 使用按鍵來控制精靈貓
 
 --- /collapse ---
 
