@@ -26,7 +26,7 @@ Test your code by pressing some arrow keys and then clicking the green flag to r
 
 Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![水上精靈貓](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -47,7 +47,7 @@ You don't want all the cats to be in the same position!
 
 Add code to rotate 60 degrees before creating each clone.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![水上精靈貓](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,7 +63,7 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ 使用方向鍵來測試你寫好的程式。 你應該能夠創建一些驚艷的水上芭蕾表演了！
 
 ![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
 
