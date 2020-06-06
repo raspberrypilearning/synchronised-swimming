@@ -1,70 +1,70 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+Esta é a versão **Scratch 3** do projeto. Há também uma [versão Scratch 2 do projeto](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Introdução
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+Você vai aprender a programar uma rotina de natação sincronizada para o Scratch, o gato, usando laços e criando clones.
 
-### What you will make
+### O que você vai fazer
 
 --- no-print ---
 
-Use the arrow keys to move the swimmers.
+Use as setas do teclado para mover os nadadores.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
   <img src="images/swim-final.png">
 </div>
 
-Tip: You can click on the red stop button to stop the music playing!
+Dica: você pode clicar no botão vermelho para interromper a música!
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/swim-final.png)
+![projeto concluído](images/swim-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+título: O que você precisará
 ---
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ Um computador capaz de executar o Scratch
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} ou [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+título: O que você vai aprender
 ---
 
-- Use clones to create many sprites all the same
-- Use key pressed events to move sprites
+- Use clones para criar muitos atores da mesma forma
+- Use a tecla pressionada para mover os atores
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+título: informações adicionais para educadores
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
+Se você precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){: target = "_ blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+Você pode encontrar o [projeto concluído aqui](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
