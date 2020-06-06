@@ -4,9 +4,9 @@
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+在按下空白鍵執行動作時，讓我們增加一些舞步。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![水上精靈貓](images/swimmer-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+執行你的專案，然後按空格鍵來測試新的舞步。
 
-![sprites swimming around](images/swim-routine.png)
+![精靈貓們四處游動](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+在按空白鍵之前，試著使用方向鍵來移動他們到不同的位置。
 
 --- /task ---
 
