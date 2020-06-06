@@ -1,10 +1,10 @@
 ## 接下來是什麼？
 
-看看[Archery](https://projects.raspberrypi.org/en/projects/archery)的Scratch專案。
+看看[射箭](https://projects.raspberrypi.org/en/projects/archery)Scratch專案。
 
 --- no-print ---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+點擊綠旗開始。 使用空格鍵，即可射箭
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 --- print-only ---
 
-![complete project](images/archery-final.png)
+![完成專案](images/archery-final.png)
 
 --- /print-only ---
