@@ -19,12 +19,12 @@ steps:
   - 
     title: 音樂!
   - 
-    title: Programmed routines
+    title: 軟體設計的舞蹈
   - 
-    title: 'Challenge: code your own routine'
+    title: '挑戰：編寫屬於自己的一組舞蹈'
     challenge: true
   - 
     title: '挑戰：更換隊伍'
     challenge: true
   - 
-    title: 'What next?'
+    title: '然後呢？'
