@@ -1,46 +1,46 @@
 ## Trocando de fantasia
 
-Hmm, this would look better if the cat sprite changed direction when it turns left.
+Hmm, isso ficaria melhor se o gato mudasse de direção quando virar à esquerda.
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat flying-a' costume.
+Clique em 'Fantasia' e exclua a fantasia 'gato voando'.
 
-![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
+![Aba de "vestuário" e ícone de "deletar" estão destacados no traje](images/swim-delete-a.png)
 
 --- /task ---
 
 --- task ---
 
-Rename the remaining costume from 'cat flying-b' to 'right'.
+Renomeie o traje restante de 'gato voando' para 'direita'.
 
-![name right highlighted in costumes tab](images/swim-costume-right.png)
-
---- /task ---
-
---- task ---
-
-Right-click on the costume and choose duplicate to create a copy.
-
-![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
+![nome à direita destacado na guia fantasia](images/swim-costume-right.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
+Clique com o botão direito no vestuário e selecione duplicar para criar uma cópia
 
-Your costumes should look like this:
-
-![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
+![menu de fantasia com duplicado destacado](images/swim-costume-duplicate.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
+Clique em 'Giro Horizontal' para reverter a cópia e nomeie-a como 'esquerda'.
 
-![swimmer sprite](images/swimmer-sprite.png)
+Suas fantasias devem ficar assim:
+
+![nova fantasia está à esquerda com o ícone de giro e o nome destacado](images/swim-costume-left.png)
+
+--- /task ---
+
+--- task ---
+
+Clique em 'Código' para retornar ao seu código e adicionar blocos para mudar a fantasia quando a direção for alterada.
+
+![Gato nadador](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -56,8 +56,8 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Teste seu código nadando pelo palco usando as teclas de seta do teclado
 
-![sprite facing left](images/swim-test-left.png)
+![Gato virando para a esquerda](images/swim-test-left.png)
 
 --- /task ---
