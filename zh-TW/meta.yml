@@ -1,7 +1,7 @@
 ---
-title: Synchronised swimming
+title: 水上芭蕾
 hero_image: images/banner.png
-description: Celebrate the Olympics by programming a synchronised swimming routine.
+description: 藉由撰寫一組水上芭蕾的程式來慶祝奧林匹克運動會。
 duration: 2
 listed: true
 copyedit: true
@@ -9,22 +9,22 @@ version: 4
 last_tested: 2019-03-21
 steps:
   - 
-    title: Introduction
+    title: 介紹
   - 
-    title: Swimming left and right
+    title: 向左游、向右游
   - 
-    title: Changing costume
+    title: 改變造型
   - 
-    title: Create the team
+    title: 建立隊伍
   - 
-    title: Music!
+    title: 音樂!
   - 
     title: Programmed routines
   - 
     title: 'Challenge: code your own routine'
     challenge: true
   - 
-    title: 'Challenge: change the team'
+    title: '挑戰：更換隊伍'
     challenge: true
   - 
     title: 'What next?'
