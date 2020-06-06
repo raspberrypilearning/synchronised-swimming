@@ -1,22 +1,22 @@
-## Music!
+## 音樂！
 
-A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
+一套水上芭蕾舞蹈需要音樂。 （但是，如果你無法播放聲音，可以跳過此步驟。）
 
 --- task ---
 
-Choose a sound from the `Loops` category and add it to your sprite.
+在`循環`分類中選擇一種音樂加入至你的精靈貓。
 
 [[[generic-scratch3-sound-from-library]]]
 
-![dance around sound selected in sounds library](images/swim-dance.png)
+![在音檔庫裡選擇聲音](images/swim-dance.png)
 
 --- /task ---
 
 --- task ---
 
-Now go back to 'Code' and add the blocks to play your music:
+現在回到“程式”並添加方塊來播放音樂：
 
-![swimmer sprite](images/swimmer-sprite.png)
+![水上精靈貓](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -25,15 +25,15 @@ play sound (dance around v) until done
 end
 ```
 
-Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating.
+在`forever`{:class="block3control"}迴圈內放置`play sound`{:class="block3sound"}，意味著讓音樂將不斷播放。
 
 --- /task ---
 
 --- task ---
 
-Test your project.
+測試您的專案。
 
-You can click on the red stop button to stop the music playing!
+你可以點擊紅色的停止按鈕來停止播放音樂！
 
 --- /task ---
 
