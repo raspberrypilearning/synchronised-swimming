@@ -1,8 +1,8 @@
 ## 向左游、向右游
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+在水上芭蕾中，一組舞者們執行一套與音樂融合並編排過的舞組。
 
-Let's start by getting one cat swimming.
+我們先讓一隻貓學會游泳當作開頭。
 
 --- task ---
 
@@ -22,15 +22,15 @@ Let's start by getting one cat swimming.
 
 點擊“舞台”、點擊“背景”標籤和“轉換成點陣圖”。
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
+![強調儲存舞台螢幕，背景，並轉換為點陣圖](images/swim-select-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
+選擇一種藍色和“ 填滿顏色”工具列，然後點擊背景。
 
-![backdrops tab and fill tool selected](images/swim-fill.png)
+![選擇背景和填充工具](images/swim-fill.png)
 
 --- /task ---
 
@@ -38,17 +38,17 @@ Select a blue colour and the 'Fill with color' tool and then click on the backdr
 
 You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
 
-![delete menu selected](images/swim-delete.png)
+![選擇刪除選單](images/swim-delete.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+從圖庫中選擇` Cat Flying `精靈並加入到您的專案中。
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![強調超人精靈貓](images/swim-sprite.png)
 
 超人貓的姿勢看起來像在游泳。
 
@@ -58,7 +58,7 @@ Choose the `Cat Flying` sprite from the library and add it to your project.
 
 現在讓我們開始教貓游泳。
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+選擇“超人貓”精靈，點擊“程式”並撰寫“程式碼”讓我們能用向左/右方向鍵控制貓向左/右旋轉。
 
 ![水上精靈貓](images/swimmer-sprite.png)
 
@@ -98,6 +98,6 @@ move (-10) steps
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+用方向鍵來測試你的寫好的程式，看看你能不能讓精靈貓在舞台上游泳。
 
 --- /task ---
