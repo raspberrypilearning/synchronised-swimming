@@ -1,10 +1,10 @@
 ## 次は何をしましょうか？
 
-Take a look at the [Archery](https://projects.raspberrypi.org/en/projects/archery) Scratch project.
+Scratch プロジェクト[アーチェリー](https://projects.raspberrypi.org/en/projects/archery)を見てみましょう。
 
 --- no-print ---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+緑の旗をクリックしてスタートします。 スペースバーを使って矢をはなちます。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 --- print-only ---
 
-![complete project](images/archery-final.png)
+![完成したプロジェクト](images/archery-final.png)
 
 --- /print-only ---
