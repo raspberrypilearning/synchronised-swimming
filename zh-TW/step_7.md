@@ -1,14 +1,14 @@
-## Challenge: code your own routine
+## 挑戰：編排專屬的水上舞蹈
 
-Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
+你可以寫出當按下空白鍵或其他按鍵後執行你所編排的水上芭蕾嗎？
 
-Try working out a routine using the arrow keys first.
+試試看，能不能用方向鍵來執行舞蹈動作。
 
-Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
+使用 `repeat`{:class="block3control"}迴圈來執行多次同樣的動作。
 
-Here's an example:
+這裡有個例子：
 
-![swimmer sprite](images/swimmer-sprite.png)
+![水上精靈貓](images/swimmer-sprite.png)
 
 ```blocks3
 when [m v] key pressed
