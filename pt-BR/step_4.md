@@ -1,12 +1,12 @@
-## Create the team
+## Crie uma equipe
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+A natação sincronizada precisa de mais de um gato! Podemos usar ` criar um clone ` {: class = "block3control"} para criar cópias que se comportam da mesma maneira.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+Primeiro, vamos adicionar um código para garantir que o gato sempre comece na mesma posição quando você clicar na bandeira verde.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Gato nadador](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -18,15 +18,15 @@ point in direction (90 v)
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+Teste seu código pressionando as teclas de seta e, em seguida, clicando na bandeira verde para retornar à posição inicial.
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+Agora podemos usar a repetição ` ` {: class = "block3control"} para criar 6 clones (cópias) do gato.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Gato nadador](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ create clone of (myself v)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+Laços de repetição são usados para fazer a mesma coisa várias vezes.
 
 --- /task ---
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+Você não quer que todos os gatos estejam na mesma posição!
 
-Add code to rotate 60 degrees before creating each clone.
+Adicione o código para girar 60 graus antes de criar cada cópia
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Gato nadador](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,8 +63,8 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ Teste seu código usando as teclas de seta do teclado Você deve conseguir criar incríveis padrões de natação sincronizada!
 
-![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+![6 gatos, todos em diferentes posições e rotações](images/swim-test-clones.png)
 
 --- /task ---
