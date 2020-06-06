@@ -1,23 +1,23 @@
-## Challenge: change the team
+## 挑戰：更換隊伍
 
-Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four.
+你有沒有辦法更改隊伍中舞者人數嗎？ 水上芭蕾通常由八名舞者組成，但四位舞者也能組成。
 
-![8 cat swimmers in the team](images/swim-eight.png)
+![團隊中有8名水上舞者（貓）](images/swim-eight.png)
 
 --- hints ---
 
 --- hint ---
 
-As well as changing the number of swimmers you'll need to change their starting position.
+改變水上舞者的人數時也同時需要改變起始位置。
 
 --- /hint ---
 
 --- hint ---
 
-360 divided by 8 is 45; 360 divided by 4 is 90.
+360除以8等於45； 360除以4等於90。
 
 --- /hint ---
 
 --- /hints ---
 
-You could also change the sprite that you use. 
+你也可改變使用的精靈貓。 
