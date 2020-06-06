@@ -1,4 +1,4 @@
-## Swimming left and right
+## 向左游、向右游
 
 In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
 
@@ -6,21 +6,21 @@ Let's start by getting one cat swimming.
 
 --- task ---
 
-Open a new Scratch project.
+建立一個新的 Scratch 專案。
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
+**線上版**: 開啟一個[新的線上Scratch專案](http://rpf.io/scratchnew){:target="_blank"}.
 
-**Offline**: open a new project in the offline editor.
+**離線版**: 在離線編輯器開啟新專案。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果你需要下載 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+首先，讓我們將舞台顏色換成藍色，這樣看起來會像是個游泳池。
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+點擊“舞台”、點擊“背景”標籤和“轉換成點陣圖”。
 
 ![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
 
@@ -50,17 +50,17 @@ Choose the `Cat Flying` sprite from the library and add it to your project.
 
 ![Cat Flying sprite highlighted](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+超人貓的姿勢看起來像在游泳。
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+現在讓我們開始教貓游泳。
 
 Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![水上精靈貓](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -74,17 +74,17 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+在鍵盤上按左/右箭頭鍵來測試你寫的程式。
 
-![cat sprite rotated right](images/swim-right.png)
+![向右旋轉的精靈貓](images/swim-right.png)
 
 --- /task ---
 
 --- task ---
 
-And add the code for the forward and backward movement.
+撰寫程式碼來控制精靈貓的前後移動。
 
-![swimmer sprite](images/swimmer-sprite.png)
+![水上精靈貓](images/swimmer-sprite.png)
 
 ```blocks3
 when [up arrow v] key pressed
