@@ -1,18 +1,18 @@
 ## 改變造型
 
-Hmm, this would look better if the cat sprite changed direction when it turns left.
+恩⋯⋯看起來精靈貓改為向左的方向會更好。
 
 --- task ---
 
 點擊“服裝”並刪除“超人貓-a”的服裝。
 
-![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
+![強調服裝上的服裝標籤和刪除圖標](images/swim-delete-a.png)
 
 --- /task ---
 
 --- task ---
 
-Rename the remaining costume from 'cat flying-b' to 'right'.
+將剩下的服裝，從”超人貓-b”重命名為“右”。
 
 ![name right highlighted in costumes tab](images/swim-costume-right.png)
 
@@ -20,15 +20,15 @@ Rename the remaining costume from 'cat flying-b' to 'right'.
 
 --- task ---
 
-Right-click on the costume and choose duplicate to create a copy.
+在服裝上按右鍵，然後點擊複製來創造一個複製物件。
 
-![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
+![強調複製物件的服裝選單](images/swim-costume-duplicate.png)
 
 --- /task ---
 
 --- task ---
 
-單擊“水平翻轉”以反轉複製，然後取名為“左”。
+單擊“水平翻轉”以反轉複製物件，然後取名為“左”。
 
 你的服裝應該會像這樣：
 
