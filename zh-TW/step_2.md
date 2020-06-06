@@ -36,7 +36,7 @@
 
 --- task ---
 
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+因為你要用到其他的精靈貓，所以我們點一下那隻走路貓右上角打叉標誌來刪除走路貓。
 
 ![選擇刪除選單](images/swim-delete.png)
 
