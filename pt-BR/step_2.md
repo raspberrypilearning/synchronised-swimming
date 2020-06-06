@@ -1,66 +1,66 @@
-## Swimming left and right
+## Nadando à esquerda e à direita
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+Na natação sincronizada, uma equipe de nadadores realiza uma sequência coordenada de movimentos para a música.
 
-Let's start by getting one cat swimming.
+Vamos começar fazendo um gato nadar.
 
 --- task ---
 
-Open a new Scratch project.
+Abra um projeto novo Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
+**Online**: abra um [novo projeto do Scratch online](http://rpf.io/scratchnew) {: target = "_ blank"}.
 
-**Offline**: open a new project in the offline editor.
+**Offline**: abra um novo projeto no editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+Primeiro, vamos deixar o fundo azul para que pareça uma piscina.
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+Clique no 'Palco' e, em seguida, na guia 'Pano de Fundo' e em 'Converter para Bitmap'.
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
-
-![backdrops tab and fill tool selected](images/swim-fill.png)
+![tela de rascunho com palco, cenários e converter para bitmap destacado](images/swim-select-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+Selecione uma cor azul e a ferramenta 'Preencher com cor' e clique no pano de fundo.
 
-![delete menu selected](images/swim-delete.png)
+![guia pano de fundo e ferramenta de preenchimento selecionada](images/swim-fill.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+Você usará um gato diferente, então clique na cruz do gato para excluí-lo.
+
+![menu de exclusão selecionado](images/swim-delete.png)
+
+--- /task ---
+
+--- task ---
+
+Escolha o ` gato voando ` na biblioteca e adicione-o ao seu projeto.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![Gato voando destacado](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+O gato voador parece que está nadando.
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+Agora vamos fazer o gato nadar.
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+Selecione o "gato voando", clique em 'Code' e adicione o código para fazer o gato girar para a esquerda e direita, quando você pressionar as teclas de seta esquerda e direita.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![ator nadador](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -74,17 +74,17 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+Teste seu código pressionando as teclas de seta esquerda e direita do teclado.
 
-![cat sprite rotated right](images/swim-right.png)
+![O gato girou para a direita](images/swim-right.png)
 
 --- /task ---
 
 --- task ---
 
-And add the code for the forward and backward movement.
+E adicione o código para o movimento para frente e para trás.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![Gato nadador](images/swimmer-sprite.png)
 
 ```blocks3
 when [up arrow v] key pressed
@@ -98,6 +98,6 @@ move (-10) steps
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Teste seu código nadando pelo palco usando as teclas de seta do teclado
 
 --- /task ---
