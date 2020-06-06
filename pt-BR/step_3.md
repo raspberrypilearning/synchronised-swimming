@@ -1,4 +1,4 @@
-## Changing costume
+## Trocando de fantasia
 
 Hmm, this would look better if the cat sprite changed direction when it turns left.
 
