@@ -1,12 +1,12 @@
-## Create the team
+## 팀 만들기
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+리듬 수영에는 하나 이상의 고양이가 필요하죠! 우리는 `복제하기`{:class="block3control"}을 사용하여 같은 방식으로 행동하는 복제본을 만들 수 있습니다.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+먼저 녹색 깃발을 클릭할 때 고양이가 항상 같은 위치에서 시작하도록 코드를 추가하겠습니다.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![수영하는 고양이 스프라이트](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -18,15 +18,15 @@ point in direction (90 v)
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+화살표 키를 몇 번 눌러 움직여 준 다음 녹색 깃발을 클릭하여 시작 위치로 돌아가는지 확인하세요.
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+이제 `반복하기`{:class="block3control"} 블록을 사용하여 6개의 복제본(복사본)을 만들 것입니다.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![수영하는 고양이 스프라이트](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ create clone of (myself v)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+반복하기는 같은 일을 여러 번 처리하는 데에 사용합니다.
 
 --- /task ---
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+물론 모든 고양이가 같은 위치에 있는 것을 원하는 것은 아니겠죠!
 
-Add code to rotate 60 degrees before creating each clone.
+각 클론을 만들기 전에 60도씩 회전하는 코드를 추가하세요.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![수영하는 고양이 스프라이트](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,8 +63,8 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ 화살표 키를 사용하여 코드의 동작을 확인하세요. 재미있는 리듬 수영 패턴을 만들 수 있을 것입니다!
 
-![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+![서로 다른 위치와 방향을 가진 6개의 고양이 스프라이트](images/swim-test-clones.png)
 
 --- /task ---
