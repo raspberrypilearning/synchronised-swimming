@@ -1,23 +1,23 @@
-## Challenge: change the team
+## 도전 과제: 팀 바꿔보기
 
-Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four.
+팀의 명 수 구성을 바꿔볼 수 있나요? 리듬 수영 팀에는 일반적으로 8명의 멤버가 있지만 가장 적게는 4명도 가능합니다.
 
-![8 cat swimmers in the team](images/swim-eight.png)
+![8명의 고양이 리듬 수영 선수들](images/swim-eight.png)
 
 --- hints ---
 
 --- hint ---
 
-As well as changing the number of swimmers you'll need to change their starting position.
+팀의 명 수를 변경하는 것 외에도 시작 위치도 변경해야합니다.
 
 --- /hint ---
 
 --- hint ---
 
-360 divided by 8 is 45; 360 divided by 4 is 90.
+360을 8로 나눈 값은 45이고, 360을 4로 나눈 값은 90임을 참고하세요.
 
 --- /hint ---
 
 --- /hints ---
 
-You could also change the sprite that you use. 
+사용하는 스프라이트를 바꿀 수도 있습니다. 
