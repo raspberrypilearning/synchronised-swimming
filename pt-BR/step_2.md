@@ -44,7 +44,7 @@ Você usará um gato diferente, então clique na cruz do gato para excluí-lo.
 
 --- task ---
 
-Escolha o ` gato voando ` na biblioteca e adicione-o ao seu projeto.
+Escolha o `gato voando` na biblioteca e adicione-o ao seu projeto.
 
 [[[generic-scratch3-sprite-from-library]]]
 
