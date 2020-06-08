@@ -24,7 +24,7 @@ point in direction (90 v)
 
 --- task ---
 
-現在我們可以使用`repeat`{:class="block3control"}迴圈來創建6隻貓的分身（副本）。
+現在我們可以使用`循環`{:class="block3control"}迴圈來創建6隻貓的分身（副本）。
 
 ![水上精靈貓](images/swimmer-sprite.png)
 
