@@ -11,14 +11,14 @@
 ![الكائن السباح](images/swimmer-sprite.png)
 
 ```blocks3
-عند ضغط مفتاح [m v]
-كرّر (8) مرة
-    استدر cw (45) درجة
-    كرّر (20) مرة
-        تحرك (5) خطوة
+when [m v] key pressed
+repeat (8)
+    turn cw (45) degrees
+    repeat (20)
+        move (5) steps
     end
-    كرّر (20) مرة
-        تحرك (-5) خطوة
+    repeat (20)
+        move (-5) steps
     end
 end
 ```
