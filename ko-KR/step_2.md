@@ -1,66 +1,66 @@
-## Swimming left and right
+## 좌우로 수영하기
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+리듬 수영을 하는 고양이들은 음악의 박자에 맞춰 동작을 선보일 것입니다.
 
-Let's start by getting one cat swimming.
+고양이 한 마리가 수영하게 해봅시다.
 
 --- task ---
 
-Open a new Scratch project.
+새 스크래치 프로젝트를 엽니다.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
+**온라인**: [새로 만들기](http://rpf.io/scratchnew){:target="_blank"}를 클릭합니다.
 
-**Offline**: open a new project in the offline editor.
+**오프라인**: 오프라인 편집기에서 새 프로젝트를 엽니다.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+먼저 스테이지를 파란색으로 바꿔서 수영장처럼 보이도록 하겠습니다.
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+'무대'를 클릭 한 다음 '배경' 탭과 '비트맵으로 바꾸기'를 클릭하세요.
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
-
-![backdrops tab and fill tool selected](images/swim-fill.png)
+![무대, 배경이 있는 스크래치 화면 및 비트맵으로 바꾸기 버튼(강조 표시됨)](images/swim-select-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+파란색과 '채우기' 도구를 선택한 다음 배경을 클릭하세요.
 
-![delete menu selected](images/swim-delete.png)
+![배경 탭 및 채우기 도구가 선택된 모습](images/swim-fill.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+다른 고양이 스프라이트를 사용할 것이므로, 기본 고양이 스프라이트의 x 표시를 클릭하여 삭제하세요.
+
+![삭제 메뉴가 선택된 모습](images/swim-delete.png)
+
+--- /task ---
+
+--- task ---
+
+라이브러리에서 `Cat Flying` 스프라이트를 골라 프로젝트에 추가하세요.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![Cat Flying 스프라이트(강조 표시됨)](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+생각하기에 따라 날아다니는 고양이가 수영하는 것처럼 보일 수도 있겠죠?
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+이제 고양이가 수영하도록 해봅시다.
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+'Cat flying' 스프라이트를 선택하고 '코드'를 클릭한 다음 왼쪽 및 오른쪽 화살표 키를 누를 때 고양이가 왼쪽과 오른쪽으로 회전하도록 코드를 추가하세요.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![수영하는 고양이 스프라이트](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -74,17 +74,17 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+키보드에서 왼쪽 및 오른쪽 화살표 키를 눌러 코드를 테스트하세요.
 
-![cat sprite rotated right](images/swim-right.png)
+![오른쪽으로 회전된 고양이 스프라이트](images/swim-right.png)
 
 --- /task ---
 
 --- task ---
 
-And add the code for the forward and backward movement.
+전진 및 후진을 위한 코드를 추가하세요.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![수영하는 고양이 스프라이트](images/swimmer-sprite.png)
 
 ```blocks3
 when [up arrow v] key pressed
@@ -98,6 +98,6 @@ move (-10) steps
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+화살표 키를 사용하여 무대 주위에서 수영하면서 코드를 테스트하세요.
 
 --- /task ---
