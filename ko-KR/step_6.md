@@ -1,12 +1,12 @@
-## Programmed routines
+## 안무 프로그래밍하기
 
-Would you like to be able to perfect a routine and easily repeat it?
+안무를 완성하고 반복하고 싶나요?
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+스페이스 키를 눌렀을 때 수행할 동작을 추가합시다.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![수영하는 고양이 스프라이트](images/swimmer-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+프로젝트를 실행하고 스페이스 키를 눌러 새 안무를 테스트하세요.
 
-![sprites swimming around](images/swim-routine.png)
+![이리저리 수영하는 스프라이트](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+스페이스 키를 누르기 전에 화살표 키를 사용하여 다른 위치로 이동해보세요.
 
 --- /task ---
 
