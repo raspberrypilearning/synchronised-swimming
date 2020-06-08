@@ -1,6 +1,6 @@
 ## 建立隊伍
 
-水上芭蕾需要更多舞者！ 我們可以使用`create clone of`{:class="block3control"}來建立一模一樣動作的分身。
+水上芭蕾需要更多舞者！ 我們可以使用`建立分身`{:class="block3control"}來建立一模一樣動作的分身。
 
 --- task ---
 
