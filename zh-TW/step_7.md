@@ -4,7 +4,7 @@
 
 試試看，能不能用方向鍵來執行舞蹈動作。
 
-使用 `repeat`{:class="block3control"}迴圈來執行多次同樣的動作。
+使用 `循環`{:class="block3control"}迴圈來執行多次同樣的動作。
 
 這裡有個例子：
 

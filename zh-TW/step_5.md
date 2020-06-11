@@ -25,7 +25,7 @@ play sound (dance around v) until done
 end
 ```
 
-在`forever`{:class="block3control"}迴圈內放置`play sound`{:class="block3sound"}，意味著讓音樂將不斷播放。
+在`永遠`{:class="block3control"}迴圈內放置`播放音樂`{:class="block3sound"}，意味著讓音樂將不斷播放。
 
 --- /task ---
 

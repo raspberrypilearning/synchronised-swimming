@@ -1,6 +1,6 @@
 ## 建立隊伍
 
-水上芭蕾需要更多舞者！ 我們可以使用 `create clone of`{:class="block3control"}來建立一模一樣動作的分身。
+水上芭蕾需要更多舞者！ 我們可以使用 `建立分身`{:class="block3control"}來建立一模一樣動作的分身。
 
 --- task ---
 
@@ -24,7 +24,7 @@ point in direction (90 v)
 
 --- task ---
 
-現在我們可以使用`repeat`{:class="block3control"}迴圈來創建6隻貓的分身（副本）。
+現在我們可以使用`循環`{:class="block3control"}迴圈來創建6隻貓的分身（副本）。
 
 ![水上精靈貓](images/swimmer-sprite.png)
 
