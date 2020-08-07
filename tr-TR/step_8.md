@@ -1,23 +1,23 @@
-## Challenge: change the team
+## Meydan Okuma: takımı değiştir
 
-Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four.
+Takımdaki yüzücü sayısını değiştirebilir misiniz? Senkronize yüzme takımlarının genellikle sekiz üyesi vardır, ama dört kadar az üyesi de olabilir.
 
-![8 cat swimmers in the team](images/swim-eight.png)
+![Takımdaki 8 kedi yüzücü](images/swim-eight.png)
 
 --- hints ---
 
 --- hint ---
 
-As well as changing the number of swimmers you'll need to change their starting position.
+Yüzücü sayısını değiştirmenin yanı sıra başlangıç pozisyonlarını da değiştirmeniz gerekecektir.
 
 --- /hint ---
 
 --- hint ---
 
-360 divided by 8 is 45; 360 divided by 4 is 90.
+360 bölü 8 eşittir 45; 360 bölü 4 eşittir 90.
 
 --- /hint ---
 
 --- /hints ---
 
-You could also change the sprite that you use. 
+Kullandığınız kuklayı da değiştirebilirsiniz. 
