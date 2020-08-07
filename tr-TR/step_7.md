@@ -1,14 +1,14 @@
-## Challenge: code your own routine
+## Meydan okuma: kendi rutininizi oluşturun
 
-Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
+Boşluk tuşuna veya başka bir tuşa bastığınızda oluşacak bir senkronize yüzme rutinini kendiniz yazabilir misiniz?
 
-Try working out a routine using the arrow keys first.
+Önce ok tuşlarını kullanarak rutin bir çalışma yapmayı deneyin.
 
-Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
+Aynı işlemleri birden çok kez gerçekleştirmek için `tekrarla`{:class="block3control"} döngülerini kullanın.
 
-Here's an example:
+İşte bir örnek:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![yüzücü kuklası](images/swimmer-sprite.png)
 
 ```blocks3
 when [m v] key pressed
