@@ -1,12 +1,12 @@
-## Create the team
+## Takım oluştur
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+Senkronize yüzme için birden fazla kedi gerekir! Aynı şekilde davranan kopyalar oluşturmak için `...'in ikizini yarat`{:class="block3control"} bloğunu kullanabiliriz.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+Önce yeşil bayrağa tıkladığınızda kedinin her zaman aynı pozisyonda başladığından emin olmak için kod ekleyelim.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![yüzücü kuklası](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -18,15 +18,15 @@ point in direction (90 v)
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+Bazı ok tuşlarına basıp kodunuzu test edin ve daha sonra yeşil bayrağı tıklayarak başlangıç konumuna geri dönün.
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+Kedinin 6 klonunu (kopyasını) oluşturmak için `tekrarla`{: class = "block3control"} döngüsünü şimdi kullanabiliriz.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![yüzücü kuklası](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ create clone of (myself v)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+Döngüler aynı şeyi birden çok kez yapmak için kullanılır.
 
 --- /task ---
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+Tüm kedilerin aynı pozisyonda olmasını istemiyorsunuz!
 
-Add code to rotate 60 degrees before creating each clone.
+Her bir klonu oluşturmadan önce 60 derece dönmesi için kod ekleyin.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![yüzücü kuklası](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,8 +63,8 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ Ok tuşlarını kullanarak kodunuzu test edin. Artık bir takım etkileyici senkronize yüzme desenleri oluşturabileceksiniz!
 
-![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+![farklı pozisyon ve rotasyonlarda 6 kedi kuklası](images/swim-test-clones.png)
 
 --- /task ---
