@@ -1,66 +1,66 @@
-## Swimming left and right
+## Nuotare a sinistra e a destra
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+Nel nuoto sincronizzato una squadra di nuotatori esegue una routine coordinata di mosse seguendo la musica.
 
-Let's start by getting one cat swimming.
+Cominciamo a fare nuotare un singolo gatto.
 
 --- task ---
 
-Open a new Scratch project.
+Inizia un nuovo progetto Scratch.
 
-**Online**: open a [new online Scratch project](http://rpf.io/scratchnew){:target="_blank"}.
+**Online**: apri un [nuovo progetto Scratch online](http://rpf.io/scratchnew) {:target="_blank"}.
 
-**Offline**: open a new project in the offline editor.
+**Offline**: apri un nuovo progetto nell'editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Se hai bisogno di scaricare ed installare l'editor Scratch offline, puoi trovarlo su [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+Prima coloriamo lo Stage di blu in modo che sembri una piscina.
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+Clicca su 'Stage', poi sulla scheda 'Sfondi' e infine 'Converti in Bitmap'.
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
-
-![backdrops tab and fill tool selected](images/swim-fill.png)
+![schermo scratch con stage, sfondi e converti in bitmap evidenziati](images/swim-select-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+Seleziona un colore blu e lo strumento "Riempimento con colore" e poi fai clic sullo sfondo.
 
-![delete menu selected](images/swim-delete.png)
+![scheda sfondi e strumento di riempimento selezionato](images/swim-fill.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+Utilizzerai uno sprite di gatto diverso, quindi fai clic sulla x per cancellare il gatto che cammina.
+
+![menu elimina selezionato](images/swim-delete.png)
+
+--- /task ---
+
+--- task ---
+
+Scegli lo sprite `Cat Flying` dalla libreria e aggiungilo al tuo progetto.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![Cat Flying sprite evidenziato](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+Il gatto volante sembra che stia nuotando.
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+Adesso facciamo nuotare il gatto.
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+Seleziona lo sprite 'Cat flying', fai clic su "Codice" e aggiungi il codice per far ruotare il gatto a destra e sinistra quando premi i tasti freccia sinistra e destra.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nuotatore](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -74,17 +74,17 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+Testa il tuo codice premendo i tasti freccia sinistra e destra sulla tastiera.
 
-![cat sprite rotated right](images/swim-right.png)
+![gatto sprite ruotato a destra](images/swim-right.png)
 
 --- /task ---
 
 --- task ---
 
-And add the code for the forward and backward movement.
+E aggiungi il codice per il movimento avanti e indietro.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![sprite nuotatore](images/swimmer-sprite.png)
 
 ```blocks3
 when [up arrow v] key pressed
@@ -98,6 +98,6 @@ move (-10) steps
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Prova il tuo codice nuotando intorno al palcoscenico utilizzando i tasti freccia.
 
 --- /task ---
