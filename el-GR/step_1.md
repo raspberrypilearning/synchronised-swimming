@@ -34,13 +34,13 @@
 title: Τι θα χρειαστείς
 ---
 
-### Υλικό (Hardware)
+### Υλικό
 
 + Ένας υπολογιστής ικανός να τρέχει το Scratch
 
 ### Λογισμικό
 
-+ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (είτε [σε σύνδεση](http://rpf.io/scratchon){:target="_blank"} είτε [εκτός σύνδεσης](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -50,7 +50,7 @@ title: Τι θα μάθεις
 ---
 
 - Χρήση κλώνων για τη δημιουργία πολλών αντικειμένων
-- Χρήση Συμβάντων με πλήκτρα για τη μετακίνηση των αντικειμένων
+- Χρήση συμβάντων με πλήκτρα για τη μετακίνηση των αντικειμένων
 
 --- /collapse ---
 
