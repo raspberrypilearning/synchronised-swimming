@@ -1,10 +1,10 @@
-## What next?
+## Sırada ne var?
 
-Take a look at the [Archery](https://projects.raspberrypi.org/en/projects/archery) Scratch project.
+[Okçuluk](https://projects.raspberrypi.org/en/projects/archery) Scratch projesine bir göz atın.
 
 --- no-print ---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Başlamak için yeşil bayrağa tıklayın. Bir ok atmak için boşluk tuşunu kullanın
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 --- print-only ---
 
-![complete project](images/archery-final.png)
+![tamamlanmış proje](images/archery-final.png)
 
 --- /print-only ---
