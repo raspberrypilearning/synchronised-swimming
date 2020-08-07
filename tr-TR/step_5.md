@@ -1,22 +1,22 @@
-## Music!
+## Müzik!
 
-A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
+Bir senkronize yüzme rutininin müziği olmalıdır. (Ancak sesi oynatamıyorsanız bu adımı atlayabilirsiniz.)
 
 --- task ---
 
-Choose a sound from the `Loops` category and add it to your sprite.
+`Döngüler` kategorisinden bir ses seçin ve kuklanıza ekleyin.
 
 [[[generic-scratch3-sound-from-library]]]
 
-![dance around sound selected in sounds library](images/swim-dance.png)
+![ses kütüphanesinden seçilen sesin etrafında dans et](images/swim-dance.png)
 
 --- /task ---
 
 --- task ---
 
-Now go back to 'Code' and add the blocks to play your music:
+Şimdi 'Kod'a geri dönün ve müziğinizi çalmak için blokları ekleyin:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![yüzücü kuklası](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -25,15 +25,15 @@ play sound (dance around v) until done
 end
 ```
 
-Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating.
+`Sesini başlat`{:class="block3sound"} bloğunu bir `sonsuz`{:class="block3control"} döngüye eklemek, müzik tekrar etmeye devam edecek demektir.
 
 --- /task ---
 
 --- task ---
 
-Test your project.
+Projenizi test edin.
 
-You can click on the red stop button to stop the music playing!
+Müziği durdurmak için kırmızı durdur butonuna tıklayabilirsiniz!
 
 --- /task ---
 
