@@ -1,12 +1,12 @@
-## Programmed routines
+## Routine programmate
 
-Would you like to be able to perfect a routine and easily repeat it?
+Vuoi essere in grado di perfezionare una routine e ripeterla facilmente?
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+Aggiungiamo alcune mosse da eseguire quando viene premuto il tasto spazio.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![nuotatore sprite](images/swimmer-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+Esegui il tuo progetto e premi il tasto spazio per testare la nuova routine.
 
-![sprites swimming around](images/swim-routine.png)
+![sprite che nuotano intorno](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+Prova a usare i tasti freccia per spostarti in una posizione diversa prima di premere lo spazio.
 
 --- /task ---
 
