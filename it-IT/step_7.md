@@ -1,14 +1,14 @@
-## Challenge: code your own routine
+## Sfida: crea la tua routine personale
 
-Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
+Puoi scrivere la tua routine di nuoto sincronizzato da eseguire quando viene premuto il tasto spazio o un altro tasto?
 
-Try working out a routine using the arrow keys first.
+Prova a inventare una routine utilizzando prima i tasti freccia.
 
-Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
+Usa il ciclo `ripeti`{:class="block3control"} per eseguire le stesse azioni più volte.
 
-Here's an example:
+Ecco un esempio:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![nuotatore sprite](images/swimmer-sprite.png)
 
 ```blocks3
 when [m v] key pressed
