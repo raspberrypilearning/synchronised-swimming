@@ -1,12 +1,12 @@
-## Programmed routines
+## Programlanmış rutinler
 
-Would you like to be able to perfect a routine and easily repeat it?
+Bir rutini mükemmelleştirmek ve kolayca tekrarlamak ister misiniz?
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+Haydi boşluk tuşuna basıldığında gerçekleştirilecek bazı hareketler ekleyelim.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![yüzücü kuklası](images/swimmer-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+Projenizi çalıştırın ve yeni rutini test etmek için boşluk tuşuna basın.
 
-![sprites swimming around](images/swim-routine.png)
+![etrafta yüzen kuklalar](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+Boşluğa basmadan önce farklı bir konuma geçmek için ok tuşlarını kullanmayı deneyin.
 
 --- /task ---
 
