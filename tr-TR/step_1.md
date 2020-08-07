@@ -1,70 +1,70 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+Bu, projenin **Scratch 3** versiyonudur. Ayrıca projenin bir de [Scratch 2 versiyonu](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2) bulunmaktadır.
 
 --- /no-print ---
 
-## Introduction
+## Giriş
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+Döngüler kullanarak ve klonlar oluşturarak Scratch kedisi için senkronize bir yüzme rutinini nasıl programlayacağınızı öğreneceksiniz.
 
-### What you will make
+### Ne yapacaksınız
 
 --- no-print ---
 
-Use the arrow keys to move the swimmers.
+Yüzücüleri hareket ettirmek için ok tuşlarını kullanın.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
   <img src="images/swim-final.png">
 </div>
 
-Tip: You can click on the red stop button to stop the music playing!
+İpucu: Müziğin durdurmak için kırmızı durdur butonuna tıklayabilirsiniz!
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/swim-final.png)
+![tamamlanmış proje](--- /print-only ---)
 
---- /print-only ---
+--- collapse ---
 
 --- collapse ---
 ---
-title: What you will need
+başlık: Nelere ihtiyacınız var
 ---
 
-### Hardware
+### Donanım
 
-+ A computer capable of running Scratch
++ Scratch çalıştırabilen bir bilgisayar
 
-### Software
+### Yazılım
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 'ü hem ([çevrimiçi](http://rpf.io/scratchon){:target="_blank"} hem de [çevrimdışı](http://rpf.io/scratchoff){:target="_blank"}) kullanabilirsiniz
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+başlık: Ne öğreneceksiniz
 ---
 
-- Use clones to create many sprites all the same
-- Use key pressed events to move sprites
+- Aynı anda birçok kukla oluşturmak için klonları kullanın
+- Kuklaları taşımak için 'tuşa basıldığında' olaylarını kullanın
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+başlık: Eğitimciler için ek bilgiler
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı-dostu sürüm](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print) 'ü kullanın {: target = "_ blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+Tamamlanmış projeye [buradan](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"} ulaşabilirsiniz.
 
 --- /collapse ---
