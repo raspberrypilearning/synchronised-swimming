@@ -1,70 +1,70 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+Questa è la versione **Scratch 3** del progetto. C'è anche una versione [Scratch 2 del progetto](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Introduzione
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+Imparerai come programmare una routine di nuoto sincronizzato per il gatto Scratch usando i cicli e creando cloni.
 
-### What you will make
+### Che cosa creerai
 
 --- no-print ---
 
-Use the arrow keys to move the swimmers.
+Usa i tasti freccia per muovere i nuotatori.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
   <img src="images/swim-final.png">
 </div>
 
-Tip: You can click on the red stop button to stop the music playing!
+Suggerimento: è possibile fare clic sul pulsante di arresto rosso per interrompere la riproduzione della musica!
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/swim-final.png)
+![progetto completo](images/swim-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Di cosa avrai bisogno
 ---
 
 ### Hardware
 
-+ A computer capable of running Scratch
++ Un computer in grado di eseguire Scratch
 
 ### Software
 
-+ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (o [online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Cosa imparerai
 ---
 
-- Use clones to create many sprites all the same
-- Use key pressed events to move sprites
+- Usa cloni per creare molte figure allo stesso modo
+- Usa l'evento quando si preme il tasto per spostare le figure
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informazioni aggiuntive per gli educatori
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
+Se hai bisogno di stampare questo progetto, usa la [versione stampabile](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+Puoi trovare il [progetto completo qui](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
