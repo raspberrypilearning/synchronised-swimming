@@ -1,0 +1,21 @@
+---
+title: Nuoto sincronizzato
+hero_image: images/banner.png
+description: Celebra le Olimpiadi programmando una routine di nuoto sincronizzata.
+duration: 2
+listed: true
+copyedit: true
+version: 4
+last_tested: 2019-03-21
+steps:
+  - title: Introduzione
+  - title: Nuotare a sinistra e a destra
+  - title: Cambia costume
+  - title: Crea una squadra
+  - title: Musica!
+  - title: Routine programmate
+  - title: 'Sfida: crea la tua routine personale'
+    challenge: true
+  - title: 'Sfida: cambia la squadra'
+    challenge: true
+  - title: 'E adesso?'
