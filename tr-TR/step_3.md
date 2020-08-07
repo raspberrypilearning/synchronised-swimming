@@ -1,46 +1,46 @@
-## Changing costume
+## Kostüm değiştirme
 
-Hmm, this would look better if the cat sprite changed direction when it turns left.
+Hmm, kedi kuklası sola döndüğünde yön değiştirirse daha iyi görünecek sanki.
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat flying-a' costume.
+'Kostümler'e tıklayın ve 'uçan kedi-a' kostümünü silin.
 
-![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
+![kostümler sekmesi ve kostüm üzerinde vurgulanan sil simgesi](images/swim-delete-a.png)
 
 --- /task ---
 
 --- task ---
 
-Rename the remaining costume from 'cat flying-b' to 'right'.
+Kalan kostümün adı 'uçan kedi-b'yi 'sağ' olarak yeniden adlandırın.
 
-![name right highlighted in costumes tab](images/swim-costume-right.png)
-
---- /task ---
-
---- task ---
-
-Right-click on the costume and choose duplicate to create a copy.
-
-![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
+![kostüm sekmesinde vurgulanan isim](images/swim-costume-right.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
+Kostüm üzerinde sağ tıklayın ve kostümün bir kopyasını oluşturmak için çoğalt seçeneğini tıklayın.
 
-Your costumes should look like this:
-
-![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
+![yinelemeleri vurgulanmış kostüm menüsü](images/swim-costume-duplicate.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
+Kopyayı tersine çevirmek için 'Yatay Çevir'e tıklayın ve ardından ismini 'sol' olarak yapın.
 
-![swimmer sprite](images/swimmer-sprite.png)
+Kostümünüz şöyle görünmeli:
+
+![ismi vurgulanmış, döndür simgeli ve sola bakan yeni kostüm](images/swim-costume-left.png)
+
+--- /task ---
+
+--- task ---
+
+Kodunuza dönmek için 'Kod'a tıklayın ve yön değiştiğinde kostümü değiştirmek için bloklar ekleyin.
+
+![yüzücü kuklası](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -56,8 +56,8 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Ok tuşlarını kullanıp sahne etrafında yüzerek kodunuzu test edin.
 
-![sprite facing left](images/swim-test-left.png)
+![sola bakan kukla](images/swim-test-left.png)
 
 --- /task ---
