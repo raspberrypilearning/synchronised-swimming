@@ -1,10 +1,10 @@
-## What next?
+## E adesso?
 
-Take a look at the [Archery](https://projects.raspberrypi.org/en/projects/archery) Scratch project.
+Dai un'occhiata al progetto Scratch [Tiro con l'arco](https://projects.raspberrypi.org/en/projects/archery).
 
 --- no-print ---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Clicca sulla bandierina verde per cominciare. Usa la barra spaziatrice per lanciare una freccia
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 --- print-only ---
 
-![complete project](images/archery-final.png)
+![progetto completo](images/archery-final.png)
 
 --- /print-only ---
