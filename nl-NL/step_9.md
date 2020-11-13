@@ -19,12 +19,14 @@ Klik op de groene vlag om te starten. Gebruik de spatiebalk om een pijl te schie
 
 --- /print-only ---
 
-
 ***
+
 Dit project werd vertaald door vrijwilligers:
 
 Sanneke van der Meer
 
 Robert-Jan Kempenaar
+
+Rob Smeets
 
 Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).

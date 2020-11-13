@@ -19,13 +19,13 @@ Ga nu terug naar 'Code' en voeg de blokken toe om je muziek af te spelen:
 ![zwemmer sprite](images/swimmer-sprite.png)
 
 ```blocks3
-when green flag clicked
+wanneer op de groene vlag wordt geklikt
 herhaal
 start geluid (dance around v) en wacht
 einde
 ```
 
-Door het `geluid`{:class="block3sound"} in een lus `herhaal`{:class "block3control"} te plaatsen, blijft de muziek zich herhalen.
+Door het `geluid`{:class="block3sound"} in een lus `herhaal`{:class="block3control"} te plaatsen, blijft de muziek zich herhalen.
 
 --- /task ---
 
