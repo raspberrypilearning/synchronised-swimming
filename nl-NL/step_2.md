@@ -28,7 +28,7 @@ Klik op 'Speelveld' en vervolgens op het tabblad 'Achtergronden' en 'Zet om naar
 
 --- task ---
 
-Selecteer een blauwe kleur en het gereedschap 'Vulling' en klik vervolgens op de achtergrond.
+Selecteer een blauwe kleur in het gereedschap 'Vulling' en klik vervolgens op de achtergrond.
 
 ![tabblad achtergronden en vulgereedschap geselecteerd](images/swim-fill.png)
 
@@ -36,7 +36,7 @@ Selecteer een blauwe kleur en het gereedschap 'Vulling' en klik vervolgens op de
 
 --- task ---
 
-Je gaat een andere kattensprite gebruiken, dus klik op het kruis op de lopende kat om deze te verwijderen.
+Je gaat een andere kattensprite gebruiken, dus klik op het kruis bij de lopende kat om deze te verwijderen.
 
 ![menu verwijderen geselecteerd](images/swim-delete.png)
 
@@ -56,7 +56,7 @@ De vliegende kat lijkt te kunnen zwemmen.
 
 --- task ---
 
-Laten we de kat nu laten zwemmen.
+Nu gaan we de kat laten zwemmen.
 
 Selecteer de 'Cat flying' sprite, klik op 'Code' en voeg de code toe om de kat naar links en rechts te laten draaien wanneer je op de pijltjestoetsen links en rechts drukt.
 
@@ -98,6 +98,6 @@ neem (-10) stappen
 
 --- task ---
 
-Test je code door met de pijltjestoetsen in het speelveld te zwemmen.
+Test je code door de kat met de pijltjestoetsen door het speelveld te laten zwemmen.
 
 --- /task ---

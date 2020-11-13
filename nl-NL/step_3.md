@@ -38,7 +38,7 @@ Je uiterlijken moeten er zo uitzien:
 
 --- task ---
 
-Klik op 'Code' om terug te keren naar je code en blokken toe te voegen om het uiterlijk te wijzigen wanneer de richting wordt gewijzigd.
+Klik op 'Code' om terug te keren naar je code en blokken toe te voegen om het uiterlijk te laten veranderen wanneer de richting wordt gewijzigd.
 
 ![zwemmer sprite](images/swimmer-sprite.png)
 
@@ -56,7 +56,7 @@ draai (15) graden naar rechts
 
 --- task ---
 
-Test je code door met de pijltjestoetsen in het speelveld te zwemmen.
+Test je code met de pijltjestoetsen en laat de kat in het speelveld rondzwemmen en van richting veranderen.
 
 ![sprite naar links](images/swim-test-left.png)
 

@@ -1,6 +1,6 @@
 ## Maak het team
 
-Synchroonzwemmen heeft meer dan één kat nodig! We kunnen `kloon`{:class="block3control"} gebruiken om kopieën te maken die zich op dezelfde manier gedragen.
+Om synchroon te zwemmen heb je meer dan één kat nodig! We kunnen `kloon`{:class="block3control"} gebruiken om kopieën te maken die zich op dezelfde manier gedragen.
 
 --- task ---
 
