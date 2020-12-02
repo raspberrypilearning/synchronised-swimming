@@ -40,7 +40,7 @@ title: ما ستحتاج إليه
 
 ### البرامج
 
-+ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون الإتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
++ برنامج Scratch 3 (سواء أكان [عبر الإنترنت](https://rpf.io/scratchon){:target="_blank"} أو [دون الإتصال بالإنترنت](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ title: معلومات إضافية للمعلمين
 
 --- /no-print ---
 
-يمكنك الحصول على [المشروع المكتمل من هنا](http://rpf.io/p/ar-SA/synchronised-swimming-get){:target="_blank"}.
+يمكنك الحصول على [المشروع المكتمل من هنا](https://rpf.io/p/ar-SA/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
