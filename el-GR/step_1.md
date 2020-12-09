@@ -40,7 +40,7 @@ title: Τι θα χρειαστείς
 
 ### Λογισμικό
 
-+ Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (είτε [online](https://rpf.io/scratchon){:target="_blank"} είτε [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ title: Πρόσθετες πληροφορίες για εκπαιδευτικο
 
 --- /no-print ---
 
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/el-GR/synchronised-swimming-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](https://rpf.io/p/el-GR/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---

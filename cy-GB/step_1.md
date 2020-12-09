@@ -35,7 +35,7 @@ Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 
 ## Nodau Dysgu
 + Ailadrodd (y bloc `ailadrodd`{:class="blockcontrol"}). 
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
+Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](https://rpf.io/curriculum):
 
 + [Defnyddio cystrawen iaith raglennu sylfaenol i greu rhaglenni syml](https://www.raspberrypi.org/curriculum/programming/creator)
 
