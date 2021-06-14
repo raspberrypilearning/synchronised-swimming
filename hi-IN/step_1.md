@@ -40,7 +40,7 @@ title: आपको किन चीजों की आवश्यकता �
 
 ### सॉफ्टवेयर
 
-+ Scratch 3 (भी [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफ़लाइन](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ title: शिक्षकों के लिए अतिरिक्त जा
 
 --- /no-print ---
 
-आप इधर [पूरा किया हुआ प्रोजेक्ट](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"} देख सकते हैं ।
+You can find the [completed project here](https://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
