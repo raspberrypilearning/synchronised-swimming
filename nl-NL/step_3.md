@@ -48,7 +48,7 @@ wanneer [pijltje links v] is ingedrukt
 draai (15) graden naar links
 
 wanneer [pijltje rechts v] is ingedrukt
-+ verander uiterlijk naar (right v)
++ verander uiterlijk naar (rechts v)
 draai (15) graden naar rechts
 ```
 
