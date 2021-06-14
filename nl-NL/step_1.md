@@ -40,7 +40,7 @@ title: Wat heb je nodig
 
 ### Software
 
-+ Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -61,10 +61,10 @@ title: Aanvullende informatie voor docenten
 
 --- no-print ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print) {:target="_ blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
 
 --- /no-print ---
 
-Je kunt het [voltooide project hier](http://rpf.io/p/en/synchronised-swimming-get)"{:target="_blank"} vinden.
+You can find the [completed project here](https://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
