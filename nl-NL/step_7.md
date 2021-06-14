@@ -1,4 +1,4 @@
-## Uitdaging: maak je eigen routine
+## Uitdaging: codeer je eigen routine
 
 Kun je jouw eigen gesynchroniseerde zwemroutine schrijven die moet worden uitgevoerd wanneer je op de spatiebalk of een andere toets drukt?
 
