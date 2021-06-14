@@ -40,7 +40,7 @@ title: 必要（ひつよう）なもの
 
 ### ソフトウェア
 
-+ Scratch 3（[オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"}）
++ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ title：教育者向けの追加情報
 
 --- /no-print ---
 
-[完成したプロジェクトはここ](http://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}にあります。
+You can find the [completed project here](https://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
