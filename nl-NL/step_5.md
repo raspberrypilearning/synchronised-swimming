@@ -25,7 +25,7 @@ start geluid (dance around v) en wacht
 einde
 ```
 
-Door het `geluid`{:class="block3sound"} in een lus `herhaal`{:class "block3control"} te plaatsen, blijft de muziek zich herhalen.
+Door het `geluid`{:class="block3sound"} in een lus `herhaal`{:class="block3control"} te plaatsen, blijft de muziek zich herhalen.
 
 --- /task ---
 
