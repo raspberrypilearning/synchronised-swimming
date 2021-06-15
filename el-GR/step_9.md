@@ -1,4 +1,4 @@
-## Τι υπάρχει στη συνέχεια;
+## Και τώρα;
 
 Ρίξε μια ματιά στο έργο [Τοξοβολία](https://projects.raspberrypi.org/el-GR/projects/archery).
 
