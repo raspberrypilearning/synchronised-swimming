@@ -1,6 +1,6 @@
-## Τι υπάρχει στη συνέχεια;
+## Και τώρα;
 
-Ρίξε μια ματιά στο έργο [Archery](https://projects.raspberrypi.org/en/projects/archery).
+Ρίξε μια ματιά στο έργο [Τοξοβολία](https://projects.raspberrypi.org/en/projects/archery).
 
 --- no-print ---
 
