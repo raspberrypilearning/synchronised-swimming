@@ -15,13 +15,15 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Cyflwyniad
-- title: "Nofio i'r Chwith ac i'r Dde"
+  completion: engaged
+- title: Nofio i'r Chwith ac i'r Dde
 - title: Newid gwisg
-- title: "Creu'r tîm"
+- title: Creu'r tîm
 - title: Cerddoriaeth!
-- title: "Rhaglenni'r drefn"
+  completion: internal
+- title: Rhaglenni'r drefn
 - title: 'Her: Codio dy drefn dy hunan'
 - title: 'Her: Newid y tîm'
 site_areas: projects

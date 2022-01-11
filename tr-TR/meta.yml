@@ -8,14 +8,16 @@ copyedit: true
 version: 4
 last_tested: 2019-03-21
 steps:
-  - title: Giriş
-  - title: Sağa ve sola yüzme
-  - title: Kostüm değiştirme
-  - title: Takım oluştur
-  - title: Müzik!
-  - title: Programlanmış rutinler
-  - title: 'Meydan Okuma: kendi rutininizi oluşturun'
-    challenge: true
-  - title: 'Meydan Okuma: takımı değiştir'
-    challenge: true
-  - title: 'Sırada ne var?'
+- title: Giriş
+  completion: engaged
+- title: Sağa ve sola yüzme
+- title: Kostüm değiştirme
+- title: Takım oluştur
+- title: Müzik!
+  completion: internal
+- title: Programlanmış rutinler
+- title: 'Meydan Okuma: kendi rutininizi oluşturun'
+  challenge: true
+- title: 'Meydan Okuma: takımı değiştir'
+  challenge: true
+- title: Sırada ne var?

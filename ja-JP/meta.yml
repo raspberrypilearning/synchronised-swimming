@@ -8,14 +8,16 @@ copyedit: true
 version: 4
 last_tested: 2019-03-21
 steps:
-  - title: はじめに
-  - title: 左右に泳ぐ
-  - title: コスチュームをかえる
-  - title: チームを作る
-  - title: 音楽！
-  - title: プログラムによるルーティン
-  - title: 'チャレンジ: 自分のルーティンをプログラムする'
-    challenge: true
-  - title: 'チャレンジ: チームをかえる'
-    challenge: true
-  - title: '次は何をしましょうか？'
+- title: はじめに
+  completion: engaged
+- title: 左右に泳ぐ
+- title: コスチュームをかえる
+- title: チームを作る
+- title: 音楽！
+  completion: internal
+- title: プログラムによるルーティン
+- title: 'チャレンジ: 自分のルーティンをプログラムする'
+  challenge: true
+- title: 'チャレンジ: チームをかえる'
+  challenge: true
+- title: 次は何をしましょうか？

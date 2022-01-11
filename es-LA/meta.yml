@@ -8,14 +8,16 @@ copyedit: true
 version: 4
 last_tested: 2019-03-21
 steps:
-  - title: Introducción
-  - title: Nadar a la izquierda y derecha
-  - title: Cambiando el disfraz
-  - title: Crea el equipo
-  - title: '¡Música!'
-  - title: Rutinas programadas
-  - title: 'Desafío: codifica tu propia rutina'
-    challenge: true
-  - title: 'Desafío: cambia el equipo'
-    challenge: true
-  - title: '¿Qué sigue?'
+- title: Introducción
+  completion: engaged
+- title: Nadar a la izquierda y derecha
+- title: Cambiando el disfraz
+- title: Crea el equipo
+- title: "¡Música!"
+  completion: internal
+- title: Rutinas programadas
+- title: 'Desafío: codifica tu propia rutina'
+  challenge: true
+- title: 'Desafío: cambia el equipo'
+  challenge: true
+- title: "¿Qué sigue?"
