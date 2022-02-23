@@ -8,11 +8,11 @@ Haydi bir kediyi yüzdürerek başlayalım.
 
 Yeni bir Scratch projesi açın.
 
-**Çevrimiçi:** [Yeni bir çevrimiçi Scratch projesi açın](http://rpf.io/scratchnew){:target="_blank"}.
+**Çevrimiçi:** [Yeni bir çevrimiçi Scratch projesi açın](https://rpf.io/scratchnew){:target="_blank"}.
 
 **Çevrimdışı:** çevrimdışı editörde yeni bir proje açın.
 
-Scratch çevrimdışı düzenleyicisini indirip yüklemeniz gerekirse, bunu [rpf.io/scratchoff adresinde bulabilirsiniz](http://rpf.io/scratchoff){:target="_blank"}.
+Scratch çevrimdışı düzenleyicisini indirip yüklemeniz gerekirse, bunu [rpf.io/scratchoff adresinde bulabilirsiniz](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

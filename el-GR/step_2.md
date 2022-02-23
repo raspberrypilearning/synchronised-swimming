@@ -8,11 +8,11 @@
 
 Δημιούργησε ένα νέο έργο Scratch.
 
-**Σε σύνδεση**: άνοιξε ένα [νέο online έργο Scratch](http://rpf.io/scratchnew){:target="_blank"}.
+**Σε σύνδεση**: άνοιξε ένα [νέο online έργο Scratch](https://rpf.io/scratchnew){:target="_blank"}.
 
 **Eκτός σύνδεσης**: άνοιξε ένα νέο έργο στο Scratch.
 
-Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον επεξεργαστή εκτός σύνδεσης για το Scratch, μπορείς να τον βρεις στο [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον επεξεργαστή εκτός σύνδεσης για το Scratch, μπορείς να τον βρεις στο [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

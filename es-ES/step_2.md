@@ -8,11 +8,11 @@ Comencemos haciendo nadar a un gato.
 
 Abre un nuevo proyecto en Scratch.
 
-**En línea**: abre un [nuevo proyecto Scratch en línea](http://rpf.io/scratchnew){:target="_blank"}.
+**En línea**: abre un [nuevo proyecto Scratch en línea](https://rpf.io/scratchnew){:target="_blank"}.
 
 **Sin conexión:** abre un nuevo proyecto en el editor sin conexión.
 
-Si necesita descargar e instalar el editor sin conexión de Scratch, puede encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesita descargar e instalar el editor sin conexión de Scratch, puede encontrarlo en [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

@@ -8,11 +8,11 @@
 
 新しい Scratch プロジェクトを開きます。
 
-**オンライン**: [新しいオンラインの Scratch プロジェクト](http://rpf.io/scratchnew){:target="_blank"}を開きます。
+**オンライン**: [新しいオンラインの Scratch プロジェクト](https://rpf.io/scratchnew){:target="_blank"}を開きます。
 
 **オフライン**：オフラインエディターで新しいプロジェクトを開きます。
 
-[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}から Scratch オフラインエディターをダウンロードしてインストールできます。
+[rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}から Scratch オフラインエディターをダウンロードしてインストールできます。
 
 --- /task ---
 

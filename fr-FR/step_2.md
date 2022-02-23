@@ -8,11 +8,11 @@ Commençons par faire nager un chat.
 
 Ouvre un nouveau projet Scratch.
 
-**En ligne**: ouvre un [nouveau projet Scratch en ligne](http://rpf.io/scratchnew){:target="_blank"}.
+**En ligne**: ouvre un [nouveau projet Scratch en ligne](https://rpf.io/scratchnew){:target="_blank"}.
 
 **Hors-ligne**: ouvre un nouveau projet dans l’éditeur hors-ligne.
 
-Si tu dois télécharger et installer l'éditeur hors-ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si tu dois télécharger et installer l'éditeur hors-ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 

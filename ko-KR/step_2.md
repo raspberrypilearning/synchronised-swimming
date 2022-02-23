@@ -8,11 +8,11 @@
 
 새 스크래치 프로젝트를 엽니다.
 
-**온라인**: [새로 만들기](http://rpf.io/scratchnew){:target="_blank"}를 클릭합니다.
+**온라인**: [새로 만들기](https://rpf.io/scratchnew){:target="_blank"}를 클릭합니다.
 
 **오프라인**: 오프라인 편집기에서 새 프로젝트를 엽니다.
 
-스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
 
 --- /task ---
 
