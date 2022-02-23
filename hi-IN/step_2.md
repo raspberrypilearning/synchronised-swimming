@@ -8,11 +8,11 @@
 
 एक नया Scratch प्रोजेक्ट खोलिये।
 
-**ऑनलाइन**: [नया ऑनलाइन Scratch प्रोजेक्ट](http://rpf.io/scratchnew){:target="_blank"} खोलें ।
+**ऑनलाइन**: [नया ऑनलाइन Scratch प्रोजेक्ट](https://rpf.io/scratchnew){:target="_blank"} खोलें ।
 
 **ऑफ़लाइन**: ऑफलाइन एडिटर (offline editor) में एक नया प्रोजेक्ट खोलें ।
 
-यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} पर पा सकते हैं।
+यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"} पर पा सकते हैं।
 
 --- /task ---
 

@@ -8,11 +8,11 @@ Beginnen wir damit, eine Katze schwimmen zu lassen.
 
 Erstelle ein neues Scratch-Projekt.
 
-**Online**: Öffne ein [neues online Scratch-Projekt](http://rpf.io/scratchnew){:target="_blank"}.
+**Online**: Öffne ein [neues online Scratch-Projekt](https://rpf.io/scratchnew){:target="_blank"}.
 
 **Offline**: Öffne ein neues Projekt im Offline-Editor.
 
-Wenn du den Scratch-Offline-Editor herunterladen und auf deinem Rechner installieren möchtest, findest du die Datei unter diesem Link: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn du den Scratch-Offline-Editor herunterladen und auf deinem Rechner installieren möchtest, findest du die Datei unter diesem Link: [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
