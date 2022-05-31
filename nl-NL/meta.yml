@@ -8,14 +8,18 @@ copyedit: true
 version: 4
 last_tested: 2019-03-21
 steps:
-  - title: Inleiding
-  - title: Links en rechts zwemmen
-  - title: Van uiterlijk veranderen
-  - title: Maak het team
-  - title: Muziek!
-  - title: Geprogrammeerde routines
-  - title: 'Uitdaging: codeer je eigen routine'
-    challenge: true
-  - title: 'Uitdaging: verander het team'
-    challenge: true
-  - title: 'Wat kun je verder nog doen?'
+- title: Inleiding
+- title: Links en rechts zwemmen
+- title: Van uiterlijk veranderen
+  completion:
+  - engaged
+- title: Maak het team
+- title: Muziek!
+- title: Geprogrammeerde routines
+  completion:
+  - internal
+- title: 'Uitdaging: codeer je eigen routine'
+  challenge: true
+- title: 'Uitdaging: verander het team'
+  challenge: true
+- title: Wat kun je verder nog doen?

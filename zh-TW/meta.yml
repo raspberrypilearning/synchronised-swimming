@@ -8,14 +8,18 @@ copyedit: true
 version: 4
 last_tested: 2019-03-21
 steps:
-  - title: 介紹
-  - title: 向左游、向右游
-  - title: 改變造型
-  - title: 建立隊伍
-  - title: 音樂!
-  - title: 軟體設計的舞蹈
-  - title: '挑戰：編寫屬於自己的一組舞蹈'
-    challenge: true
-  - title: '挑戰：更換隊伍'
-    challenge: true
-  - title: '然後呢？'
+- title: 介紹
+- title: 向左游、向右游
+- title: 改變造型
+  completion:
+  - engaged
+- title: 建立隊伍
+- title: 音樂!
+- title: 軟體設計的舞蹈
+  completion:
+  - internal
+- title: 挑戰：編寫屬於自己的一組舞蹈
+  challenge: true
+- title: 挑戰：更換隊伍
+  challenge: true
+- title: 然後呢？

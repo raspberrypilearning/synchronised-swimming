@@ -8,14 +8,18 @@ copyedit: true
 version: 4
 last_tested: 2019-03-21
 steps:
-  - title: المقدمة
-  - title: السباحة إلى اليسار واليمين
-  - title: تغيير المظهر
-  - title: أنشئ الفريق
-  - title: موسيقى!
-  - title: الروتينات المبرمجة
-  - title: 'تحدي: قم ببرمجة روتينك الخاص'
-    challenge: true
-  - title: 'تحدي: تغيير الفريق'
-    challenge: true
-  - title: 'ماذا بعد؟'
+- title: المقدمة
+- title: السباحة إلى اليسار واليمين
+- title: تغيير المظهر
+  completion:
+  - engaged
+- title: أنشئ الفريق
+- title: موسيقى!
+- title: الروتينات المبرمجة
+  completion:
+  - internal
+- title: 'تحدي: قم ببرمجة روتينك الخاص'
+  challenge: true
+- title: 'تحدي: تغيير الفريق'
+  challenge: true
+- title: ماذا بعد؟

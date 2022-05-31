@@ -8,14 +8,18 @@ copyedit: true
 version: 4
 last_tested: 2019-03-21
 steps:
-  - title: Introdução
-  - title: Nadando à esquerda e à direita
-  - title: Trocando de fantasia
-  - title: Crie uma equipe
-  - title: Música!
-  - title: Rotinas programadas
-  - title: 'Desafio: codifique sua própria rotina'
-    challenge: true
-  - title: 'Desafio: mude a equipe'
-    challenge: true
-  - title: 'E agora?'
+- title: Introdução
+- title: Nadando à esquerda e à direita
+- title: Trocando de fantasia
+  completion:
+  - engaged
+- title: Crie uma equipe
+- title: Música!
+- title: Rotinas programadas
+  completion:
+  - internal
+- title: 'Desafio: codifique sua própria rotina'
+  challenge: true
+- title: 'Desafio: mude a equipe'
+  challenge: true
+- title: E agora?

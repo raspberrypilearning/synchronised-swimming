@@ -1,21 +1,26 @@
 ---
 title: Συγχρονισμένη κολύμβηση
 hero_image: images/banner.png
-description: Γιόρτασε τους Ολυμπιακούς Αγώνες προγραμματίζοντας μια ρουτίνα συγχρονισμένη κολύμβησης.
+description: Γιόρτασε τους Ολυμπιακούς Αγώνες προγραμματίζοντας μια ρουτίνα συγχρονισμένη
+  κολύμβησης.
 duration: 2
 listed: true
 copyedit: true
 version: 4
 last_tested: 2019-03-21
 steps:
-  - title: Εισαγωγή
-  - title: Κολυμπώντας αριστερά και δεξιά
-  - title: Αλλαγή ενδυμασίας
-  - title: Δημιουργία ομάδας
-  - title: Μουσική!
-  - title: Προγραμματισμένες ρουτίνες
-  - title: 'Πρόκληση: δημιούργησε τη δική σου ρουτίνα'
-    challenge: true
-  - title: 'Πρόκληση: Άλλαξε την ομάδα'
-    challenge: true
-  - title: 'Και τώρα;'
+- title: Εισαγωγή
+- title: Κολυμπώντας αριστερά και δεξιά
+- title: Αλλαγή ενδυμασίας
+  completion:
+  - engaged
+- title: Δημιουργία ομάδας
+- title: Μουσική!
+- title: Προγραμματισμένες ρουτίνες
+  completion:
+  - internal
+- title: 'Πρόκληση: δημιούργησε τη δική σου ρουτίνα'
+  challenge: true
+- title: 'Πρόκληση: Άλλαξε την ομάδα'
+  challenge: true
+- title: Και τώρα;
