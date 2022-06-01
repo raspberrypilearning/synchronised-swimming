@@ -10,13 +10,15 @@ version: 4
 last_tested: 2019-03-21
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Κολυμπώντας αριστερά και δεξιά
 - title: Αλλαγή ενδυμασίας
+  completion:
+  - engaged
 - title: Δημιουργία ομάδας
 - title: Μουσική!
-  completion: internal
 - title: Προγραμματισμένες ρουτίνες
+  completion:
+  - internal
 - title: 'Πρόκληση: δημιούργησε τη δική σου ρουτίνα'
   challenge: true
 - title: 'Πρόκληση: Άλλαξε την ομάδα'

@@ -9,13 +9,15 @@ version: 4
 last_tested: 2019-03-21
 steps:
 - title: 소개
-  completion: engaged
 - title: 좌우로 수영하기
 - title: 모양 바꾸기
+  completion:
+  - engaged
 - title: 팀 만들기
 - title: 뮤직!
-  completion: internal
 - title: 안무 프로그래밍하기
+  completion:
+  - internal
 - title: '도전 과제: 나만의 안무 프로그래밍하기'
   challenge: true
 - title: '도전 과제: 팀 바꿔보기'

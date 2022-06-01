@@ -9,13 +9,15 @@ version: 4
 last_tested: 2019-03-21
 steps:
 - title: Introduzione
-  completion: engaged
 - title: Nuotare a sinistra e a destra
 - title: Cambia costume
+  completion:
+  - engaged
 - title: Crea una squadra
 - title: Musica!
-  completion: internal
 - title: Routine programmate
+  completion:
+  - internal
 - title: 'Sfida: crea la tua routine personale'
   challenge: true
 - title: 'Sfida: cambia la squadra'

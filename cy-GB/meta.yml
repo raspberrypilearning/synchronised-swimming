@@ -17,13 +17,15 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Cyflwyniad
-  completion: engaged
 - title: Nofio i'r Chwith ac i'r Dde
 - title: Newid gwisg
+  completion:
+  - engaged
 - title: Creu'r tîm
 - title: Cerddoriaeth!
-  completion: internal
 - title: Rhaglenni'r drefn
+  completion:
+  - internal
 - title: 'Her: Codio dy drefn dy hunan'
 - title: 'Her: Newid y tîm'
 site_areas: projects

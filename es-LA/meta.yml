@@ -9,13 +9,15 @@ version: 4
 last_tested: 2019-03-21
 steps:
 - title: Introducción
-  completion: engaged
 - title: Nadar a la izquierda y derecha
 - title: Cambiando el disfraz
+  completion:
+  - engaged
 - title: Crea el equipo
 - title: "¡Música!"
-  completion: internal
 - title: Rutinas programadas
+  completion:
+  - internal
 - title: 'Desafío: codifica tu propia rutina'
   challenge: true
 - title: 'Desafío: cambia el equipo'
