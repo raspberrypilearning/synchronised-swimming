@@ -14,12 +14,16 @@ steps:
     title: Sağa ve sola yüzme
   - 
     title: Kostüm değiştirme
+    completion:
+      - engaged
   - 
     title: Takım oluştur
   - 
     title: Müzik!
   - 
     title: Programlanmış rutinler
+    completion:
+      - internal
   - 
     title: 'Meydan Okuma: kendi rutininizi oluşturun'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'Meydan Okuma: takımı değiştir'
     challenge: true
   - 
-    title: 'Sırada ne var?'
+    title: Sırada ne var?
