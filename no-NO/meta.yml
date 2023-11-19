@@ -14,12 +14,16 @@ steps:
     title: Swimming left and right
   - 
     title: Changing costume
+    completion:
+      - engaged
   - 
     title: Create the team
   - 
     title: Music!
   - 
     title: Programmed routines
+    completion:
+      - internal
   - 
     title: 'Challenge: code your own routine'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'Challenge: change the team'
     challenge: true
   - 
-    title: 'What next?'
+    title: What next?
