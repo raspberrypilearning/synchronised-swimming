@@ -14,12 +14,16 @@ steps:
     title: Nager à gauche et à droite
   - 
     title: Changement de costume
+    completion:
+      - engaged
   - 
     title: Créer l'équipe
   - 
     title: Musique !
   - 
     title: Chorégraphies programmées
+    completion:
+      - internal
   - 
     title: 'Défi : coder ta propre chorégraphie'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'Défi : changer l''équipe'
     challenge: true
   - 
-    title: 'Et ensuite ?'
+    title: Et ensuite ?
