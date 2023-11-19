@@ -14,12 +14,16 @@ steps:
     title: Natação esquerda e direita
   - 
     title: Trocando de fantasia
+    completion:
+      - engaged
   - 
     title: Criar uma equipe
   - 
     title: Música!
   - 
     title: Rotinas programadas
+    completion:
+      - internal
   - 
     title: 'Desafio: codifique sua própria rotina'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'Desafio: mudar de equipe'
     challenge: true
   - 
-    title: 'E agora?'
+    title: E agora?
