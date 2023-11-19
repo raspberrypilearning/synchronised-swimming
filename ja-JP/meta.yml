@@ -14,12 +14,16 @@ steps:
     title: 左右に泳ぐ
   - 
     title: コスチュームをかえる
+    completion:
+      - engaged
   - 
     title: チームを作る
   - 
     title: 音楽！
   - 
     title: プログラムによるルーティン
+    completion:
+      - internal
   - 
     title: 'チャレンジ: 自分のルーティンをプログラムする'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'チャレンジ: チームをかえる'
     challenge: true
   - 
-    title: '次は何をしましょうか？'
+    title: 次は何をしましょうか？
