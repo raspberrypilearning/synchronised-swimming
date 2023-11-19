@@ -14,12 +14,16 @@ steps:
     title: बाएं और दाएं तैरना
   - 
     title: वेशभूषा बदलना
+    completion:
+      - engaged
   - 
     title: टीम बनाएं
   - 
     title: संगीत!
   - 
     title: प्रोग्राम की गई रूटीन 
+    completion:
+      - internal
   - 
     title: 'चुनौती: अपनी खुद की रूटीन कोड'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'चुनौती: टीम बदलो'
     challenge: true
   - 
-    title: 'आगे क्या है?'
+    title: आगे क्या है?
