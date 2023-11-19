@@ -14,12 +14,16 @@ steps:
     title: Nadar a la izquierda y derecha
   - 
     title: Cambio de vestuario
+    completion:
+      - engaged
   - 
     title: Crea el equipo
   - 
     title: '¡Música!'
   - 
     title: Rutinas programadas
+    completion:
+      - internal
   - 
     title: 'Desafío: codifica tu propia rutina'
     challenge: true
