@@ -1,46 +1,46 @@
-## Changing costume
+## Зміна образу
 
-Hmm, this would look better if the cat sprite changed direction when it turns left.
+Гм, було б краще, якби спрайт кота змінював напрямок, коли він повертається ліворуч.
 
 --- task ---
 
-Click on 'Costumes' and delete the 'cat flying-a' costume.
+Клацни на «Образи» і видали образ «cat flying-a».
 
-![costumes tab and delete icon highlighted on costume](images/swim-delete-a.png)
+![вкладка образів із виділеною кнопкою видалення образу](images/swim-delete-a.png)
 
 --- /task ---
 
 --- task ---
 
-Rename the remaining costume from 'cat flying-b' to 'right'.
+Перейменуй образ, що залишився із «cat flying-b» в «праворуч».
 
-![name right highlighted in costumes tab](images/swim-costume-right.png)
-
---- /task ---
-
---- task ---
-
-Right-click on the costume and choose duplicate to create a copy.
-
-![costume menu with duplicate highlighted](images/swim-costume-duplicate.png)
+![ім’я «праворуч» виділено у вкладці образів](images/swim-costume-right.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Flip Horizontal' to reverse the copy and then name it 'left'.
+Клацни правою кнопкою мишки по цьому образу і вибери «дублювати», щоб створити його копію.
 
-Your costumes should look like this:
-
-![new costume facing left with flip icon and name highlighted](images/swim-costume-left.png)
+![меню образів із виділеним пунктом «дублювати»](images/swim-costume-duplicate.png)
 
 --- /task ---
 
 --- task ---
 
-Click 'Code' to return to your code and add blocks to change the costume when the direction is changed.
+Клацни «Право-ліво», щоб віддзеркалити цю копію і назви її «ліворуч».
 
-![swimmer sprite](images/swimmer-sprite.png)
+Твої образи мають виглядати так:
+
+![новий образ направлений ліворуч із виділеними іменем та кнопкою віддзеркалення](images/swim-costume-left.png)
+
+--- /task ---
+
+--- task ---
+
+Клацни «Код» для повернення до своєї програми і додай блоки для зміни образу разом зі зміною напряму.
+
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -56,8 +56,8 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Протестуй свій код, плаваючи по сцені за допомогою клавіш.
 
-![sprite facing left](images/swim-test-left.png)
+![повернутий вліво спрайт](images/swim-test-left.png)
 
 --- /task ---
