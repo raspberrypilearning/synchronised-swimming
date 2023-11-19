@@ -14,12 +14,16 @@ steps:
     title: Nach links und rechts schwimmen
   - 
     title: Kostüm wechseln
+    completion:
+      - engaged
   - 
     title: Erstelle das Team
   - 
     title: Musik!
   - 
     title: Programmierte Routinen
+    completion:
+      - internal
   - 
     title: 'Herausforderung: Programmiere deine eigene Routine'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'Herausforderung: Ändere das Team'
     challenge: true
   - 
-    title: 'Wie geht es weiter?'
+    title: Wie geht es weiter?
