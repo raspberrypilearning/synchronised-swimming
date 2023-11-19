@@ -40,7 +40,7 @@ title: Ce dont tu auras besoin
 
 ### Logiciel
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3 (soit [en ligne](https://rpf.io/scratchon){:target="_blank"} soit [hors-ligne](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -65,6 +65,6 @@ Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimabl
 
 --- /no-print ---
 
-You can find the [completed project here](https://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+Vous pouvez trouver le [projet terminé ici](https://rpf.io/p/fr-FR/synchronised-swimming-get){:target="_blank"}.
 
 --- /collapse ---
