@@ -1,12 +1,12 @@
-## Create the team
+## Створення команди
 
-Synchronised swimming needs more than one cat! We can use `create clone of`{:class="block3control"} to create copies that behave in the same way.
+Для синхронного плавання треба більше одного кота! Ми можемо використати `створити клон з`{:class="block3control"}, щоб створити копії, які поводитимуться однаково.
 
 --- task ---
 
-First let's add code to make sure the cat always starts in the same position when you click the green flag.
+Спочатку давай додамо деякий код, щоб переконатися, що кіт завжди починає з однакової точки, коли ти клацаєш зелений прапор.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -18,15 +18,15 @@ point in direction (90 v)
 
 --- task ---
 
-Test your code by pressing some arrow keys and then clicking the green flag to return to the start position.
+Протестуй свій код, натискаючи на клавіші зі стрілками, а потім натиснувши зелений прапор для повернення до початкової позиції.
 
 --- /task ---
 
 --- task ---
 
-Now we can use a `repeat`{:class="block3control"} loop to create 6 clones (copies) of the cat.
+Тепер ми можемо використовувати цикл `повторити` для створення 6 клонів (копій) кота.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -37,17 +37,17 @@ create clone of (myself v)
 end
 ```
 
-Loops are used to do the same thing multiple times.
+Цикли використовуються, щоб виконувати однакові дії багато разів.
 
 --- /task ---
 
 --- task ---
 
-You don't want all the cats to be in the same position!
+Не треба, щоб всі коти починали з однакової позиції!
 
-Add code to rotate 60 degrees before creating each clone.
+Додай код для повороту на 60 градусів перед створенням кожного клону.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -63,8 +63,8 @@ end
 
 --- task ---
 
- Test your code by using the arrow keys. You should be able to create some amazing synchronised swimming patterns!
+ Протестуй свою програму за допомогою клавіш зі стрілками. Ти можеш створювати чудові фігури синхронного плавання!
 
-![6 cat sprites all in different positions and rotations](images/swim-test-clones.png)
+![6 котів в різних положеннях та з різними поворотами](images/swim-test-clones.png)
 
 --- /task ---
