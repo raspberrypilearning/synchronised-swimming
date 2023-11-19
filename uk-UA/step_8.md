@@ -1,23 +1,23 @@
-## Challenge: change the team
+## Завдання: зміни команду
 
-Can you change the number of swimmers in the team? Synchronised swimming teams usually have eight members but can have as few as four.
+Чи можеш ти змінити кількість плавців у команді? Команди для синхронного плавання як правило мають по вісім учасників, але їх кількість може бути й чотири.
 
-![8 cat swimmers in the team](images/swim-eight.png)
+![8 котів-плавців в команді](images/swim-eight.png)
 
 --- hints ---
 
 --- hint ---
 
-As well as changing the number of swimmers you'll need to change their starting position.
+Разом зі зміною кількості учасників тобі треба буде змінити і їхні стартові позиції.
 
 --- /hint ---
 
 --- hint ---
 
-360 divided by 8 is 45; 360 divided by 4 is 90.
+360 поділити на 8 буде 45, 360 поділити на 4 буде 90.
 
 --- /hint ---
 
 --- /hints ---
 
-You could also change the sprite that you use. 
+Такожи ти можеш замінити спрайт. 
