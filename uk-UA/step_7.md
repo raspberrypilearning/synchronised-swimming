@@ -1,14 +1,14 @@
-## Challenge: code your own routine
+## Завдання: твоя власна фігура
 
-Can you write your own synchronised swimming routine to be performed when you press the space key or another key?
+Чи можеш ти створити власну фігуру синхронного плавання, яка буде виконуватися при натисканні клавіші пропуск, або якоїсь іншої?
 
-Try working out a routine using the arrow keys first.
+Спочатку спробуй потренувати фігуру за допомогою клавіш з стрілками.
 
-Use `repeat`{:class="block3control"} loops to perform the same actions multiple times.
+Використовуй блоки `повторити`{:class="block3control"}, щоб виконувати однакові дії декілька разів.
 
-Here's an example:
+Наприклад:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when [m v] key pressed
