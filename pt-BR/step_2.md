@@ -8,11 +8,11 @@ Vamos começar fazendo um gato nadar.
 
 Abra um projeto novo Scratch.
 
-**Online**: abra um [novo projeto do Scratch online](http://rpf.io/scratchnew) {: target = "_ blank"}.
+**Online**: open a [new online Scratch project](https://rpf.io/scratchnew){:target="_blank"}.
 
 **Offline**: abra um novo projeto no editor offline.
 
-Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
