@@ -14,12 +14,16 @@ steps:
     title: Nuotare a sinistra e a destra
   - 
     title: Cambiare costume
+    completion:
+      - engaged
   - 
     title: Crea una squadra
   - 
     title: Musica!
   - 
     title: Routine programmate
+    completion:
+      - internal
   - 
     title: 'Sfida: crea la tua routine'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'Sfida: cambia la squadra'
     challenge: true
   - 
-    title: 'E adesso?'
+    title: E adesso?
