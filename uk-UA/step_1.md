@@ -1,70 +1,70 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
+Це — версія проєкту для **Скретч 3**. Також існує [версія проєкту для Скретч 2](https://projects.raspberrypi.org/en/projects/synchronised-swimming-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Вступ
 
-You are going to learn how to program a synchronised swimming routine for Scratch the cat by using loops and creating clones.
+Ти навчишся програмувати фігури синхронного плавання для кота зі Скретчу за допомогою циклів та створення клонів.
 
-### What you will make
+### Що ти зробиш
 
 --- no-print ---
 
-Use the arrow keys to move the swimmers.
+Використовуй клавіші зі стрілками для того, щоб керувати плавцями.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/113149575/?autostart=false" frameborder="0" scrolling="no">></iframe>
   <img src="images/swim-final.png">
 </div>
 
-Tip: You can click on the red stop button to stop the music playing!
+Порада: ти можеш натиснути на червону кнопку "Стоп", щоб зупинити музику!
 
 --- /no-print ---
 
 --- print-only ---
 
-![complete project](images/swim-final.png)
+![завершений проєкт](images/swim-final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Що тобі знадобиться
 ---
 
-### Hardware
+### Обладнання
 
-+ A computer capable of running Scratch
++ Комп'ютер, що підтримує Скретч
 
-### Software
+### Програмне забезпечення
 
-+ Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
++ Скретч 3 ([онлайн](https://rpf.io/scratchon){:target="_blank"} або [офлайн](https://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Чого ти навчишся
 ---
 
-- Use clones to create many sprites all the same
-- Use key pressed events to move sprites
+- Використовувати клони, щоб створювати багато однакових персонажів
+- Обробляти натискання клавіш, щоб переміщувати спрайти
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Додаткова інформація для викладачів
 ---
 
 --- no-print ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/synchronised-swimming/print){:target="_blank"}.
 
 --- /no-print ---
 
-You can find the [completed project here](https://rpf.io/p/en/synchronised-swimming-get){:target="_blank"}.
+Ви можете знайти [завершений проєкт тут](https://rpf.io/p/en/synchronised-swimming-get){:target="_ blank"}.
 
 --- /collapse ---
