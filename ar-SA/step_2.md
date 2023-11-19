@@ -8,11 +8,11 @@
 
 افتح مشروع فارغ جديد في Scratch.
 
-**متصل بالإنترنت**: افتح [مشروع سكراتش جديد](http://rpf.io/scratchnew) {:target="_blank"}.
+**Online**: open a [new online Scratch project](https://rpf.io/scratchnew){:target="_blank"}.
 
 **دون اتصال بالإنترنت**: افتح مشروع سكراتش جديد عبر المحرر الموجود على جهازك دون اتصال بالإنترنت.
 
-اذا كنت بحاجة إلى تنزيل وتنصيب محرر سكراتش الذي يعمل دون الإتصال بالإنترنت، يمكنك العثور عليه في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
