@@ -14,12 +14,16 @@ steps:
     title: Links en rechts zwemmen
   - 
     title: Van uiterlijk veranderen
+    completion:
+      - engaged
   - 
     title: Maak het team
   - 
     title: Muziek!
   - 
     title: Geprogrammeerde routines
+    completion:
+      - internal
   - 
     title: 'Uitdaging: codeer je eigen routine'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'Uitdaging: verander het team'
     challenge: true
   - 
-    title: 'Wat kun je verder nog doen?'
+    title: Wat kun je verder nog doen?
