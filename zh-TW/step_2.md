@@ -8,11 +8,11 @@
 
 建立一個新的 Scratch 專案。
 
-**線上版**: 開啟一個[新的線上Scratch專案](http://rpf.io/scratchnew){:target="_blank"}.
+**Online**: open a [new online Scratch project](https://rpf.io/scratchnew){:target="_blank"}.
 
 **離線版**: 在離線編輯器開啟新專案。
 
-如果你需要下載 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
