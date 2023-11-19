@@ -1,66 +1,66 @@
-## Swimming left and right
+## Плавання ліворуч та праворуч
 
-In synchronised swimming a team of swimmers perform a coordinated routine of moves to music.
+В синхронному плаванні команда плавців одночасно виконує фігури під музику.
 
-Let's start by getting one cat swimming.
+Давай почнемо з того, щоб навчити одного кота плавати.
 
 --- task ---
 
-Open a new Scratch project.
+Відкрий новий проєкт Скретч.
 
-**Online**: open a [new online Scratch project](https://rpf.io/scratchnew){:target="_blank"}.
+**Онлайн**: відкрий [новий онлайн проєкт Скретч](https://rpf.io/scratchnew){:target="_blank"}.
 
-**Offline**: open a new project in the offline editor.
+**Офлайн**: відкрий новий проєкт в офлайн-редакторі.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
+Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, то ти можеш його знайти на [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 --- /task ---
 
-First let's turn the stage blue so it looks like a swimming pool.
+Спочатку давай зробимо сцену блакитною, щоб вона виглядала як басейн.
 
 --- task ---
 
-Click on the 'Stage' and then the 'Backdrops' Tab and 'Convert to Bitmap'.
+Клацни на «Сцена», а далі — вкладку «Тло» і натисни «У растрове».
 
-![scratch screen with stage, backdrops and convert to bitmap highlighted](images/swim-select-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Select a blue colour and the 'Fill with color' tool and then click on the backdrop.
-
-![backdrops tab and fill tool selected](images/swim-fill.png)
+![екран Скретч із виділеною сценою, тлом та кнопкою «У растрове»](images/swim-select-backdrop.png)
 
 --- /task ---
 
 --- task ---
 
-You're going to use a different cat sprite so click on the cross on the walking cat to delete it.
+Вибери блакитний колір та інструмент «Заповнення», а далі клацни на тло.
 
-![delete menu selected](images/swim-delete.png)
+![вибрані вкладка тла та інструмент «Заповнення»](images/swim-fill.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the `Cat Flying` sprite from the library and add it to your project.
+Ти будеш використовувати інший спрайт кота, тому клацни на хрест на коті, що ходить, щоб його видалити.
+
+![виділений пункт меню видалення](images/swim-delete.png)
+
+--- /task ---
+
+--- task ---
+
+Вибери спрайт `Cat Flying` із бібліотеки і додай його до свого проєкту.
 
 [[[generic-scratch3-sprite-from-library]]]
 
-![Cat Flying sprite highlighted](images/swim-sprite.png)
+![Виділений спрайт Cat Flying](images/swim-sprite.png)
 
-The flying cat looks like it could be swimming.
+Схоже, що цей летючий кіт може й плавати.
 
 --- /task ---
 
 --- task ---
 
-Now let's get the cat swimming.
+Давай-но зробимо, щоб кіт плавав.
 
-Select the 'Cat flying' sprite, click 'Code' and add the code to make the cat rotate left and right when you press the left and right arrow keys.
+Вибери спрайт "Cat Flying", клацни "Код" і додай програму, щоб кіт повертався ліворуч та праворуч, коли ти натискаєш клавіші із відповідними стрілками.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when [left arrow v] key pressed
@@ -74,17 +74,17 @@ turn cw (15) degrees
 
 --- task ---
 
-Test your code by pressing the left and right arrow keys on the keyboard.
+Протестуй свій код, натискаючи на клавіші зі стрілками вліво та вправо.
 
-![cat sprite rotated right](images/swim-right.png)
+![спрайт кота повернутий вправо](images/swim-right.png)
 
 --- /task ---
 
 --- task ---
 
-And add the code for the forward and backward movement.
+Також додай наступний код для руху вперед та назад.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when [up arrow v] key pressed
@@ -98,6 +98,6 @@ move (-10) steps
 
 --- task ---
 
-Test your code by swimming around the stage using the arrow keys.
+Протестуй свій код, плаваючи по сцені за допомогою клавіш.
 
 --- /task ---
