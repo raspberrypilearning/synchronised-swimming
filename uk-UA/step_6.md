@@ -1,12 +1,12 @@
-## Programmed routines
+## Програмування фігур
 
-Would you like to be able to perfect a routine and easily repeat it?
+Ти хочеш створити завершену фігуру і легко її повторювати?
 
 --- task ---
 
-Let's add some moves to be performed when the space key is pressed.
+Давай додамо рухи, які будуть повторюватися при натисканні клавіші пропуск.
 
-![swimmer sprite](images/swimmer-sprite.png)
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when [space v] key pressed
@@ -21,11 +21,11 @@ end
 
 --- task ---
 
-Run your project and press the space key to test the new routine.
+Запусти свій проєкт і натисни клавішу пропуск для тестування нової фігури.
 
-![sprites swimming around](images/swim-routine.png)
+![спрайти, що плавають по колу](images/swim-routine.png)
 
-Try using the arrow keys to move to a different position before pressing space.
+Спробуй перейти за допомогою стрілок в інше положення перед натисканням пропуску.
 
 --- /task ---
 
