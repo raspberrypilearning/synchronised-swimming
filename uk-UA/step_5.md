@@ -1,22 +1,22 @@
-## Music!
+## Музика!
 
-A synchronised swimming routine needs music. (But, if you can't play sound then you can skip this step.)
+Для фігур синхронного плавання потрібна музика. (Але якщо ти не маєш можливості відтворювати звук, можеш пропустити цей крок.)
 
 --- task ---
 
-Choose a sound from the `Loops` category and add it to your sprite.
+Вибери звук із розділу `Фрагменти` і додай його до свого спрайту.
 
 [[[generic-scratch3-sound-from-library]]]
 
-![dance around sound selected in sounds library](images/swim-dance.png)
+![звук «dance around», вибраний в бібліотеці звуків](images/swim-dance.png)
 
 --- /task ---
 
 --- task ---
 
-Now go back to 'Code' and add the blocks to play your music:
+Тепер повернися в «Код» і додай блоки для відтворення музики:
 
-![swimmer sprite](images/swimmer-sprite.png)
+![спрайт плавця](images/swimmer-sprite.png)
 
 ```blocks3
 when green flag clicked
@@ -25,15 +25,15 @@ play sound (dance around v) until done
 end
 ```
 
-Putting the `play sound`{:class="block3sound"} inside a `forever`{:class="block3control"} loop means the music will keep repeating.
+Те, що блок `відтворити звук`{:class="block3sound"} знаходиться всередині циклу `завжди`{:class="block3control"}, означає, що музика буде повторюватися.
 
 --- /task ---
 
 --- task ---
 
-Test your project.
+Протестуй свій проєкт.
 
-You can click on the red stop button to stop the music playing!
+Ти можеш клацнути на червону кнопку «Стоп», щоб зупинити музику!
 
 --- /task ---
 
