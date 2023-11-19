@@ -1,10 +1,10 @@
-## What next?
+## Що далі?
 
-Take a look at the [Archery](https://projects.raspberrypi.org/en/projects/archery) Scratch project.
+Поглянь на проєкт Скретч [Стрільба з лука](https://projects.raspberrypi.org/en/projects/archery).
 
 --- no-print ---
 
-Click on the green flag to start. Use the space bar to shoot an arrow
+Натисни на зелений прапор для запуску. Використовуй клавішу пропуску для пострілу
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114760038/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the space bar to shoot an arrow
 
 --- print-only ---
 
-![complete project](images/archery-final.png)
+![завершений проєкт](images/archery-final.png)
 
 --- /print-only ---
