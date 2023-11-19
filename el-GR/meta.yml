@@ -14,12 +14,16 @@ steps:
     title: Κολυμπώντας αριστερά και δεξιά
   - 
     title: Αλλαγή ενδυμασίας
+    completion:
+      - engaged
   - 
     title: Δημιουργία ομάδας
   - 
     title: Μουσική!
   - 
     title: Προγραμματισμένες ρουτίνες
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: δημιούργησε τη δική σου ρουτίνα'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'Πρόκληση: Άλλαξε την ομάδα'
     challenge: true
   - 
-    title: 'Και τώρα;'
+    title: Και τώρα;
