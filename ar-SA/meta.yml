@@ -14,12 +14,16 @@ steps:
     title: السباحة إلى اليسار واليمين
   - 
     title: تغيير المظهر
+    completion:
+      - engaged
   - 
     title: أنشئ الفريق
   - 
     title: الموسيقى!
   - 
     title: الروتينات المبرمجة
+    completion:
+      - internal
   - 
     title: 'تحدي: قم ببرمجة روتينك الخاص'
     challenge: true
@@ -27,4 +31,4 @@ steps:
     title: 'تحدي: تغيير الفريق'
     challenge: true
   - 
-    title: 'ماذا بعد؟'
+    title: ماذا بعد؟
