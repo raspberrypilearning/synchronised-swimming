@@ -22,6 +22,5 @@ steps:
   challenge: true
 - title: 'Challenge: change the team'
   challenge: true
-- title: What next?
   completion:
   - external
